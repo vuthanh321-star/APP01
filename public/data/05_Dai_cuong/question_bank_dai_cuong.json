@@ -1,0 +1,3046 @@
+{
+  "metadata": {
+    "subject": "Đại Cương",
+    "language": "vi",
+    "version": "1.0",
+    "total_questions": 147,
+    "exam_type": "Medical School Entrance (Cao học Y khoa)",
+    "created_date": "2026-07-19",
+    "last_updated": "2026-07-19",
+    "question_types": [
+      "true_false",
+      "multiple_choice",
+      "case_study"
+    ],
+    "chapters_count": 30
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_name": "Về đặc điểm thay cũ đổi mới",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 1,
+          "question_text": "Đặc điểm thay cũ đổi mới bao gồm quá trình đồng hóa và dị hóa.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_text": "Quá trình đồng hóa lấy năng lượng dùng cho các hoạt động cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_text": "Sản phẩm của quá trình dị hóa là năng lượng và các chất cần thải ra ngoài.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 4,
+          "question_text": "Rối loạn hai quá trình đồng hóa và dị hóa sẽ gây ra bệnh chuyển hóa.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_name": "Tính hưng phấn và tính chịu kích thích",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 5,
+          "question_text": "Hưng phấn là khả năng của cơ thể đáp ứng lại kích thích.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 6,
+          "question_text": "Co cơ hay bài tiết của các tuyến không phải là hưng phấn.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 7,
+          "question_text": "Cường độ kích thích nhỏ nhất gây ra đáp ứng là ngưỡng kích thích.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 8,
+          "question_text": "Cường độ ngưỡng của dòng điện một chiều gọi là Rheobase (R).",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_name": "Tính sinh sản giống mình",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 9,
+          "question_text": "Tính sinh sản giống mình là đặc điểm của sinh vật để tồn tại và phát triển.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 10,
+          "question_text": "Từ một tế bào sinh ra ba tế bào.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 11,
+          "question_text": "Tính sinh sản giống mình là để phát triển cơ thể và thay thế các tế bào cũ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 12,
+          "question_text": "Sự kết hợp giữa giao tử đực và giao tử cái để duy trì nòi giống.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_name": "Về dịch nội bào",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 13,
+          "question_text": "Cơ thể trưởng thành nặng 70 kg có khoảng 28 lít dịch nội bào.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 14,
+          "question_text": "Cơ thể trưởng thành, nặng 70 kg có khoảng 5 lít huyết tương.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 15,
+          "question_text": "Dịch nội bào nhiều protein, ion âm hơn dịch ngoại bào.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 16,
+          "question_text": "Thành phần dịch nội bào khác dịch ngoại bào là do màng tế bào.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_name": "Về dịch ngoại bào",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 17,
+          "question_text": "Thành phần dịch ngoại bào luôn được đảm bảo ổn định.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 18,
+          "question_text": "Dịch ngoại bào cung cấp các chất cho tế bào hoạt động.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 19,
+          "question_text": "Người trưởng thành, nặng 70 kg có khoảng 20 lít dịch ngoại bào.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 20,
+          "question_text": "Dịch ngoại bào được thay đổi chủ yếu là do hệ bạch huyết.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_name": "Hằng tính nội môi",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 21,
+          "question_text": "Hằng tính nội môi là sự ổn định các chất chỉ có trong dịch nội bào.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 22,
+          "question_text": "Hằng tính nội môi là sự ổn định các chất của nội môi (theo sgk).",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 23,
+          "question_text": "Hằng tính nội môi là điều kiện để các tế bào, cơ quan, hệ thống cơ quan hoạt động bình thường.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 24,
+          "question_text": "Hằng tính nội môi là thành phần có trong nội môi không được đổi mới (sai theo sgk).",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_name": "Nhiệt độ trung tâm được đo ở",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 25,
+          "question_text": "Nhiệt độ trung tâm được đo ở miệng.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 26,
+          "question_text": "Nhiệt độ trung tâm được đo ở nách.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 27,
+          "question_text": "Nhiệt độ trung tâm được đo ở ống tai ngoài.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 28,
+          "question_text": "Nhiệt độ trung tâm được đo ở trực tràng.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "chapter_name": "Nhiệt độ da là",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 29,
+          "question_text": "Nhiệt độ da là trung bình cộng các giá trị đo được ở nhiều vị trí trên da.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 30,
+          "question_text": "Nhiệt độ da là giá trị đo được ở vùng da hở có tính đến hệ số diện tích của vùng da được đo so với toàn cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 31,
+          "question_text": "Nhiệt độ da là trung bình cộng các giá trị đo được ở vùng da hở và da kín.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 32,
+          "question_text": "Nhiệt độ da là giá trị đo được ở nhiều vùng da và có tính đến hệ số diện tích vùng da được đo so với toàn cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "chapter_name": "Cơ thể chống lạnh bằng cách",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 33,
+          "question_text": "Cơ thể chống lạnh bằng cách tăng chuyển hóa để sinh nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 34,
+          "question_text": "Cơ thể chống lạnh bằng cách hạn chế run cơ để tiết kiệm năng lượng.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 35,
+          "question_text": "Cơ thể chống lạnh bằng cách giảm thông khí phổi để giảm nhiệt (sgk không có cơ chế này nên sai).",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 36,
+          "question_text": "Cơ thể chống lạnh bằng cách co cơ dựng lông để tăng sinh nhiệt trong vận cơ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "chapter_name": "Quá trình sinh nhiệt",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 37,
+          "question_text": "Quá trình sinh nhiệt: Nhiệt sinh ra chủ yếu từ các phản ứng chuyển hóa trong cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 38,
+          "question_text": "Quá trình sinh nhiệt: Vận cơ, điều nhiệt, tiêu hóa đều sinh nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 39,
+          "question_text": "Quá trình sinh nhiệt: Nhiệt không được sinh ra khi chuyển hóa ở mức cơ sở.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 40,
+          "question_text": "Quá trình sinh nhiệt: Quá trình sinh nhiệt luôn cân bằng với quá trình thải nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "chapter_name": "Cung phản xạ điều nhiệt",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 41,
+          "question_text": "Cung phản xạ điều nhiệt: Có receptor phân bố ở da, mạch, nội tạng.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 42,
+          "question_text": "Cung phản xạ điều nhiệt: Có đường truyền vào qua hai nơ ron.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 43,
+          "question_text": "Cung phản xạ điều nhiệt: Có trung tâm ở vỏ não cảm giác.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 44,
+          "question_text": "Cung phản xạ điều nhiệt: Cơ quan đáp ứng chỉ nằm ở da và mạch máu.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "chapter_name": "Về điều hòa thân nhiệt",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 45,
+          "question_text": "Điều hòa thân nhiệt là duy trì nhiệt độ cơ thể ở một giá trị cố định trong mọi thời điểm.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 46,
+          "question_text": "Điều hòa thân nhiệt nhằm mục đích ổn định tốc độ chuyển hóa trong cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 47,
+          "question_text": "Điều hòa thân nhiệt là hoạt động chỉ có ở loài người.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 48,
+          "question_text": "Khi hoạt động điều nhiệt rối loạn thì sẽ làm nhiệt độ cơ thể thay đổi.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 13,
+      "chapter_name": "Truyền nhiệt trực tiếp",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 49,
+          "question_text": "Truyền nhiệt trực tiếp là cách thải nhiệt hiệu quả khi cơ thể tiếp xúc với một vật chênh lệch nhiệt độ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 50,
+          "question_text": "Truyền nhiệt trực tiếp: Lượng nhiệt thải phụ thuộc vào chênh lệch nhiệt độ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 51,
+          "question_text": "Truyền nhiệt trực tiếp: Lượng nhiệt thải phụ thuộc vào diện tích tiếp xúc.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 52,
+          "question_text": "Truyền nhiệt trực tiếp: Lượng nhiệt thải không phụ thuộc vào thời gian tiếp xúc.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 14,
+      "chapter_name": "Truyền nhiệt đối lưu",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 53,
+          "question_text": "Truyền nhiệt đối lưu là cách thải nhiệt hiệu quả khi cơ thể tiếp xúc với không khí chênh lệch nhiệt độ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 54,
+          "question_text": "Truyền nhiệt đối lưu: Lượng nhiệt thải phụ thuộc vào độ ẩm không khí.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 55,
+          "question_text": "Truyền nhiệt đối lưu: Lượng nhiệt thải phụ thuộc vào chênh lệch nhiệt độ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 56,
+          "question_text": "Truyền nhiệt đối lưu: Lượng nhiệt thải không phụ thuộc vào tốc độ gió.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 15,
+      "chapter_name": "Truyền nhiệt bức xạ",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 57,
+          "question_text": "Truyền nhiệt bức xạ là cách thải nhiệt hiệu quả nhất trong các hình thức thải nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 58,
+          "question_text": "Truyền nhiệt bức xạ: Lượng nhiệt thải không phụ thuộc vào khoảng cách giữa các vật trao đổi nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 59,
+          "question_text": "Truyền nhiệt bức xạ: Màu tối ít hấp thụ nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 60,
+          "question_text": "Truyền nhiệt bức xạ: Màu sáng hấp thụ nhiều nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 16,
+      "chapter_name": "Truyền nhiệt bằng bay hơi nước",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 61,
+          "question_text": "Truyền nhiệt bằng bay hơi nước là cách truyền nhiệt hiệu quả trong mọi điều kiện môi trường.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 62,
+          "question_text": "Truyền nhiệt bằng bay hơi nước gồm bay hơi nước qua da và qua hô hấp (sai theo sgk).",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 63,
+          "question_text": "Truyền nhiệt bằng bay hơi nước là phương thức quan trọng vì nó diễn ra thường xuyên.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 64,
+          "question_text": "Truyền nhiệt bằng bay hơi nước thải được 580Kcal khi bay hơi 1 lít nước.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 17,
+      "chapter_name": "Receptor của cung phản xạ điều nhiệt",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 65,
+          "question_text": "Receptor của cung phản xạ điều nhiệt: Tất cả receptor nhiệt đều được phân bố ở dưới da.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 66,
+          "question_text": "Receptor của cung phản xạ điều nhiệt: Một receptor có thể bị kích thích khi gặp nóng hoặc lạnh.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 67,
+          "question_text": "Receptor của cung phản xạ điều nhiệt: Nhiều receptor bị kích thích mới gây ra một phản xạ điều nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 68,
+          "question_text": "Receptor của cung phản xạ điều nhiệt: Receptor bị kích thích ở bất kỳ nhiệt độ nào khác 37oC.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 18,
+      "chapter_name": "Cơ quan đáp ứng của cung phản xạ điều nhiệt",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 69,
+          "question_text": "Cơ quan đáp ứng của cung phản xạ điều nhiệt là tất cả các tế bào trong cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 70,
+          "question_text": "Cơ quan đáp ứng của cung phản xạ điều nhiệt bao gồm cả hệ thống hô hấp.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 71,
+          "question_text": "Cơ quan đáp ứng của cung phản xạ điều nhiệt không bao gồm một số tuyến nội tiết.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 72,
+          "question_text": "Cơ quan đáp ứng của cung phản xạ điều nhiệt đáp ứng như nhau với mọi kích thích nhiệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 19,
+      "chapter_name": "Vai trò của glucid, lipid, protid",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 73,
+          "question_text": "Vai trò của protid (P) là chất cung cấp năng lượng nhiều nhất cho cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 74,
+          "question_text": "Vai trò của glucid (G) là chất cung cấp năng lượng chủ yếu cho cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 75,
+          "question_text": "Vai trò của lipid (L) là dung môi hòa tan các vitamin A, D, E, K.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 76,
+          "question_text": "Vai trò của G, L, P là các chất tham gia cấu tạo cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 20,
+      "chapter_name": "Các dạng năng lượng trong cơ thể",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 77,
+          "question_text": "Động năng là dạng năng lượng cơ bản trong cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 78,
+          "question_text": "Nhiệt năng là dạng năng lượng thường xuyên được đào thải ra khỏi cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 79,
+          "question_text": "Năng lượng sinh công điện chỉ có ở cơ và thần kinh.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 80,
+          "question_text": "Cơ thể nhận năng lượng bên ngoài dưới dạng hóa năng của thức ăn.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 21,
+      "chapter_name": "Các dạng tồn tại của glucid trong cơ thể",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 81,
+          "question_text": "Dạng vận chuyển chủ yếu là glucose, chiếm khoảng 80% lượng monosaccharide trong máu tĩnh mạch.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 82,
+          "question_text": "Dạng kết hợp là glycoprotein và glycolipid tồn tại chủ yếu trong các dịch cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 83,
+          "question_text": "Dạng dự trữ là glycogen, chủ yếu ở gan và cơ.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 84,
+          "question_text": "Sản phẩm tiêu hóa cuối cùng của glucid trong ống tiêu hóa là glucose.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 22,
+      "chapter_name": "Vai trò cung cấp năng lượng của glucid",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 85,
+          "question_text": "60% năng lượng khẩu phần ăn của cơ thể do glucid cung cấp.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 86,
+          "question_text": "Glucid là nguồn năng lượng dự trữ lớn nhất cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 87,
+          "question_text": "Glucose cung cấp năng lượng nhanh nhờ được chuyển hóa trực tiếp.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 88,
+          "question_text": "Một phân tử glucose thoái hóa hoàn toàn sẽ cho 36 ATP.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 23,
+      "chapter_name": "Vai trò tạo hình của glucid",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 89,
+          "question_text": "Glucid tham gia cấu tạo chất trắng của mô thần kinh.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 90,
+          "question_text": "Glucid tham gia cấu tạo hồng cầu, giác mạc, van tim.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 91,
+          "question_text": "Glucid không tham gia cấu tạo dịch khớp, dịch kính, tinh dịch.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 92,
+          "question_text": "Glucid không tham gia cấu tạo sụn khớp, thành động mạch, da.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 24,
+      "chapter_name": "Glucid tham gia",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 93,
+          "question_text": "Glucid tham gia lưu trữ và truyền đạt thông tin di truyền.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 94,
+          "question_text": "Glucid tham gia hoạt động chức năng sinh sản chỉ ở nam giới do tinh dịch có nhiều fructose.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 95,
+          "question_text": "Glucid tham gia dinh dưỡng cho khớp.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 96,
+          "question_text": "Glucid tham gia vào quá trình đông máu.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 25,
+      "chapter_name": "Nhu cầu glucid trong cơ thể được xác định trực tiếp theo",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 97,
+          "question_text": "Nhu cầu glucid trong cơ thể được xác định trực tiếp theo lứa tuổi.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 98,
+          "question_text": "Nhu cầu glucid trong cơ thể được xác định trực tiếp theo giới.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 99,
+          "question_text": "Nhu cầu glucid trong cơ thể được xác định trực tiếp theo nhu cầu năng lượng.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 100,
+          "question_text": "Nhu cầu glucid trong cơ thể được xác định trực tiếp theo tình trạng cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 26,
+      "chapter_name": "Glucose đóng vai trò trung tâm trong chuyển hóa glucid",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 101,
+          "question_text": "Glucose đóng vai trò trung tâm vì glucose là sản phẩm cuối cùng và duy nhất của tiêu hóa glucid trong ống tiêu hóa.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 102,
+          "question_text": "Glucose đóng vai trò trung tâm vì glucose là sản phẩm của các quá trình tân tạo và phân giải carbohydrate ở gan.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 103,
+          "question_text": "Glucose đóng vai trò trung tâm vì glucose được tổng hợp từ acid amin và acid béo.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 104,
+          "question_text": "Glucose đóng vai trò trung tâm vì glucose bị phân giải sẽ tạo ra 36 phân tử ATP cung cấp năng lượng cho cơ thể.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 27,
+      "chapter_name": "Về điều hòa chuyển hóa glucid",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 105,
+          "question_text": "Điều hòa chuyển hóa glucid: Bản chất là điều hòa nồng độ các sản phẩm cuối cùng của carbohydrate trong máu.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 106,
+          "question_text": "Điều hòa chuyển hóa glucid: Bản chất là duy trì đường huyết ở mức 80-120 mg%.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 107,
+          "question_text": "Điều hòa chuyển hóa glucid được thực hiện thông qua các hormon của trục dưới đồi – tuyến yên – tuyến giáp.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 108,
+          "question_text": "Điều hòa chuyển hóa glucid được thực hiện bằng con đường thần kinh và thể dịch.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 28,
+      "chapter_name": "Bình thường glucose máu sẽ được",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 109,
+          "question_text": "Bình thường glucose máu sẽ được vận chuyển vào trong các tế bào và chuyển hóa thành glycogen.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 110,
+          "question_text": "Bình thường glucose máu sẽ được vận chuyển vào trong tế bào gan và tổng hợp thành glycogen.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 111,
+          "question_text": "Bình thường glucose máu sẽ được hấp thu bởi các tế bào và dự trữ dưới dạng mỡ trung tính.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 112,
+          "question_text": "Bình thường glucose máu sẽ được đào thải qua đường tiết niệu.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 29,
+      "chapter_name": "Chuyển hóa cơ sở",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 113,
+          "question_text": "Chuyển hóa cơ sở tăng khi nhược năng tuyến giáp và giảm trong bệnh Basedow.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 114,
+          "question_text": "Chuyển hóa cơ sở là chỉ số đặc hiệu nhất để đánh giá chức năng tuyến giáp.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 115,
+          "question_text": "Chuyển hóa cơ sở tăng lên khi vận cơ và nửa sau chu kỳ kinh nguyệt (sai theo sgk).",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question_id": 116,
+          "question_text": "Chuyển hóa cơ sở giảm khi cơ thể bị nhiễm khuẩn và trong thời kỳ mang thai.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": 30,
+      "chapter_name": "Dạng tồn tại của protein trong cơ thể",
+      "section": "true_false",
+      "questions": [
+        {
+          "question_id": 117,
+          "question_text": "Dạng tồn tại của protein: Dạng vận chuyển bao gồm acid amin tự do và các chuỗi peptid ngắn.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 118,
+          "question_text": "Dạng tồn tại của protein: Không có dạng dự trữ riêng biệt.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 119,
+          "question_text": "Dạng tồn tại của protein: Khi cạn kiệt protein, cơ thể sẽ tổng hợp acid amin từ nguồn glycogen.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": 120,
+          "question_text": "Dạng tồn tại của protein: Albumin chiếm 80% protein huyết tương.",
+          "question_type": "true_false",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đúng",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Sai",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mcq_section": [
+    {
+      "question_id": 121,
+      "question_text": "Nhiệt độ trung tâm được đo ở các vị trí sau đây, TRỪ:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Miệng",
+          "is_correct": false
+        },
+        {
+          "option_id": "B",
+          "option_text": "Nách",
+          "is_correct": false
+        },
+        {
+          "option_id": "C",
+          "option_text": "Hậu môn",
+          "is_correct": true
+        },
+        {
+          "option_id": "D",
+          "option_text": "Trực tràng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 122,
+      "question_text": "Nhiệt độ da được xác định bằng cách:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Đo ở nhiều vị trí trên da và tính trung bình cộng các giá trị đo được.",
+          "is_correct": false
+        },
+        {
+          "option_id": "B",
+          "option_text": "Đo ở các vị trí da hở và có tính đến hệ số diện tích của vùng da so với toàn cơ thể.",
+          "is_correct": true
+        },
+        {
+          "option_id": "C",
+          "option_text": "Đo ở số vị trí da hở và da kín bằng nhau rồi tính trung bình cộng các giá trị đo được.",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Đo ở nhiều vị trí trên da và có tính đến hệ số diện tích của vùng da so với toàn cơ thể.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 123,
+      "question_text": "Khi cần chống lạnh, cơ thể đáp ứng bằng cách:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Tăng chuyển hóa để sinh nhiệt",
+          "is_correct": true
+        },
+        {
+          "option_id": "B",
+          "option_text": "Hạn chế run cơ để tiết kiệm năng lượng",
+          "is_correct": false
+        },
+        {
+          "option_id": "C",
+          "option_text": "Tăng thông khí phổi để tăng sinh nhiệt",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Co cơ dựng lông để tăng sinh nhiệt trong vận cơ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 124,
+      "question_text": "Quá trình sinh nhiệt:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Nhiệt sinh ra chủ yếu từ các phản ứng chuyển hóa trong cơ thể.",
+          "is_correct": true
+        },
+        {
+          "option_id": "B",
+          "option_text": "Nhiệt không sinh ra từ quá trình điều nhiệt.",
+          "is_correct": false
+        },
+        {
+          "option_id": "C",
+          "option_text": "Chuyển hóa cơ sở không phải là quá trình sinh nhiệt.",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Quá trình sinh nhiệt luôn cân bằng với quá trình thải nhiệt.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 125,
+      "question_text": "Cung phản xạ điều nhiệt:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Có receptor phân bố ở da, mạch, nội tạng.",
+          "is_correct": true
+        },
+        {
+          "option_id": "B",
+          "option_text": "Có đường truyền vào qua hai noron.",
+          "is_correct": false
+        },
+        {
+          "option_id": "C",
+          "option_text": "Có trung tâm ở vỏ não cảm giác.",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Cơ quan đáp ứng chỉ nằm ở da và mạch máu.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 126,
+      "question_text": "Về điều hòa thân nhiệt:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Là duy trì nhiệt độ cơ thể ở một giá trị cố định trong mọi thời điểm.",
+          "is_correct": false
+        },
+        {
+          "option_id": "B",
+          "option_text": "Nhằm mục đích ổn định tốc độ chuyển hóa trong cơ thể.",
+          "is_correct": true
+        },
+        {
+          "option_id": "C",
+          "option_text": "Là hoạt động chỉ có ở loài người.",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Khi hoạt động điều nhiệt rối loạn thì cơ thể sẽ bị sốt.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 127,
+      "question_text": "Truyền nhiệt trực tiếp:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Là cách thải nhiệt hiệu quả khi cơ thể tiếp xúc với một vật chênh lệch nhiệt độ.",
+          "is_correct": true
+        },
+        {
+          "option_id": "B",
+          "option_text": "Lượng nhiệt thải được không phụ thuộc vào chênh lệch nhiệt độ.",
+          "is_correct": false
+        },
+        {
+          "option_id": "C",
+          "option_text": "Lượng nhiệt thải được phụ thuộc vào diện tích tiếp xúc.",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Lượng nhiệt thải được không phụ thuộc vào thời gian tiếp xúc.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 128,
+      "question_text": "Hình thức thải nhiệt quan trọng nhất trong môi trường nóng ẩm:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Truyền nhiệt trực tiếp",
+          "is_correct": false
+        },
+        {
+          "option_id": "B",
+          "option_text": "Truyền nhiệt đối lưu",
+          "is_correct": false
+        },
+        {
+          "option_id": "C",
+          "option_text": "Truyền nhiệt bức xạ",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Bay hơi nước",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 129,
+      "question_text": "Vị trí của trung tâm điều nhiệt:",
+      "question_type": "multiple_choice",
+      "chapter_id": null,
+      "options": [
+        {
+          "option_id": "A",
+          "option_text": "Vỏ não cảm giác",
+          "is_correct": false
+        },
+        {
+          "option_id": "B",
+          "option_text": "Vùng dưới đồi",
+          "is_correct": true
+        },
+        {
+          "option_id": "C",
+          "option_text": "Cầu não",
+          "is_correct": false
+        },
+        {
+          "option_id": "D",
+          "option_text": "Hành não",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "case_studies": [
+    {
+      "case_id": 1,
+      "case_title": "Case Study 1: Cô H. - Tư vấn dinh dưỡng giảm cân",
+      "case_description": "Cô H. 20 tuổi, hiện đang là sinh viên đến phòng khám để xin tư vấn dinh dưỡng. Qua kiểm tra thấy cô có chiều cao 160 cm, nặng 80 kg, thích ăn đồ ngọt và gà rán. Cô đã từng nhịn ăn để giảm cân nhưng chỉ mệt mỏi mà không giảm được cân nào. Bác sỹ dinh dưỡng đã đưa ra cho cô một chế độ ăn uống giảm tinh bột và chất béo, đủ protein, tăng chất xơ cùng với chế độ tập luyện thể dục trong thời gian 3 tháng.",
+      "questions": [
+        {
+          "question_id": "C1Q1",
+          "question_text": "Đơn vị tính của chỉ số khối cơ thể (BMI) là:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "kg/m",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "kg/cm",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "kg/m2",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "m/kg2",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C1Q2",
+          "question_text": "Chỉ số khối cơ thể của cô gái này là:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "20",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "31,25",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "50",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "80",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C1Q3",
+          "question_text": "Chế độ ăn giảm cân không yêu cầu giảm lượng protein vì các lý do dưới đây, trừ",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Protein có thể dùng làm nguyên liệu cho quá trình tân tạo đường",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Protein cung cấp ít năng lượng cho cơ thể",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Protein có tác dụng động lực đặc hiệu (SDA) cao",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Cần bổ sung protein để thay thế lượng protein bị mất hàng ngày",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C1Q4",
+          "question_text": "Chế độ ăn giảm tinh bột và chất béo vì các lý do dưới đây, trừ",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Tinh bột và chất béo cung cấp nhiều năng lượng",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Chế độ ăn cắt giảm tinh bột, lipid có thể giảm trọng lượng cơ thể rất nhanh",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Cơ thể tăng cường sử dụng năng lượng từ thành phần lipid trong mô mỡ của cơ thể",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Chế độ ăn cắt giảm tinh bột làm giảm bài tiết insulin, kích thích sử dụng năng lượng từ nguồn lipid và protein của cơ thể",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C1Q5",
+          "question_text": "Cô gái cần được tập thể dục vì:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Vận cơ là nguyên nhân gây tiêu hao năng lượng cho cơ thể",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Tiêu hao nhiều năng lượng vì khi vận cơ 75% năng lượng tỏa ra dưới dạng nhiệt",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Giúp làm tăng chiều cao cho cơ thể để giảm chỉ số BMI",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Tiêu hao nhiều năng lượng vì khi vận cơ 85% năng lượng tỏa ra dưới dạng nhiệt",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": 2,
+      "case_title": "Case Study 2: Em nhỏ 3 tuổi - Suy dinh dưỡng protein năng lượng",
+      "case_description": "Một em nhỏ 3 tuổi, cao 80 cm, nặng 10,2 kg, thường xuyên viêm nhiễm đường hô hấp được đưa đến khám để cắt amydal. Mẹ bé cho biết cháu ăn bột từ khi 2 tháng tuổi, bột thường được nấu bằng nước xương ống với rau củ vườn nhà, thỉnh thoảng có trứng gà hoặc mì chính. Bố mẹ và anh trai của bé đều có vóc dáng bé nhỏ nên gia đình cũng không bận tâm về chiều cao, cân nặng của bé. Khi khám, BS phát hiện trẻ có dấu hiệu phù. Trẻ được chuyển sang khoa dinh dưỡng lâm sàng để tư vấn điều trị trước khi có thể thực hiện phẫu thuật như. Tại đó, em bé được chẩn đoán suy dinh dưỡng protein năng lượng.",
+      "questions": [
+        {
+          "question_id": "C2Q1",
+          "question_text": "BMI của trẻ này là:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "8,16",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "12,75",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "15,94",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "18,25",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C2Q2",
+          "question_text": "Chế độ ăn của bé thiếu thành phần nào sau đây:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Carbonhydrat",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Lipid",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Protid",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "Vitamin",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C2Q3",
+          "question_text": "Dấu hiệu phù là do:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Cơ thể bị giữ nước do tăng áp suất thủy tĩnh",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Ứ nước khoảng kẽ do giảm áp suất keo huyết tương",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Viêm nhiễm do giảm áp suất keo huyết tương",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Tăng tỷ lệ nước/protein nên tăng áp suất thủy tĩnh",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C2Q4",
+          "question_text": "Bé đang ở giai đoạn nào của cạn kiệt protein trong cơ thể:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Giai đoạn mất tức thời vì vẫn có chiều cao cân nặng như anh em trong nhà",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Giai đoạn thích nghi tích cực với chế độ ăn nghèo dinh dưỡng",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Giai đoạn mất thích nghi vì có rối loạn hoạt động miễn dịch",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "Giai đoạn mất thích nghi vì không thể tiến hành phẫu thuật lúc này",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": 3,
+      "case_title": "Case Study 3: Em nhỏ 3 tuổi - Sốt cao",
+      "case_description": "Một em nhỏ 3 tuổi được mẹ đưa đến phòng khám vì sốt cao. Cặp nhiệt độ ở nách thấy nhiệt độ thu được là 39,2oC. Ở nhà, mẹ cháu đã chườm khăn mát nhưng chưa đỡ. Bác sỹ khám và cho bé dùng paracetamol để hạ sốt.",
+      "questions": [
+        {
+          "question_id": "C3Q1",
+          "question_text": "Giá trị nhiệt độ thu được ở nách:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Là nhiệt độ trung tâm vì nách ở phần cao của cơ thể và nhiệt độ trung tâm là nhiệt độ cao của cơ thể",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Là nhiệt độ trung tâm vì nhiệt kế đặt sâu trong hõm nách và được kẹp chặt bởi cánh tay",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Là nhiệt độ ngoại vi vì đo ở vùng da nách",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Là nhiệt độ ngoại vi vì không phải nhiệt ở gan, não, tạng",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C3Q2",
+          "question_text": "Nhiệt độ thu được ở nách:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Cao hơn nhiệt độ ở miệng 0,5-1oC",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Thấp hơn nhiệt độ ở trực tràng 0,5-1oC",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Thấp hơn nhiệt độ ở gan 2oC",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Thấp hơn nhiệt độ trung tâm 2oC",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C3Q3",
+          "question_text": "Chườm mát là biện pháp thải nhiệt:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Trực tiếp",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Đối lưu",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Bức xạ",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Bay hơi nước",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C3Q4",
+          "question_text": "Paracetamol có tác dụng hạ sốt vì:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Ức chế chọn lọc cyclooxygenase - 2",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Ức chế tổng hợp prostaglandin E1",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Ức chế tổng hợp prostaglandin E2",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "Ức chế tổng hợp pyrogen",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": 4,
+      "case_title": "Case Study 4: Chị H - Say nóng",
+      "case_description": "Chị H làm lao công trên đường phố, một ngày nắng nóng oi bức, chị đang làm việc thì thấy xây xẩm mặt mày rồi không biết gì nữa. Mọi người chạy đến thấy người chị rất nóng, bèn đưa vào nơi râm mát và thực hiện các biện pháp hồi tỉnh và làm mát cơ thể.",
+      "questions": [
+        {
+          "question_id": "C4Q1",
+          "question_text": "Tình trạng mà chị H gặp phải có thể là:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đột quỵ",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Nhồi máu cơ tim",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Say nóng",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "Rối loạn vận động",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C4Q2",
+          "question_text": "Nguyên nhân của say nóng:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Do cơ thể không thải được nhiệt",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Do cơ thể tăng sinh nhiệt",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Do tích nhiệt trong môi trường có nhiệt độ và độ ẩm cao",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "Do tăng sinh nhiệt trong môi trường có nhiệt độ và độ ẩm cao",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C4Q3",
+          "question_text": "Cấp cứu bệnh nhân say nóng cần:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Đưa vào nơi râm mát, nới lỏng trang phục, bù nước điện giải",
+              "is_correct": true
+            },
+            {
+              "option_id": "B",
+              "option_text": "Làm mát cơ thể càng nhanh càng tốt",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "Huy động nhiều người đến cấp cứu",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Thực hiện hồi sinh tim phổi",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question_id": "C4Q4",
+          "question_text": "Nhiệt độ cơ thể khi bị say nóng:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "37-38oC",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "39-40oC",
+              "is_correct": false
+            },
+            {
+              "option_id": "C",
+              "option_text": "40-41oC",
+              "is_correct": true
+            },
+            {
+              "option_id": "D",
+              "option_text": "41-42oC",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": 5,
+      "case_title": "Case Study 5: Chị M. - Sốt nhiễm khuẩn",
+      "case_description": "Chị M. 22 tuổi, vào viện vì sốt (nhiệt độ trung tâm tương đương 39oC) xét nghiệm máu thấy tăng số lượng bạch cầu. Phát biểu nào dưới đây là đúng về sự tăng nhiệt độ trung tâm của bệnh nhân này:",
+      "questions": [
+        {
+          "question_id": "C5Q1",
+          "question_text": "Phát biểu nào dưới đây là đúng về sự tăng nhiệt độ trung tâm của bệnh nhân này:",
+          "question_type": "case_study",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Các độc tố của vi khuẩn tác động trực tiếp lên cơ vân làm tăng hoạt động co cơ, do đó sinh nhiệt và làm tăng nhiệt độ trung tâm.",
+              "is_correct": false
+            },
+            {
+              "option_id": "B",
+              "option_text": "Nhiệt độ trung tâm hiện tại cao hơn \"nhiệt độ chuẩn\" ở vùng dưới đồi.",
+              "is_correct": true
+            },
+            {
+              "option_id": "C",
+              "option_text": "Nhiệt độ trung tâm tăng lên là do bạch cầu tăng tạo nhiệt.",
+              "is_correct": false
+            },
+            {
+              "option_id": "D",
+              "option_text": "Tăng prostaglandin làm tăng \"nhiệt độ chuẩn\" ở vùng dưới đồi.",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

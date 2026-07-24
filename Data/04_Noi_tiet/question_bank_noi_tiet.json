@@ -1,0 +1,2282 @@
+{
+  "subject": "Nội tiết",
+  "subject_english": "Endocrinology",
+  "section": "Phần đúng/sai",
+  "question_type": "true_false",
+  "language": "vi",
+  "total_questions": 188,
+  "conversion_metadata": {
+    "source_file": "Nội_tiết_đáp_án.docx",
+    "conversion_date": "2026-07-19T03:16:48.906796",
+    "data_engineer": "Claude",
+    "extraction_method": "Word document parsing with underline detection",
+    "answer_detection": "Underline formatting on option letters (A./B.)",
+    "validation_status": "PASSED",
+    "images_extracted": 5,
+    "images_directory": "images/"
+  },
+  "statistics": {
+    "total_questions": 188,
+    "true_answers": 102,
+    "false_answers": 86,
+    "questions_with_images": 0
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "Phần đúng/sai [<g>] Trong huyết tương, thời gian bán thải của [</g>] một hormon là một nửa thời gian để nó đào thải hoàn toàn khỏi máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 2,
+      "text": "insulin là từ 5 đến 10 giờ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 3,
+      "text": "thyroxin dài hơn thời gian bán thải của adrenalin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 4,
+      "text": "thyroxin dài hơn thời gian bán thải của triiodothyronin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 5,
+      "text": "thyroxin dài hơn thời gian bán thải của triiodothyronin. A. Đúng\tB. Sai [<g>] Trong giấc ngủ, có sự giảm nồng độ lưu hành trong máu của hormon [</g>] cortisol.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 6,
+      "text": "insulin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 7,
+      "text": "adrenalin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 8,
+      "text": "ADH",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 9,
+      "text": "ADH A. Đúng\tB. Sai [<g>] Bài tiết ACTH tăng lên [</g>] khi lồi giữa của vùng dưới đồi bị kích thích.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 10,
+      "text": "khi nồng độ aldosteron máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 11,
+      "text": "khi nồng độ cortisol máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 12,
+      "text": "khi nồng độ cortisol máu giảm. A. Đúng\tB. Sai khi thể tích huyết tương giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 13,
+      "text": "khi nồng độ cortisol máu giảm. A. Đúng\tB. Sai khi thể tích huyết tương giảm. A. Đúng\tB. Sai (theo sgk) [<g>] Bài tiết quá mức hormon tuyến giáp gây tăng [</g>] sức cản ngoại biên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 14,
+      "text": "tần suất đại tiện.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 15,
+      "text": "tiêu hao năng lượng khi vận cơ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 16,
+      "text": "thời gian phản xạ gân xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 17,
+      "text": "thời gian phản xạ gân xương. A. Đúng\tB. Sai [<g>] Bài tiết aldosteron tăng lên do tăng[</g>] thể tích huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 18,
+      "text": "áp lực thẩm thấu huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 19,
+      "text": "nồng độ ion K+ trong huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 20,
+      "text": "nồng độ renin trong huyết tương",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 21,
+      "text": "nồng độ renin trong huyết tương A. Đúng\tB. Sai [<g>] Về hormon phát triển cơ thể (Growth hormone – GH) [</g>] GH gây ra cân bằng dương đối với nitrogen và phospho (lượng sinh ra nhiều hơn lượng mất đi).",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 22,
+      "text": "GH được bài tiết dưới sự điều khiển của vùng dưới đồi.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 23,
+      "text": "Nồng độ GH trong máu ở trẻ em cao hơn người lớn.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 24,
+      "text": "GH được bài tiết tăng lên khi ngủ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 25,
+      "text": "GH được bài tiết tăng lên khi ngủ. A. Đúng\tB. Sai [<g>] Về hormon tuyến cận giáp (PTH) [</g>] Bài tiết PTH được điều hòa ngược bởi trục dưới đồi - tuyến yên - tuyến giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 26,
+      "text": "PTH tác động trực tiếp lên xương làm tăng tái hấp thu ion Ca++ ở xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 27,
+      "text": "PTH làm giảm lượng ion Ca++ trong nước tiểu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 28,
+      "text": "PTH làm giảm bài xuất phosphat.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 29,
+      "text": "PTH làm giảm bài xuất phosphat. A. Đúng\tB. Sai [<g>] Về hormon chống bài niệu (ADH, vasopressin) [</g>] ADH được giải phóng từ các tận cùng thần kinh ở thùy sau tuyến yên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 30,
+      "text": "ADH làm tăng áp lực thẩm thấu huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 31,
+      "text": "ADH làm tăng tính thấm với nước của tế bào biểu mô ống thận ở quai Henle.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 32,
+      "text": "Sự bài tiết ADH ít bị ảnh hưởng khi áp lực thẩm thấu huyết tương thay đổi dưới 10%.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 33,
+      "text": "Sự bài tiết ADH ít bị ảnh hưởng khi áp lực thẩm thấu huyết tương thay đổi dưới 10%. A. Đúng\tB. Sai [<g>] Cortisol [</g>] gắn với một alpha globulin trong huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 34,
+      "text": "bị bất hoạt tại gan và bài xuất theo mật.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 35,
+      "text": "làm tăng huyết áp động mạch.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 36,
+      "text": "được điều hòa bài tiết bởi ACTH từ thùy trước tuyến yên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 37,
+      "text": "được điều hòa bài tiết bởi ACTH từ thùy trước tuyến yên. A. Đúng\tB. Sai [<g>] Khi tuyến giáp tăng hoạt động sẽ dẫn đến [</g>] tuyến giáp lấy iod từ máu với tốc độ nhanh hơn.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 38,
+      "text": "các nang tuyến nở rộng và chứa đầy chất keo.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 39,
+      "text": "các tế bào nang trở thành hình trụ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 40,
+      "text": "các tế bào nang tiêu chất keo bằng hình thức nhập bào.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 41,
+      "text": "các tế bào nang tiêu chất keo bằng hình thức nhập bào. A. Đúng\tB. Sai [<g>] Các hormon được tổng hợp ở vùng dưới đồi [</g>] được bài tiết bởi các tế bào vùng lồi giữa.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 42,
+      "text": "được vận chuyển theo sợi trục tế bào thần kinh để đến tuyến yên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 43,
+      "text": "có thể điều hòa bài tiết một số hormon tuyến yên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 44,
+      "text": "điều hòa giải phóng TSH.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 45,
+      "text": "điều hòa giải phóng TSH. A. Đúng\tB. Sai [<g>] Adrenalin được bài tiết từ tuyến tủy thượng thận sẽ làm tăng [</g>] nồng độ glucose máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 46,
+      "text": "nồng độ acid béo tự do trong máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 47,
+      "text": "lưu lượng máu đến cơ xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 48,
+      "text": "lưu lượng máu đến các tạng.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 49,
+      "text": "lưu lượng máu đến các tạng. A. Đúng\tB. Sai [<g>] Sự bài tiết TSH tăng lên khi [</g>] loại bỏ một phần tuyến giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 50,
+      "text": "trẻ sơ sinh không có tuyến giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 51,
+      "text": "tốc độ chuyển hóa giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 52,
+      "text": "đói.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 53,
+      "text": "đói. A. Đúng\tB. Sai [<g>] Hormon insulin [</g>] kích thích giải phóng acid béo tự do từ mô mỡ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 54,
+      "text": "làm tăng nồng độ ion K+ trong máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 55,
+      "text": "tăng vận chuyển glucose vào tế bào cơ xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 56,
+      "text": "tăng vận chuyển acid amin vào tế bào cơ xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 57,
+      "text": "tăng vận chuyển acid amin vào tế bào cơ xương. A. Đúng\tB. Sai [<g>] Tuyến yên [</g>] Điều hòa hoạt động của tất cả các tuyến nội tiết.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 58,
+      "text": "Nồng độ prolactin trong máu được điều hòa bởi yếu tố giải phóng từ vùng dưới đồi.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 59,
+      "text": "Bài tiết ADH khi áp lực thẩm thấu máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 60,
+      "text": "Thùy giữa bài tiết melanotropin (MSH-melanocyte stimuting hormone).",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 61,
+      "text": "Thùy giữa bài tiết melanotropin (MSH-melanocyte stimuting hormone). A. Đúng\tB. Sai [<g>] Hormon calcitonin (thyrocalcitonin) [</g>] được sản xuất từ các tế bào nang giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 62,
+      "text": "làm tăng tốc độ chuyển hóa cơ sở.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 63,
+      "text": "làm giảm nồng độ ion Ca++ trong máu ở động vật cắt tuyến cận giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 64,
+      "text": "được bài tiết khi nồng độ phosphat máu tăng.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 65,
+      "text": "được bài tiết khi nồng độ phosphat máu tăng. A. Đúng\tB. Sai [<g>] Tuyến giáp [</g>] Iod được vận chuyển vào tế bào nang giáp ngược chiều gradient điện hóa.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 66,
+      "text": "Giảm kích thước khi chế độ ăn thiếu iod.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 67,
+      "text": "Có ít mạch máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 68,
+      "text": "Chứa các enzym oxy hóa ion iodua thành dạng oxy hóa của iod nguyên tử.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 69,
+      "text": "Chứa các enzym oxy hóa ion iodua thành dạng oxy hóa của iod nguyên tử. A. Đúng\tB. Sai [<g>] Adrenalin khác noradrenalin ở các điểm sau: [</g>] Làm tăng nhịp tim khi được tiêm vào tĩnh mạch.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 70,
+      "text": "Là catecholamin chính do tuyến tủy thượng thận bài tiết.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 71,
+      "text": "Làm tăng sức co bóp cơ tim.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 72,
+      "text": "Gây giãn phế quản hiệu quả hơn.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 73,
+      "text": "Gây giãn phế quản hiệu quả hơn. A. Đúng\tB. Sai [<g>] Hormon tăng trưởng (Growth Hormone – GH) [</g>] được bài tiết khi có kích thích bởi somatostatin giải phóng từ vùng dưới đồi.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 74,
+      "text": "tăng khi nồng độ glucose máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 75,
+      "text": "có tác dụng bài tiết sữa.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 76,
+      "text": "làm tăng kích thước nội tạng.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 77,
+      "text": "làm tăng kích thước nội tạng. A. Đúng\tB. Sai [<g>] Vitamin D [</g>] làm tăng hấp thu ion Ca++ở ruột.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 78,
+      "text": "cần thiết cho quá trình canxi hóa xương bình thường ở trẻ em.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 79,
+      "text": "cần được chuyển hóa ở gan để trở thành dạng hoạt động.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 80,
+      "text": "Thiếu vitamin D có thể dẫn đến cường cận giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 81,
+      "text": "Thiếu vitamin D có thể dẫn đến cường cận giáp. A. Đúng\tB. Sai [<g>] Hormon prolactin[</g>] Có cấu trúc hóa học và tác dụng sinh lý tương tự LH.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 82,
+      "text": "Có vai trò phát triển vú ở tuổi dậy thì.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 83,
+      "text": "Sự giải phóng bị ức chế bởi dopamin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 84,
+      "text": "Động tác mút núm vú làm tăng bài tiết prolactin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 85,
+      "text": "Động tác mút núm vú làm tăng bài tiết prolactin. A. Đúng\tB. Sai [<g>] Nồng độ ion Ca++ máu giảm khi [</g>] nồng độ phosphat máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 86,
+      "text": "tăng thông khí.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 87,
+      "text": "tuyến giáp được tưới máu có nồng độ ion Ca++ cao.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 88,
+      "text": "nồng độ protein máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 89,
+      "text": "nồng độ protein máu giảm. A. Đúng\tB. Sai [<g>] Hormon thyroxin (T4) [</g>] được dự trữ ở các tế bào nang giáp dưới dạng thyroglobulin.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 90,
+      "text": "làm tăng tốc độ sản xuất carbon dioxide (CO2) khi nghỉ ngơi.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 91,
+      "text": "cần thiết cho sự phát triển bình thường của não.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 92,
+      "text": "cầnthiết cho sản xuất hồng cầu bình thường.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 93,
+      "text": "cầnthiết cho sản xuất hồng cầu bình thường. A. Đúng\tB. Sai [<g>] Hormon tuyến cận giáp (Parathyroid Hormone – PTH) [</g>] làm giảm độ thanh thải phosphat ở thận.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 94,
+      "text": "huy động canxi từ xương độc lập với tác dụng tái hấp thu ở thận.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 95,
+      "text": "Nồng độ PTH máu tăng sẽ ức chế hoạt động thùy trước tuyến yên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 96,
+      "text": "Bài tiết PTH tăng khi nồng độion Ca++ máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 97,
+      "text": "Bài tiết PTH tăng khi nồng độion Ca++ máu giảm. A. Đúng\tB. Sai [<g>] Cấu trúc hóa học của insulin [</g>] chứa một vòng sterol.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 98,
+      "text": "giống hệt nhau ở tất cả động vật có vú.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 99,
+      "text": "có tác dụng khi đưa vào cơ thể bằng đường uống.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 100,
+      "text": "Đã được tổng hợp trong phòng thí nghiệm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 101,
+      "text": "Đã được tổng hợp trong phòng thí nghiệm. A. Đúng\tB. Sai [<g>] Các hormonđược bài tiết bởi tuyến vỏ thượng thận [</g>] chứa cholesterol trong thành phần cấu trúc.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 102,
+      "text": "hầu hết gắn với protein huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 103,
+      "text": "bao gồm các hormon sinh dục.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 104,
+      "text": "được bài xuất chủ yếu theo đường mật dưới dạng liên hợp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 105,
+      "text": "được bài xuất chủ yếu theo đường mật dưới dạng liên hợp. A. Đúng\tB. Sai [<g>] Ức chế enzym chuyển angiotensin (Angiotensin Converting Enzyme - ACE) làm giảm hình thành angiotensin II.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 106,
+      "text": "nồng độ renin huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 107,
+      "text": "hoạt động của tim.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 108,
+      "text": "nồng độ angiotensin I lưu hành trong máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 109,
+      "text": "nồng độ angiotensin I lưu hành trong máu. A. Đúng\tB. Sai [<g>] Nồng độ ACTH huyết tương [</g>] cao nhất vào lúc nửa đêm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 110,
+      "text": "được điều hòa chủ yếu bởi nồng độ cortisol máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 111,
+      "text": "tăng lêntrong trường hợp có khối u thượng thận.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 112,
+      "text": "tăng lên khi suy thượng thận toàn bộ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 113,
+      "text": "tăng lên khi suy thượng thận toàn bộ. A. Đúng\tB. Sai [<g>] Các dấu hiệu và biểu hiện sau đây thường gặp ở bệnh nhân suy giáp trạng [</g>] Nhiệt độ trung tâm cơ thể dưới mức bình thường.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 114,
+      "text": "Ngủ nhiều.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 115,
+      "text": "Mọc nhiều lông (rậm lông).",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 116,
+      "text": "Bàn tay và bàn chân ẩm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 117,
+      "text": "Bàn tay và bàn chân ẩm. A. Đúng\tB. Sai [<g>] Mất đột ngột hoàn toàn chức năng tuyến cận giáp [</g>] dẫn đến co cơ xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 118,
+      "text": "có thể gây tử vong nếu không kịp thời đưa nồng độ ion Ca++ máu về bình thường.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 119,
+      "text": "có thể dẫn đến các bệnh xuất huyết do thiếu ion Ca++ máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 120,
+      "text": "có thể được điều trị tạm thời bằng tiêm ion Ca++ tĩnh mạch chậm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 121,
+      "text": "có thể được điều trị tạm thời bằng tiêm ion Ca++ tĩnh mạch chậm. A. Đúng\tB. Sai [<g>] Bệnh đái tháo nhạt được điều trị kiểm soát bằng ADH có thể dẫn đến [</g>] Tốc độ dòng nước tiểu có thể giảm khoảng 50%.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 122,
+      "text": "Lượng nước tiểu có thể giảm xuống khoảng 5ml/phút.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 123,
+      "text": "Áp lực thẩm thấu nước tiểu có thể tăng lên đạt từ 100 đến 200 mosmol/l.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 124,
+      "text": "Tiêu thụ muối cần được điều chỉnh cần thận.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 125,
+      "text": "Tiêu thụ muối cần được điều chỉnh cần thận. A. Đúng\tB. Sai [<g>] Cường giáp trạng [</g>] dẫn đến cân bằng nitrogen dương (lượng nitrogen sinh ra nhiều hơn lượng nitrogen mất đi).",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 126,
+      "text": "làm giảm bài xuất canxi theo nước tiểu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 127,
+      "text": "có biểu hiện lâm sàng phù hợp với sự kích thích quá mức thụ thể beta adrenergic",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 128,
+      "text": "làm giảm khả năng chịu nhiệt",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 129,
+      "text": "làm giảm khả năng chịu nhiệt A. Đúng\tB. Sai [<g>] U tủy thượng thận có thể gây tăng [</g>] huyết áp tâm thu thoáng qua hoặc kéo dài.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 130,
+      "text": "run khi dạng bàn tay.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 131,
+      "text": "tốc độ chuyển hóa cơ sở.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 132,
+      "text": "huyết áp tâm trương không đáp ứng với thuốc chẹn thụ thể alpha adrenergic.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 133,
+      "text": "huyết áp tâm trương không đáp ứng với thuốc chẹn thụ thể alpha adrenergic. A. Đúng\tB. Sai [<g>] Tầm vóc lùn ở độ tuổi trưởng thành có thể khi thời thơ ấu bị [</g>] Suy dinh dưỡng mạn tính.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 134,
+      "text": "Cắt bỏ bộ phận sinh dục ngoài.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 135,
+      "text": "Dậy thì sớm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 136,
+      "text": "Thiểu năng tuyến giáp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 137,
+      "text": "Thiểu năng tuyến giáp. A. Đúng\tB. Sai [<g>] Về hormon insulin [</g>] Nhu cầu insulin của cơ thể vào ban đêm tương đương với ban ngày.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 138,
+      "text": "Thời gian bán thải thường giảm ở bệnh nhân đái tháo đường.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 139,
+      "text": "Gắn một phần vào protein trong máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 140,
+      "text": "Nhu cầu insulin tăng lên ở người béo phì.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 141,
+      "text": "Nhu cầu insulin tăng lên ở người béo phì. A. Đúng\tB. Sai [<g>] Nguy cơ xuất hiện cơn tetani tăng lên khi [</g>] tăng đột ngột bicarbonat huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 142,
+      "text": "tăng đột ngột ion Mg++ huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 143,
+      "text": "cắt bỏ thùy trước tuyến yên.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 144,
+      "text": "bắt đầu có biểu hiện suy hô hấp.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 145,
+      "text": "bắt đầu có biểu hiện suy hô hấp. A. Đúng (tăng thông khí)\tB. Sai [<g>] Phá hủy thùy trước tuyến yên dẫn đến [</g>] vô kinh.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 146,
+      "text": "đái tháo nhạt.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 147,
+      "text": "da trắng nhợt.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 148,
+      "text": "mất khả năng chịu đựng stress nặng.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 149,
+      "text": "mất khả năng chịu đựng stress nặng. A. Đúng\tB. Sai [<g>] Cắt bỏ toàn bộ tuyến giáp (không được điều trị thay thế) có thể làm tăng [< /g>] nồng độ TSH máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 150,
+      "text": "nồng độ cholesterol máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 151,
+      "text": "nồng độ glucose máu sau nghiệm pháp dung nạp đường huyết bằng đường uống.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 152,
+      "text": "thời gian phản xạ gân xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 153,
+      "text": "thời gian phản xạ gân xương. A. Đúng\tB. Sai [<g>] Người bịbệnh đái tháo đường nặng có thể giảm [</g>] áp lực thẩm thấu dịch ngoại bào.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 154,
+      "text": "cảm giác thèm ăn.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 155,
+      "text": "thể tích máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 156,
+      "text": "pH máu động mạch.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 157,
+      "text": "[<g>] Bài tiết glucocorticoid quá mức (trong hội chứng Cushing) gây tăng [</g>] độ dày của da.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 158,
+      "text": "sức mạnh của xương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 159,
+      "text": "glucose máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 160,
+      "text": "huyết áp động mạch.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 161,
+      "text": "huyết áp động mạch. A. Đúng\tB. Sai [<g>] Bài tiết GH quá mức ở người trưởng thành bị u tuyến yên có thể dẫn đến [</g>] bán manh đồng danh.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 162,
+      "text": "bệnh khổng lồ.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 163,
+      "text": "giảm nồng độ somatomedin (somatotropin - STH) máu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 164,
+      "text": "tăng kích thước gan.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 165,
+      "text": "tăng kích thước gan. A. Đúng\tB. Sai [<g>] Hôn mê do hạ đường huyết khác với hôn mê do tăng đường huyết ở triệu chứng: [</g>] Mất ý thức nhanh chóng.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 166,
+      "text": "Mạch yếu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 167,
+      "text": "pH máu bình thường.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 168,
+      "text": "Không có glucose niệu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 169,
+      "text": "Không có glucose niệu. A. Đúng\tB. Sai [<g>] Suy thượng thận có thể làm giảm [</g>] thể tích dịch ngoại bào.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 170,
+      "text": "tổng số khối hồng cầu.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 171,
+      "text": "tỷ lệ ion Na+/ ion K+ huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 172,
+      "text": "huyết áp động mạch.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 173,
+      "text": "huyết áp động mạch. A. Đúng\tB. Sai [<g>] Đái tháo đường toan ceton có sự giảm thoái hóa các chất [</g>] keton.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 174,
+      "text": "glycogen.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 175,
+      "text": "glucose.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 176,
+      "text": "chất béo.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 177,
+      "text": "chất béo. A. Đúng\tB. Sai [<g>] Giảm bài tiết GH [</g>] ở trẻ em sẽ gây chậm dậy thì.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 178,
+      "text": "ở trẻ em dẫn đến tầm vóc lùn, chi còi cọc hơn so với thân.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 179,
+      "text": "có biểu hiện da nhợt, mịn và mềm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 180,
+      "text": "ở người lớn dẫn đến giảm kích thước nội tạng.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 181,
+      "text": "ở người lớn dẫn đến giảm kích thước nội tạng. A. Đúng\tB. Sai [<g>] Bài tiết PTH thường tăng ở [</g>] bệnh nhân suy thận mạn.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 182,
+      "text": "người sử dụng quá liều vitamin D.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 183,
+      "text": "bệnh nhân u thùy trước tuyến yên bài tiết quá mức hormon.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 184,
+      "text": "người có nồng độ phosphat máu giảm.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 185,
+      "text": "người có nồng độ phosphat máu giảm. A. Đúng\tB. Sai [<g>] Phẫu thuật cắt bỏ tuyến yên có thể dẫn đến giảm [</g>] áp lực thẩm thấu huyết tương.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 186,
+      "text": "tần suất kinh nguyệt.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 187,
+      "text": "lông nách.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    },
+    {
+      "question_id": 188,
+      "text": "ham muốn tình dục.",
+      "type": "true_false",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "images": [],
+      "chapter": "General Endocrinology"
+    }
+  ]
+}

@@ -1,0 +1,4056 @@
+{
+  "metadata": {
+    "subject": "Sinh Sản",
+    "subject_code": "SINH_SAN",
+    "subject_vietnamese": "Sinh Lý Sinh Dục - Sinh Sản",
+    "language": "vi",
+    "source_file": "Sinh_sản_đáp_án.docx",
+    "created_date": "2024-07-19",
+    "total_questions": 266,
+    "total_chapters": 34,
+    "question_types": {
+      "true_false": 193,
+      "multiple_choice": 73,
+      "case_study": 0
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Về sản sinh tinh trùng",
+      "question_count": 10,
+      "question_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chức năng của túi tinh và tuyến tiền liệt",
+      "question_count": 14,
+      "question_ids": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Về chức năng sản xuất tinh trùng",
+      "question_count": 6,
+      "question_ids": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Về chức năng ngoại tiết của tinh hoàn",
+      "question_count": 5,
+      "question_ids": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Điều hoà bài tiết hormon của tinh hoàn",
+      "question_count": 5,
+      "question_ids": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Tác dụng của testosteron",
+      "question_count": 7,
+      "question_ids": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Chức năng của tế bào Sertoli",
+      "question_count": 11,
+      "question_ids": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Estrogen được bài tiết từ",
+      "question_count": 4,
+      "question_ids": [
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Phần lớn progesteron được bài tiết từ",
+      "question_count": 3,
+      "question_ids": [
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Rau thai bài tiếtestrogen và progesteron",
+      "question_count": 9,
+      "question_ids": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Tác dụng của estrogen lên cơ quan sinh dục",
+      "question_count": 4,
+      "question_ids": [
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Tác dụng của estrogen lên tử cung",
+      "question_count": 8,
+      "question_ids": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Tác dụng của estrogen trên xương",
+      "question_count": 4,
+      "question_ids": [
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Tác dụng của estrogen trên tuyến vú",
+      "question_count": 4,
+      "question_ids": [
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Tác dụng của estrogen trên tử cung",
+      "question_count": 7,
+      "question_ids": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Tác dụng của estrogen lên chuyển hoá lipid",
+      "question_count": 4,
+      "question_ids": [
+        102,
+        103,
+        104,
+        105
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Tác dụng của progesteron lên tử cung",
+      "question_count": 4,
+      "question_ids": [
+        106,
+        107,
+        108,
+        109
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Tác dụng của progesteron lên tuyến vú",
+      "question_count": 4,
+      "question_ids": [
+        110,
+        111,
+        112,
+        113
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Niêm mạc tử cung ở giai đoạn tăng sinh",
+      "question_count": 4,
+      "question_ids": [
+        114,
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Niêm mạc tử cung trong giai đoạn bài tiết",
+      "question_count": 4,
+      "question_ids": [
+        118,
+        119,
+        120,
+        121
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Trước lúc phóng noãn thì nồng độ",
+      "question_count": 4,
+      "question_ids": [
+        122,
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Các hormon có tác dụng đến tuyến vú",
+      "question_count": 4,
+      "question_ids": [
+        126,
+        127,
+        128,
+        129
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Bản chất hoá học của các hormon",
+      "question_count": 8,
+      "question_ids": [
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Tác dụng của hormon do rau thai bài tiết",
+      "question_count": 4,
+      "question_ids": [
+        138,
+        139,
+        140,
+        141
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Biện pháp tránh thai vĩnh viễn là",
+      "question_count": 4,
+      "question_ids": [
+        142,
+        143,
+        144,
+        145
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Biện pháp tránh thai tạm thời là",
+      "question_count": 4,
+      "question_ids": [
+        146,
+        147,
+        148,
+        149
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Chức năng của buồng trứng",
+      "question_count": 5,
+      "question_ids": [
+        150,
+        151,
+        152,
+        153,
+        154
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Chu kỳ kinh nguyệt",
+      "question_count": 6,
+      "question_ids": [
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Các hormon liên quan tới tuyến vú",
+      "question_count": 5,
+      "question_ids": [
+        161,
+        162,
+        163,
+        164,
+        165
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Về hormon hCG",
+      "question_count": 4,
+      "question_ids": [
+        166,
+        167,
+        168,
+        169
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Thụ thai và mang thai",
+      "question_count": 6,
+      "question_ids": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Chẩn đoán xác định có thai",
+      "question_count": 8,
+      "question_ids": [
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Kinh nguyệt",
+      "question_count": 5,
+      "question_ids": [
+        184,
+        185,
+        186,
+        187,
+        188
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Bài tiết và bài xuất sữa",
+      "question_count": 5,
+      "question_ids": [
+        189,
+        190,
+        191,
+        192,
+        193
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "Tinh nguyên bào nhóm A phân chia 2 lần tạo thành 8 tinh nguyên bào nhóm",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 2,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "Tinh nguyên bào nhóm A phân chia giảm nhiễm để thành tinh nguyên bào",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 3,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "nhóm B.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 4,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "Tinh bào I được tạo thành từ tinh nguyên bào nhóm B.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 5,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "Từ tinh bào I thành tinh bào II có hiện tượng phân chia giảm nhiễm.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 6,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "FSH kích thích phát triển ống sinh tinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 7,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "LH kích thích sản sinh tinh trùng ở giai đoạn đầu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 8,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "FSH kích thích tế bào Sertoli bài tiết chất dinh dưỡng cho tế bào dòng",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 9,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "Testosteron cần cho sự phát triển và phân chia tinh nguyên bào để tạo",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 10,
+      "chapter_id": 1,
+      "chapter": "Về sản sinh tinh trùng",
+      "type": "true_false",
+      "question": "tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 11,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Túi tinh chỉ là nơi chứa đựng tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 12,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Túi tinh bài tiết dịch quánh chứa chất dinh dưỡng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 13,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Túi tinh đổ dịch vào ống phóng tinh trong giai đoạn phóng tinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 14,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Tuyến tiền liệt bài tiết dịch có độ pH acid.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 15,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "dịch chứa men đông đặc tiết từ tuyến tiền liệt để giữ tinh trùng tập",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 16,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "trung quanh cổ tử cung.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 17,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "prostaglandin có trong dịch tuyến tiền liệt làm tăng nhu động tử cung và",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 18,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "vòi trứng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 19,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "dịch tuyến tiền liệt có pH kiềm làm trung hoà dịch acid của âm đạo. (Lưu",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 20,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "ý pH dịch tuyến tiền liệt là pH acid, song vẫn kiềm hơn âm đạo)",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 21,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Tinh trùng trở nên hoạt động mạnh hơn.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 22,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Tinh trùng mất các lớp cholesterol bọc cực đầu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 23,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Phần cổ tinh trùng giải phóng enzym hyaluronidase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 24,
+      "chapter_id": 2,
+      "chapter": "Chức năng của túi tinh và tuyến tiền liệt",
+      "type": "true_false",
+      "question": "Ion calci thấm qua màng của phần cổ tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 25,
+      "chapter_id": 3,
+      "chapter": "Về chức năng sản xuất tinh trùng",
+      "type": "true_false",
+      "question": "FSH có tác dụng điều hoà sản sinh tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 26,
+      "chapter_id": 3,
+      "chapter": "Về chức năng sản xuất tinh trùng",
+      "type": "true_false",
+      "question": "Tế bào Leydig vừa có khả năng dinh dưỡng tinh trùng vừa có khả năng bài",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 27,
+      "chapter_id": 3,
+      "chapter": "Về chức năng sản xuất tinh trùng",
+      "type": "true_false",
+      "question": "tiết testosteron.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 28,
+      "chapter_id": 3,
+      "chapter": "Về chức năng sản xuất tinh trùng",
+      "type": "true_false",
+      "question": "Cả chất lượng và số lượng tinh trùng đều có ý nghĩa quyết định trong thụ",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 29,
+      "chapter_id": 3,
+      "chapter": "Về chức năng sản xuất tinh trùng",
+      "type": "true_false",
+      "question": "Thân nhiệt bình thường (36,8^0^C) là điều kiện tối thuận cho quá trình",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 30,
+      "chapter_id": 3,
+      "chapter": "Về chức năng sản xuất tinh trùng",
+      "type": "true_false",
+      "question": "tạo tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 31,
+      "chapter_id": 4,
+      "chapter": "Về chức năng ngoại tiết của tinh hoàn",
+      "type": "true_false",
+      "question": "Bình thường mỗi lần xuất tinh chứa 35 - 200 triệu tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 32,
+      "chapter_id": 4,
+      "chapter": "Về chức năng ngoại tiết của tinh hoàn",
+      "type": "true_false",
+      "question": "LH có tác dụng điều hoà sinh sản tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 33,
+      "chapter_id": 4,
+      "chapter": "Về chức năng ngoại tiết của tinh hoàn",
+      "type": "true_false",
+      "question": "Thể tích tinh dịch mỗi lần xuất tinh là 2 - 3ml.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 34,
+      "chapter_id": 4,
+      "chapter": "Về chức năng ngoại tiết của tinh hoàn",
+      "type": "true_false",
+      "question": "Tế bào mầm của ống sinh tinh được biệt hoá thành tinh trùng từ cuối thời",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 35,
+      "chapter_id": 4,
+      "chapter": "Về chức năng ngoại tiết của tinh hoàn",
+      "type": "true_false",
+      "question": "kỳ bào thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 36,
+      "chapter_id": 5,
+      "chapter": "Điều hoà bài tiết hormon của tinh hoàn",
+      "type": "true_false",
+      "question": "Vùng dưới đồi ở nam giới không có hai trung tâm điều hoà chức năng sinh",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 37,
+      "chapter_id": 5,
+      "chapter": "Điều hoà bài tiết hormon của tinh hoàn",
+      "type": "true_false",
+      "question": "HCG có tác dụng kích thích tế bào Leydig tiết progesteron từ tuổi dậy",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 38,
+      "chapter_id": 5,
+      "chapter": "Điều hoà bài tiết hormon của tinh hoàn",
+      "type": "true_false",
+      "question": "GnRH có tác dụng gián tiếp điều hoà bài tiết testosteron trong thời kỳ",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 39,
+      "chapter_id": 5,
+      "chapter": "Điều hoà bài tiết hormon của tinh hoàn",
+      "type": "true_false",
+      "question": "bào thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 40,
+      "chapter_id": 5,
+      "chapter": "Điều hoà bài tiết hormon của tinh hoàn",
+      "type": "true_false",
+      "question": "Testosteron cũng có tác dụng điều hoà bài tiết testosteron.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 41,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "Testosteron được bài tiết trong thời kỳ bào thai có tác dụng đưa tinh",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 42,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "hoàn xuống bìu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 43,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "Hiện tượng trứng cá ở nam và nữ lúc dậy thì là do tăng bài tiết",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 44,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "androgen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 45,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "Testosteron do tế bào kẽ bài tiết từ tuổi dậy thì có tác dụng điều hoà",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 46,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "chức năng sinh sản.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 47,
+      "chapter_id": 6,
+      "chapter": "Tác dụng của testosteron",
+      "type": "true_false",
+      "question": "Làm xuất hiện và duy trì đặc tính sinh dục thứ phát từ tuổi sơ sinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 48,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "Tạo thành hàng rào để tránh sự xâm nhập của kháng thể từ máu vào ống",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 49,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "sinh tinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 50,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "Bài tiếtmột hormon điều hoà sự sản sinh tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 51,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "Bài tiết một hormon có tác dụng điều hoà ngược với LH.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 52,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "Bài tiết protein kháng lại tinh trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 53,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "LH kích thích tế bào Sertoli phát triển và bài tiết chất dinh dưỡng tinh",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 54,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 55,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "FSH kích thích ống sinh tinh phát triển.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 56,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "LH kích thích tế bào Sertoli bài tiết một loại protein gắn với androgen",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 57,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "và vận chuyển vào lòng ống sinh tinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 58,
+      "chapter_id": 7,
+      "chapter": "Chức năng của tế bào Sertoli",
+      "type": "true_false",
+      "question": "LH kích thích tế bào Leydig bài tiết testosteron.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 59,
+      "chapter_id": 8,
+      "chapter": "Estrogen được bài tiết từ",
+      "type": "true_false",
+      "question": "Lớp tế bào hạt của noãn nang trong suốt chu kỳ kinh nguyệt (CKKN).",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 60,
+      "chapter_id": 8,
+      "chapter": "Estrogen được bài tiết từ",
+      "type": "true_false",
+      "question": "noãn nang trong suốt CKKN.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 61,
+      "chapter_id": 8,
+      "chapter": "Estrogen được bài tiết từ",
+      "type": "true_false",
+      "question": "hoàng thể trong suốt CKKN.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 62,
+      "chapter_id": 8,
+      "chapter": "Estrogen được bài tiết từ",
+      "type": "true_false",
+      "question": "lớp áo trong của noãn nang trong nửa đầu CKKN.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 63,
+      "chapter_id": 9,
+      "chapter": "Phần lớn progesteron được bài tiết từ",
+      "type": "true_false",
+      "question": "buồng trứng trong suốt CKKN.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 64,
+      "chapter_id": 9,
+      "chapter": "Phần lớn progesteron được bài tiết từ",
+      "type": "true_false",
+      "question": "tuyến thượng thận.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 65,
+      "chapter_id": 9,
+      "chapter": "Phần lớn progesteron được bài tiết từ",
+      "type": "true_false",
+      "question": "lớp áo trong của noãn nang và hoàng thể.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 66,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "với lượng cao ngay từ những ngày đầu và duy trì nồng độ đó cho tới lúc",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 67,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "từ tuần thứ 4 với lượng tăng dần và cao nhất vào tháng thứ 9.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 68,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "ngay từ tuần thứ nhất tuổi thai và lượng bài tiết tăng dần cho tới ngày",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 69,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "từ tháng thứ 4 với lượng tăng dần và cao nhất vào tháng thứ 9.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 70,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "Kích thích hình thành tinh nguyên bào.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 71,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "Kích thích sự phân chia giảm nhiễm lần I từ tinh bào I thành tinh bào",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 72,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "Kích thích sự phân chia giảm nhiễm lần II từ tinh bào II thành tiền tinh",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 73,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "trùng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 74,
+      "chapter_id": 10,
+      "chapter": "Rau thai bài tiếtestrogen và progesteron",
+      "type": "true_false",
+      "question": "Kích thích tế bào Sertoli bài tiết chất dinh dưỡng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 75,
+      "chapter_id": 11,
+      "chapter": "Tác dụng của estrogen lên cơ quan sinh dục",
+      "type": "true_false",
+      "question": "Phát triển các cơ quan sinh dục trong thời kỳ bào thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 76,
+      "chapter_id": 11,
+      "chapter": "Tác dụng của estrogen lên cơ quan sinh dục",
+      "type": "true_false",
+      "question": "Phát triển các cơ quan sinh dục từ sơ sinh đến tuổi trưởng thành.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 77,
+      "chapter_id": 11,
+      "chapter": "Tác dụng của estrogen lên cơ quan sinh dục",
+      "type": "true_false",
+      "question": "Phát triển cơ quan sinh dục từ tuổi dậy thì đến hết đời.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 78,
+      "chapter_id": 11,
+      "chapter": "Tác dụng của estrogen lên cơ quan sinh dục",
+      "type": "true_false",
+      "question": "Phát triển cơ quan sinh dục trong thời kỳ dậy thì.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 79,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Phát triển niêm mạc tử cung trong nửa đầu chu kì kinh nguyệt.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 80,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Làm cho động mạch xoắn phát triển ngoằn ngoèo.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 81,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Làm cho các tuyến niêm mạc tử cung bài tiết.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 82,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Làm co cơ tử cung.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 83,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Tăng tổng hợp DNA ở tất cả các mô.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 84,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Tăng quá trình sao chép ARN thông tin (RNA~m~) ở tất cả các mô.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 85,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Tăng tổng hợp protein ở tử cung, vú, khung xương.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 86,
+      "chapter_id": 12,
+      "chapter": "Tác dụng của estrogen lên tử cung",
+      "type": "true_false",
+      "question": "Tăng tổng hợp protein ở một số cơ quan đặc hiệu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 87,
+      "chapter_id": 13,
+      "chapter": "Tác dụng của estrogen trên xương",
+      "type": "true_false",
+      "question": "Tăng hoạt tính của huỷ cốt bào.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 88,
+      "chapter_id": 13,
+      "chapter": "Tác dụng của estrogen trên xương",
+      "type": "true_false",
+      "question": "Tăng hoạt tính của tạo cốt bào.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 89,
+      "chapter_id": 13,
+      "chapter": "Tác dụng của estrogen trên xương",
+      "type": "true_false",
+      "question": "Tăng nồng độ ion Ca^++^ trong máu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 90,
+      "chapter_id": 13,
+      "chapter": "Tác dụng của estrogen trên xương",
+      "type": "true_false",
+      "question": "Tăng lắng đọng canxi ở xương.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 91,
+      "chapter_id": 14,
+      "chapter": "Tác dụng của estrogen trên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển ống tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 92,
+      "chapter_id": 14,
+      "chapter": "Tác dụng của estrogen trên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển mô đệm và lớp mỡ.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 93,
+      "chapter_id": 14,
+      "chapter": "Tác dụng của estrogen trên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển bọc tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 94,
+      "chapter_id": 14,
+      "chapter": "Tác dụng của estrogen trên tuyến vú",
+      "type": "true_false",
+      "question": "Gây bài tiết sữa.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 95,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Phát triển cơ tử cung trong chu kì kinh nguyệt (CKKN).",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 96,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Phát triển cơ tử cung khi có thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 97,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Giảm co bóp cơ tử cung khi mang thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 98,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Làm tăng bài tiết dịch nhày, loãng, mỏng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 99,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Làm tăng bài tiết dịch nhày, loãng, kiềm.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 100,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Làm tăng bài tiết dịch nhày kiềm.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 101,
+      "chapter_id": 15,
+      "chapter": "Tác dụng của estrogen trên tử cung",
+      "type": "true_false",
+      "question": "Làm tăng bài tiết dịch nhày, kiềm, quánh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 102,
+      "chapter_id": 16,
+      "chapter": "Tác dụng của estrogen lên chuyển hoá lipid",
+      "type": "true_false",
+      "question": "Làm giảm nồng độ cholesterol trong máu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 103,
+      "chapter_id": 16,
+      "chapter": "Tác dụng của estrogen lên chuyển hoá lipid",
+      "type": "true_false",
+      "question": "Làm giảm nồng độ acid béo trong máu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 104,
+      "chapter_id": 16,
+      "chapter": "Tác dụng của estrogen lên chuyển hoá lipid",
+      "type": "true_false",
+      "question": "Làm tăng lượng mỡ dưới da toàn thân.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 105,
+      "chapter_id": 16,
+      "chapter": "Tác dụng của estrogen lên chuyển hoá lipid",
+      "type": "true_false",
+      "question": "Làm tăng lượng mỡ dưới da ở một số vị trí đặc biệt.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 106,
+      "chapter_id": 17,
+      "chapter": "Tác dụng của progesteron lên tử cung",
+      "type": "true_false",
+      "question": "Phát triển niêm mạc tử cung trong suốt chu kì kinh nguyệt (CKKN).",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 107,
+      "chapter_id": 17,
+      "chapter": "Tác dụng của progesteron lên tử cung",
+      "type": "true_false",
+      "question": "Bài tiết niêm dịch và glycogen trong suốt CKKN.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 108,
+      "chapter_id": 17,
+      "chapter": "Tác dụng của progesteron lên tử cung",
+      "type": "true_false",
+      "question": "Phát triển tuyến niêm mạc dài ra và ngoằn ngoèo.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 109,
+      "chapter_id": 17,
+      "chapter": "Tác dụng của progesteron lên tử cung",
+      "type": "true_false",
+      "question": "Bài tiết niêm dịch và glycogen trong nửa sau CKKN.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 110,
+      "chapter_id": 18,
+      "chapter": "Tác dụng của progesteron lên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển ống tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 111,
+      "chapter_id": 18,
+      "chapter": "Tác dụng của progesteron lên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển mô đệm và lớp mỡ.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 112,
+      "chapter_id": 18,
+      "chapter": "Tác dụng của progesteron lên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển tế bào nang tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 113,
+      "chapter_id": 18,
+      "chapter": "Tác dụng của progesteron lên tuyến vú",
+      "type": "true_false",
+      "question": "Phát triển bọc tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 114,
+      "chapter_id": 19,
+      "chapter": "Niêm mạc tử cung ở giai đoạn tăng sinh",
+      "type": "true_false",
+      "question": "Tuyến niêm mạc và động mạch xoắn được tái tạo.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 115,
+      "chapter_id": 19,
+      "chapter": "Niêm mạc tử cung ở giai đoạn tăng sinh",
+      "type": "true_false",
+      "question": "Tuyến niêm mạc dài và bài xuất niêm dịch.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 116,
+      "chapter_id": 19,
+      "chapter": "Niêm mạc tử cung ở giai đoạn tăng sinh",
+      "type": "true_false",
+      "question": "Động mạch phát triển và xoắn lại.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 117,
+      "chapter_id": 19,
+      "chapter": "Niêm mạc tử cung ở giai đoạn tăng sinh",
+      "type": "true_false",
+      "question": "Niêm mạc tử cung dày 3 - 4 mm ở cuối giai đoạn này.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 118,
+      "chapter_id": 20,
+      "chapter": "Niêm mạc tử cung trong giai đoạn bài tiết",
+      "type": "true_false",
+      "question": "Dày 3 - 4 mm ở cuối giai đoạn.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 119,
+      "chapter_id": 20,
+      "chapter": "Niêm mạc tử cung trong giai đoạn bài tiết",
+      "type": "true_false",
+      "question": "Tuyến dài và thẳng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 120,
+      "chapter_id": 20,
+      "chapter": "Niêm mạc tử cung trong giai đoạn bài tiết",
+      "type": "true_false",
+      "question": "Mạch máu phát triển và xoắn lại.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 121,
+      "chapter_id": 20,
+      "chapter": "Niêm mạc tử cung trong giai đoạn bài tiết",
+      "type": "true_false",
+      "question": "Tuyến bài xuất niêm dịch và glycogen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 122,
+      "chapter_id": 21,
+      "chapter": "Trước lúc phóng noãn thì nồng độ",
+      "type": "true_false",
+      "question": "estrogen tăng cao.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 123,
+      "chapter_id": 21,
+      "chapter": "Trước lúc phóng noãn thì nồng độ",
+      "type": "true_false",
+      "question": "progesteron tăng cao.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 124,
+      "chapter_id": 21,
+      "chapter": "Trước lúc phóng noãn thì nồng độ",
+      "type": "true_false",
+      "question": "FSH và LH tăng cao ngang nhau.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 125,
+      "chapter_id": 21,
+      "chapter": "Trước lúc phóng noãn thì nồng độ",
+      "type": "true_false",
+      "question": "FSH tăng gấp 2 - 3 lần bình thường.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 126,
+      "chapter_id": 22,
+      "chapter": "Các hormon có tác dụng đến tuyến vú",
+      "type": "true_false",
+      "question": "Estrogen làm phát triển bọc tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 127,
+      "chapter_id": 22,
+      "chapter": "Các hormon có tác dụng đến tuyến vú",
+      "type": "true_false",
+      "question": "Progesteron làm tăng sinh tế bào nang tuyến.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 128,
+      "chapter_id": 22,
+      "chapter": "Các hormon có tác dụng đến tuyến vú",
+      "type": "true_false",
+      "question": "Prolactin kích thích bài xuất sữa.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 129,
+      "chapter_id": 22,
+      "chapter": "Các hormon có tác dụng đến tuyến vú",
+      "type": "true_false",
+      "question": "Estrogen làm phát triển mô đệm của tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 130,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "Progesteron là steroid có 19 C.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 131,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "Estrogen là steroid có 18 C.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 132,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "HCG là một protein có trọng lượng phân tử 39.000.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 133,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "HCS là một protein có trọng lượng phân tử 38.000.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 134,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "HCG dinh dưỡng và kích thích hoàng thể sản xuất estrogen và progesteron.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 135,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "HCG kích thích noãn nang của buồng trứng thai nhi sản xuất estrogen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 136,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "Estrogen làm tăng khối lượng cơ tử cung ở người có thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 137,
+      "chapter_id": 23,
+      "chapter": "Bản chất hoá học của các hormon",
+      "type": "true_false",
+      "question": "Progesteron làm giảm co bóp cơ tử cung để thai yên ổn phát triển.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 138,
+      "chapter_id": 24,
+      "chapter": "Tác dụng của hormon do rau thai bài tiết",
+      "type": "true_false",
+      "question": "Relaxin làm mềm cơ tử cung.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 139,
+      "chapter_id": 24,
+      "chapter": "Tác dụng của hormon do rau thai bài tiết",
+      "type": "true_false",
+      "question": "Relaxin làm giãn dây chằng khớp mu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 140,
+      "chapter_id": 24,
+      "chapter": "Tác dụng của hormon do rau thai bài tiết",
+      "type": "true_false",
+      "question": "HCS làm tăng thoái hoá protein.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 141,
+      "chapter_id": 24,
+      "chapter": "Tác dụng của hormon do rau thai bài tiết",
+      "type": "true_false",
+      "question": "Progesteron làm tăng tổng hợp protein của thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 142,
+      "chapter_id": 25,
+      "chapter": "Biện pháp tránh thai vĩnh viễn là",
+      "type": "true_false",
+      "question": "thuốc tránh thai vì có thể dùng liên tục cả đời.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 143,
+      "chapter_id": 25,
+      "chapter": "Biện pháp tránh thai vĩnh viễn là",
+      "type": "true_false",
+      "question": "dụng cụ tử cung vì có thể đặt trong khoảng thời gian dài.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 144,
+      "chapter_id": 25,
+      "chapter": "Biện pháp tránh thai vĩnh viễn là",
+      "type": "true_false",
+      "question": "thắt ỗng dẫn trứng vì sau thắt rất khó nối lại được.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 145,
+      "chapter_id": 25,
+      "chapter": "Biện pháp tránh thai vĩnh viễn là",
+      "type": "true_false",
+      "question": "thắt ống dẫn tinh vì sau thắt rất khó nối lại được.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 146,
+      "chapter_id": 26,
+      "chapter": "Biện pháp tránh thai tạm thời là",
+      "type": "true_false",
+      "question": "thắt ống dẫn trứng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 147,
+      "chapter_id": 26,
+      "chapter": "Biện pháp tránh thai tạm thời là",
+      "type": "true_false",
+      "question": "thắt ống dẫn tinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 148,
+      "chapter_id": 26,
+      "chapter": "Biện pháp tránh thai tạm thời là",
+      "type": "true_false",
+      "question": "bao cao su.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 149,
+      "chapter_id": 26,
+      "chapter": "Biện pháp tránh thai tạm thời là",
+      "type": "true_false",
+      "question": "dụng cụ tử cung.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 150,
+      "chapter_id": 27,
+      "chapter": "Chức năng của buồng trứng",
+      "type": "true_false",
+      "question": "Hoàng thể bài tiết HCG trong thời kỳ mang thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 151,
+      "chapter_id": 27,
+      "chapter": "Chức năng của buồng trứng",
+      "type": "true_false",
+      "question": "Noãn nang phát triển bài tiết estrogen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 152,
+      "chapter_id": 27,
+      "chapter": "Chức năng của buồng trứng",
+      "type": "true_false",
+      "question": "Buồng trứng bài tiết cả progesteron và estrogen từ tuổi mới sinh đến",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 153,
+      "chapter_id": 27,
+      "chapter": "Chức năng của buồng trứng",
+      "type": "true_false",
+      "question": "tuổi mãn kinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 154,
+      "chapter_id": 27,
+      "chapter": "Chức năng của buồng trứng",
+      "type": "true_false",
+      "question": "Hoàng thể có khả năng bài tiết progesteron và estrogen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 155,
+      "chapter_id": 28,
+      "chapter": "Chu kỳ kinh nguyệt",
+      "type": "true_false",
+      "question": "Chu kỳ kinh nguyệt là khoảng thời gian giữa hai ngày sạch kinh của hai",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 156,
+      "chapter_id": 28,
+      "chapter": "Chu kỳ kinh nguyệt",
+      "type": "true_false",
+      "question": "chu kỳ kế tiếp nhau.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 157,
+      "chapter_id": 28,
+      "chapter": "Chu kỳ kinh nguyệt",
+      "type": "true_false",
+      "question": "Estrogen có tác dụng tái tạo và phát triển lớp niêm mạc chức năng của tử",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 158,
+      "chapter_id": 28,
+      "chapter": "Chu kỳ kinh nguyệt",
+      "type": "true_false",
+      "question": "Độ dài giai đoạn tăng sinh của mọi loại chu kỳ kinh nguyệt đều bằng",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 159,
+      "chapter_id": 28,
+      "chapter": "Chu kỳ kinh nguyệt",
+      "type": "true_false",
+      "question": "Cơ chế điều hoà ngược dương tính xảy ra vào cuối giai đoạn bài tiết của",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 160,
+      "chapter_id": 28,
+      "chapter": "Chu kỳ kinh nguyệt",
+      "type": "true_false",
+      "question": "chu kỳ kinh nguyệt.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 161,
+      "chapter_id": 29,
+      "chapter": "Các hormon liên quan tới tuyến vú",
+      "type": "true_false",
+      "question": "Prolactin chưa có tác dụng kích thích tổng hợp sữa kể cả khi đã đạt được",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 162,
+      "chapter_id": 29,
+      "chapter": "Các hormon liên quan tới tuyến vú",
+      "type": "true_false",
+      "question": "nồng độ cao trong máu lúc mang thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 163,
+      "chapter_id": 29,
+      "chapter": "Các hormon liên quan tới tuyến vú",
+      "type": "true_false",
+      "question": "Progesteron kích thích phát triển ống dẫn sữa.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 164,
+      "chapter_id": 29,
+      "chapter": "Các hormon liên quan tới tuyến vú",
+      "type": "true_false",
+      "question": "Estrogen có tác dụng kích thích phát triển nang tuyến và thuỳ tuyến vú.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 165,
+      "chapter_id": 29,
+      "chapter": "Các hormon liên quan tới tuyến vú",
+      "type": "true_false",
+      "question": "Oxytocin được tổng hợp tại thuỳ sau tuyến yên.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 166,
+      "chapter_id": 30,
+      "chapter": "Về hormon hCG",
+      "type": "true_false",
+      "question": "Nồng độ hCG trong máu cao nhất vào ngày 50 - 60 tính từ lúc thụ thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 167,
+      "chapter_id": 30,
+      "chapter": "Về hormon hCG",
+      "type": "true_false",
+      "question": "Bản chất của hCG là steroid.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 168,
+      "chapter_id": 30,
+      "chapter": "Về hormon hCG",
+      "type": "true_false",
+      "question": "Rau thai bài tiết hCG thay LH duy trì hoàng thể.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 169,
+      "chapter_id": 30,
+      "chapter": "Về hormon hCG",
+      "type": "true_false",
+      "question": "hCG có cấu tạo và tác dụng giống FSH.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 170,
+      "chapter_id": 31,
+      "chapter": "Thụ thai và mang thai",
+      "type": "true_false",
+      "question": "Trong mọi điều kiện (có thai hoặc không có thai) hoàng thể chỉ tồn tại",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 171,
+      "chapter_id": 31,
+      "chapter": "Thụ thai và mang thai",
+      "type": "true_false",
+      "question": "12 - 13 ngày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 172,
+      "chapter_id": 31,
+      "chapter": "Thụ thai và mang thai",
+      "type": "true_false",
+      "question": "Rau thai và hoàng thể đều tiết progesteron và estrogen để duy trì thai.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 173,
+      "chapter_id": 31,
+      "chapter": "Thụ thai và mang thai",
+      "type": "true_false",
+      "question": "Sau thụ thai, phôi hình thành và di chuyển đến buồng tử cung thì làm tổ",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 174,
+      "chapter_id": 31,
+      "chapter": "Thụ thai và mang thai",
+      "type": "true_false",
+      "question": "ngay ở niêm mạc tử cung.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 175,
+      "chapter_id": 31,
+      "chapter": "Thụ thai và mang thai",
+      "type": "true_false",
+      "question": "Thụ tinh thường xảy ra ở trong buồng tử cung.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 176,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "Có thể xác định mang thai bằng tiêm huyết thanh người thử vào tĩnh mạch",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 177,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "thỏ cái tơ.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 178,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "Tinh trùng có trên tiêu bản khi làm phản ứng Galli - Mainini là từ nước",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 179,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "tiểu của phụ nữ đem thử.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 180,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "Nguyên tắc cơ bản của mọi phương pháp chẩn đoán có thai là phát hiện hCG",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 181,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "trong máu hoặc nước tiểu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 182,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "Chẩn đoán có thai bằng phương pháp Wide-Gemzell dựa vào khả năng sinh",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 183,
+      "chapter_id": 32,
+      "chapter": "Chẩn đoán xác định có thai",
+      "type": "true_false",
+      "question": "kháng thể của hCG.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 184,
+      "chapter_id": 33,
+      "chapter": "Kinh nguyệt",
+      "type": "true_false",
+      "question": "Progesteron không có tác dụng lên lớp niêm mạc chức năng của tử cung",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 185,
+      "chapter_id": 33,
+      "chapter": "Kinh nguyệt",
+      "type": "true_false",
+      "question": "trong giai đoạn tăng sinh.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 186,
+      "chapter_id": 33,
+      "chapter": "Kinh nguyệt",
+      "type": "true_false",
+      "question": "Độ dài chu kỳ kinh nguyệt ở phần lớn phụ nữ là 28 - 30 ngày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 187,
+      "chapter_id": 33,
+      "chapter": "Kinh nguyệt",
+      "type": "true_false",
+      "question": "Nguyên nhân dẫn tới hành kinh là do suy giảm hoàng thể.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 188,
+      "chapter_id": 33,
+      "chapter": "Kinh nguyệt",
+      "type": "true_false",
+      "question": "Estrogen gây bài tiết niêm dịch trong giai đoạn bài tiết.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 189,
+      "chapter_id": 34,
+      "chapter": "Bài tiết và bài xuất sữa",
+      "type": "true_false",
+      "question": "Oxytocin có chức năng gây sổ thai và bài xuất sữa.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 190,
+      "chapter_id": 34,
+      "chapter": "Bài tiết và bài xuất sữa",
+      "type": "true_false",
+      "question": "Sữa được tổng hợp liên tục trong thời kỳ nuôi con.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 191,
+      "chapter_id": 34,
+      "chapter": "Bài tiết và bài xuất sữa",
+      "type": "true_false",
+      "question": "Sự bài xuất sữa cũng là một phản xạ.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 192,
+      "chapter_id": 34,
+      "chapter": "Bài tiết và bài xuất sữa",
+      "type": "true_false",
+      "question": "Prolactin có tác dụng kích thích tổng hợp sữa khi có nồng độ cao trong",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 193,
+      "chapter_id": 34,
+      "chapter": "Bài tiết và bài xuất sữa",
+      "type": "true_false",
+      "question": "máu (cả thời kỳ mang thai).",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 194,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Phân chia giảm nhiễm xảy ra trong giai đoạn: (SAI ĐÁP ÁN)",
+      "options": {
+        "A": "Từ tinh nguyên bào nhóm A thành tinh nguyên bào nhóm B",
+        "B": ". Từ tinh nguyên bào nhóm B thành tinh bào I",
+        "C": "Từ tinh bào I thành tinh bào II",
+        "D": "Từ tinh bào II thành tiền tinh trùng"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 195,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Enzym hyaluronidase được chứa ở:",
+      "options": {
+        "A": "Đầu tinh trùng",
+        "B": "Cổ tinh trùng",
+        "C": ". Cực đầu tinh trùng",
+        "D": "Bộ Golgi của cực đầu tinh trùng"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 196,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tinh trùng bắt đầu có khả năng di động và thụ tinh khi ở:",
+      "options": {
+        "A": "Phần đầu ống mào tinh ngay khi vừa rời khỏi ống sinh tinh",
+        "B": ". Trong ống mào tinh sau 24h kể từ khi rời ống sinh tinh",
+        "C": "Trong dịch ống phóng tinh",
+        "D": "Bất kỳ nơi nào khi tinh trùng đã được sản sinh và có đủ đầu, cổ, đuôi"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 197,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các yếu tố sau đây đều làm giảm sản sinh và hoạt động của tinh trùng,",
+      "options": {
+        "A": "Nhiệt độ 37-38^0^C",
+        "B": ". pH môi trường hơi kiềm",
+        "C": "Nhiễm virus quai bị",
+        "D": "Nhiễm chất phóng xạ"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 198,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các tác dụng sau đây là do testosteron gây ra trong thời kỳ bào thai,",
+      "options": {
+        "A": "Biệt hoá trung tâm hướng sinh dục của vùng dưới đồi theo kiểu nam",
+        "B": "Phát triển ống sinh dục trung tính thành đường sinh dục trong của",
+        "C": ". Phát triển và hoàn thiện cơ quan sinh dục nam",
+        "D": "Kích thích tinh hoàn di chuyển từ bụng xuống bìu"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 199,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Nơi bài tiết testosteron chủ yếu là:",
+      "options": {
+        "A": "Tuyến vỏ thượng thận",
+        "B": ". Tế bào Leydig của tinh hoàn",
+        "C": "Tế bào lớp áo trong noãn nam",
+        "D": "Tế bào hạt của hoàng thể"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 200,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các tác dụng sau đây đều là của testosteron, TRỪ:",
+      "options": {
+        "A": "Tăng tổng hợp protein của cơ",
+        "B": ". Tăng tổng hợp protein của các phủ tạng",
+        "C": "Tăng tổng hợp protein của khung xương",
+        "D": "Tăng chuyển hoá cơ sở"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 201,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "thì]{.mark}",
+      "options": {
+        "A": "Giảm hoạt động của tạo cốt bào",
+        "B": "Giảm lắng đọng canxi ở xương",
+        "C": ". Tăng chiều dài của xương",
+        "D": "Giảm bề dày của xương"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 202,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của testosteron lên xương:",
+      "options": {
+        "A": "Giảm hoạt động của tạo cốt bào",
+        "B": "Giảm lắng đọng canxi ở xương",
+        "C": ". Tăng chiều dài của xương",
+        "D": "Giảm bề dày của xương"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 203,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "FSH có các tác dụng sau đây, TRỪ:",
+      "options": {
+        "A": "Kích thích ống sinh tinh phát triển",
+        "B": "Kích thích sản sinh tinh trùng ở giai đoạn đầu",
+        "C": ". Kích thích tế bào Leydig bài tiết hormon",
+        "D": "Kích thích tế bào Sertoli bài tiết chất dinh dưỡng cho tế bào dòng"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 204,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "LH có tác dụng:",
+      "options": {
+        "A": "Kích thích tinh hoàn phát triển và bài tiết hormon.",
+        "B": ". Kích thích tế bào Leydig phát triển và bài tiết hormon",
+        "C": "Kích thích ống sinh tinh phát triển và sản sinh tinh trùng",
+        "D": "Kích thích tế bào Sertoli phát triển và bài tiết chất dinh dưỡng"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 205,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tinh hoàn hoạt động từ:",
+      "options": {
+        "A": "Thời kỳ bào thai cho đến hết đời",
+        "B": "Sau khi sinh cho đến hết đời",
+        "C": "Tuổi dậy thì cho đến hết đời",
+        "D": ". Thời kỳ bào thai và tuổi dậy thì cho đến hết đời"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 206,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Testosteron được bài tiết từ:",
+      "options": {
+        "A": "Tế bào Sertoli của tinh hoàn",
+        "B": ". Tế bào Leydig của tinh hoàn",
+        "C": "Tế bào mầm của ống sinh tinh",
+        "D": "Tế bào lớp bó của tuyến thượng thận"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 207,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Nơi có khả năng sản xuất tinh trùng:",
+      "options": {
+        "A": "Tuyến kẽ của tinh hoàn",
+        "B": "Ống dẫn tinh",
+        "C": ". Ống sinh tinh",
+        "D": "Mào tinh hoàn"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 208,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Vai trò testosteron trong thời kỳ bào thai:",
+      "options": {
+        "A": "Tạo feedback âm điều hoà bài tiết testosteron.",
+        "B": ". Kích thích ống Wolf phát triển thành đường sinh dục nam.",
+        "C": "Biệt hoá tinh trùng giai đoạn cuối.",
+        "D": "Làm xuất hiện đặc tính sinh dục thứ phát."
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 209,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng chính của testosteron sau dậy thì:",
+      "options": {
+        "A": ". Phát triển cơ quan sinh dục",
+        "B": "Thúc đẩy biệt hoá tinh trùng giai đoạn cuối",
+        "C": "Thúc đẩy biệt hoá tinh trùng giai đoạn đầu",
+        "D": "Đưa tinh hoàn từ ổ bụng xuống bìu"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 210,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Hormon điều hoà bài tiết testosteron sau dậy thì:",
+      "options": {
+        "A": "HCG",
+        "B": "FSH",
+        "C": ". LH",
+        "D": "Prolactin"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 211,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Hormon điều hoà sản sinh tinh trùng:",
+      "options": {
+        "A": "FSH",
+        "B": "LH",
+        "C": "GnRH",
+        "D": ". Inhibin"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 212,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "của các kháng thể vào ống sinh tinh.",
+      "options": {
+        "A": "LH.",
+        "B": "FSH.",
+        "C": "Testosteron.",
+        "D": ". Cortisol."
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 213,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các hormon sau đây ảnh hưởng đến sản sinh tinh trùng, TRỪ:",
+      "options": {
+        "A": "LH.",
+        "B": "FSH.",
+        "C": "Testosteron.",
+        "D": ". Cortisol."
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 214,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các tác dụng sau đây đều là của HCG, TRỪ:",
+      "options": {
+        "A": "Dinh dưỡng hoàng thể trong 4 tháng đầu của thời kỳ có thai.",
+        "B": "Kích thích hoàng thể sản xuất estrogen và progesteron.",
+        "C": ". Kích thích buồng trứng thai nhi bài tiết estrogen.",
+        "D": "Kích thích tinh hoàn thai nhi bài tiết testosteron."
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 215,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "niêm mạc tử cung",
+      "options": {
+        "A": "Tăng tổng hợp DNA ở các mô của cơ thể",
+        "B": "Tăng quá trình sao chép RNAm ở các mô của cơ thể",
+        "C": "Tăng tổng hợp protein ở các mô của cơ thể",
+        "D": ". Tăng tổng hợp protein ở một số cơ quan đích"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 216,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của estrogen lên chuyển hoá protein là:",
+      "options": {
+        "A": "Tăng tổng hợp DNA ở các mô của cơ thể",
+        "B": "Tăng quá trình sao chép RNAm ở các mô của cơ thể",
+        "C": "Tăng tổng hợp protein ở các mô của cơ thể",
+        "D": ". Tăng tổng hợp protein ở một số cơ quan đích"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 217,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Estrogen làm phát triển cơ quan sinh dục từ:",
+      "options": {
+        "A": "Thời kỳ bào thai",
+        "B": "Sau khi sinh đến tuổi trưởng thành",
+        "C": ". Tuổi dậy thì đến mãn kinh",
+        "D": "Tuổi dậy thì và khi có thai"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 218,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Sau đây là các tác dụng của estrogen lên cơ tử cung, TRỪ:",
+      "options": {
+        "A": "Tăng co bóp cơ tử cung",
+        "B": "Tăng hàm lượng actomyosin ở cơ tử cung",
+        "C": "Tăng lưu lượng máu đến cơ tử cung",
+        "D": ". Giảm tính nhậy cảm của cơ tử cung với oxytocin"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 219,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Estrogen là một steroid có:",
+      "options": {
+        "A": "17 carbon",
+        "B": ". 18 carbon",
+        "C": "19 carbon",
+        "D": "21 carbon"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 220,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của estrogen trên xương là:",
+      "options": {
+        "A": "Tăng hoạt tính của huỷ cốt bào",
+        "B": ". Tăng hoạt tính của tạo cốt bào",
+        "C": "Tăng nồng độ ion Ca^2+^ trong máu",
+        "D": "Tăng hấp thu ion Ca^2+^ ở ruột"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 221,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của estrogen trên tuyến vú:",
+      "options": {
+        "A": "Phát triển hệ thống ống tuyến",
+        "B": "Phát triển mô đệm và lớp mỡ",
+        "C": "Phát triển bọc tuyến",
+        "D": ". Phát triển cả hệ thống ống tuyến, mô đệm và lớp mỡ"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 222,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của estrogen lên tuyến cổ tử cung làm tăng bài tiết:",
+      "options": {
+        "A": "Dịch nhày kiềm",
+        "B": ". Dịch nhày, loãng, mỏng",
+        "C": "Dịch nhày, quánh, kiềm",
+        "D": "Dịch nhày, loãng, kiềm"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 223,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Receptor tiếp nhận estrogen nằm ở:",
+      "options": {
+        "A": "Trên màng tế bào đích",
+        "B": "Trong bào tương",
+        "C": "Trên màng nhân",
+        "D": ".Trong tế bào"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 224,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "hợp IP3]{.mark}",
+      "options": {
+        "A": ". FSH",
+        "B": "LH",
+        "C": "HCG",
+        "D": "GnRH"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 225,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Hormon có tác dụng kích thích trực tiếp bài tiết estrogen trong chu kỳ",
+      "options": {
+        "A": ". FSH",
+        "B": "LH",
+        "C": "HCG",
+        "D": "GnRH"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 226,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "kinh nguyệt là:",
+      "options": {
+        "A": ". FSH",
+        "B": "LH",
+        "C": "HCG",
+        "D": "GnRH"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 227,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Bản chất hoá học của progesteron là steroid có:",
+      "options": {
+        "A": "17 carbon",
+        "B": "18 carbon",
+        "C": "19 carbon",
+        "D": ". 21 carbon"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 228,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Progesteron là hormon hoài thai vì, trừ",
+      "options": {
+        "A": "Kích thích tuyến phát triển dài và sát gần nhau",
+        "B": "Kích thích mạch máu phát triển dài, xoắn",
+        "C": "Kích thích bài tiết niêm dịch và glycogen",
+        "D": ". Có khả năng gây phản ứng màng rụng"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 229,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của progesteron lên tuyến vú:",
+      "options": {
+        "A": ". Phát triển nang tuyến, thuỳ tuyến",
+        "B": "Phát triển mô đệm",
+        "C": "Phát triển mô mỡ",
+        "D": "Phát triển ống tuyến, nang tuyến"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 230,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Progesteron có các tác dụng sau đây,TRỪ:",
+      "options": {
+        "A": "Tăng thoái hoá protein",
+        "B": "Tăng thân nhiệt",
+        "C": ". Tăng tổng hợp lipid",
+        "D": "Tăng tái hấp thu ion Na^+^ ở ống lượn xa khi nồng độ cao"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 231,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Tác dụng của progesteron lên cổ tử cung:",
+      "options": {
+        "A": "Tăng bài tiết dịch nhày loãng, mỏng",
+        "B": "Tăng bài tiết dịch nhày kiềm",
+        "C": "Tăng bài tiết dịch nhày quánh",
+        "D": ". Tăng bài tiết dịch nhày quánh, dày"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 232,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Ở người phụ nữ bình thường, nơi bài tiết progesteron chủ yếu là:",
+      "options": {
+        "A": "Nang noãn",
+        "B": ". Hoàng thể",
+        "C": "Rau thai",
+        "D": "Vỏ thượng thận"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 233,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Trong chu kỳ kinh nguyệt hormon trực tiếp kích thích bài tiết",
+      "options": {
+        "A": "GnRH",
+        "B": "HCG",
+        "C": "FSH",
+        "D": ". LH"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 234,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "progesteron là:",
+      "options": {
+        "A": "GnRH",
+        "B": "HCG",
+        "C": "FSH",
+        "D": ". LH"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 235,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Độ dài trung bình của chu kỳ kinh nguyệt ở người phụ nữ bình thường là:",
+      "options": {
+        "A": "25-28 ngày",
+        "B": "25-30 ngày",
+        "C": ". 28-30 ngày",
+        "D": "28-32 ngày"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 236,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Chu kỳ kinh nguyệt 35 ngày thì noãn sẽ được phóng vào ngày thứ:",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": ". 21"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 237,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Trước lúc phóng noãn nồng độ các hormon đều tăng cao, TRỪ:",
+      "options": {
+        "A": "Estrogen",
+        "B": ". Progesteron",
+        "C": "FSH",
+        "D": "LH"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 238,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "sinh dục]{.mark}",
+      "options": {
+        "D": "Vùng dưới đồi giảm tính nhậy cảm với tác dụng ức chế của hormon sinh",
+        "A": "Tuyến vú phát triển",
+        "B": "Lớn nhanh",
+        "C": ". Kinh nguyệt"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 239,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "dục do tuyến thượng thận bài tiết",
+      "options": {
+        "A": "Tuyến vú phát triển",
+        "B": "Lớn nhanh",
+        "C": ". Kinh nguyệt",
+        "D": "Mọc lông mu, lông nách"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 240,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Dấu hiện thể hiện dậy thì hoàn toàn ở nữ là:",
+      "options": {
+        "A": "Tuyến vú phát triển",
+        "B": "Lớn nhanh",
+        "C": ". Kinh nguyệt",
+        "D": "Mọc lông mu, lông nách"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 241,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Dấu hiệu chính thể hiện thời kỳ mãn kinh là:",
+      "options": {
+        "A": ". Hết kinh nguyệt",
+        "B": "Teo tuyến vú",
+        "C": "Loãng xương",
+        "D": "Tính tình thay đổi"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 242,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "]{.mark}D. Kích thích tế bào Sertoli",
+      "options": {
+        "A": "GH",
+        "B": "T3,T4",
+        "C": "Inhibin",
+        "D": ". Insulin"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 243,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Hormon ảnh hưởng đến sự sản sinh tinh trùng trừ ?",
+      "options": {
+        "A": "GH",
+        "B": "T3,T4",
+        "C": "Inhibin",
+        "D": ". Insulin"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 244,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Dấu hiệu thể hiện tuổi dậy thì bắt đầu ở nữ là:",
+      "options": {
+        "A": "Lớn nhanh",
+        "B": ". Tuyến vú bắt đầu phát triển",
+        "C": "Mọc lông nách, lông mu",
+        "D": "Kinh nguyệt"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 245,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Chẩn đoán có thai dựa vào sự xuất hiện của:",
+      "options": {
+        "A": "Relaxin",
+        "B": "HCS",
+        "C": ". HCG",
+        "D": "Progesteron"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 246,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các biện pháp tránh thai sau đây đều là biện pháp tạm thời, TRỪ:",
+      "options": {
+        "A": "Bao cao su",
+        "B": ". Thắt ống dẫn trứng",
+        "C": "Thuốc tránh thai",
+        "D": "Dụng cụ tử cung"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 247,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Biện pháp tránh thai can thiệp vào giai đoạn làm tổ của trứng đã thụ",
+      "options": {
+        "A": "Thuốc tránh thai dạng viên kết hợp",
+        "B": "Viên prostaglandin đặt tại âm đạo",
+        "C": ". Dụng cụ tử cung",
+        "D": "Nạo thai"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 248,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "tinh là:",
+      "options": {
+        "A": "Thuốc tránh thai dạng viên kết hợp",
+        "B": "Viên prostaglandin đặt tại âm đạo",
+        "C": ". Dụng cụ tử cung",
+        "D": "Nạo thai"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 249,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Sự hình thành và hoàn thiện về giới tính của thai phụ thuộc vào các yếu",
+      "options": {
+        "A": ". Nhiễm sẵc thể giới tính của noãn",
+        "B": "Nhiễm sắc thể giới tính của tinh trùng",
+        "C": "Sự kết hợp giữa nhiễm sắc thể giới tính của noãn và tinh trùng",
+        "D": "Sự có mặt của testosteron trong máu của bào thai 7 - 8 tuần tuổi"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 250,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "tố sau, TRỪ :",
+      "options": {
+        "A": ". Nhiễm sẵc thể giới tính của noãn",
+        "B": "Nhiễm sắc thể giới tính của tinh trùng",
+        "C": "Sự kết hợp giữa nhiễm sắc thể giới tính của noãn và tinh trùng",
+        "D": "Sự có mặt của testosteron trong máu của bào thai 7 - 8 tuần tuổi"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 251,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Estrogen được bài tiết chủ yếu từ:",
+      "options": {
+        "A": "Tế bào lớp cầu của tuyến thượng thận",
+        "B": "Tế bào ở nang noãn chưa phát triển",
+        "C": ". Tế bào hạt lớp áo trong của nang noãn và hoàng thể",
+        "D": "Tế bào tuyến kẽ của tinh hoàn"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 252,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Nguồn gốc chính của Estrogen trong 3 tháng giữa và 3 tháng cuối của thai",
+      "options": {
+        "A": "Hoàng thể",
+        "B": "Rau thai",
+        "C": ". Rau thai và 1 phần từ thai nhi",
+        "D": "Tuyến thượng thận thai nhi"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 253,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "kỳ là từ đâu?",
+      "options": {
+        "A": "Hoàng thể",
+        "B": "Rau thai",
+        "C": ". Rau thai và 1 phần từ thai nhi",
+        "D": "Tuyến thượng thận thai nhi"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 254,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Mô bài tiết progesteron chủ yếu là:",
+      "options": {
+        "A": "Nang noãn",
+        "B": ". Hoàng thể",
+        "C": "Tinh hoàn",
+        "D": "Lớp lưới của vỏ thượng thận"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 255,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Estrogen có tác dụng:",
+      "options": {
+        "A": "Kích thích tuyến niêm mạc tử cung bài tiết niêm dịch",
+        "B": "Làm xuất hiện trứng cá lúc dậy thì",
+        "C": ". Phát triển tầm vóc và đặc tính sinh dục thứ phát",
+        "D": "Phát triển nang tuyến vú"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 256,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Progesteron có tác dụng:",
+      "options": {
+        "A": "Tăng kích thước tử cung",
+        "B": "Phát triển lớp niêm mạc nền của tử cung",
+        "C": ". Làm giảm co bóp cơ tử cung đang mang thai",
+        "D": "Phát triển hệ thống ống dẫn sữa"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 257,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Hormon kích thích bài tiết estrogen:",
+      "options": {
+        "A": ". FSH",
+        "B": "Relaxin",
+        "C": "Prolactin",
+        "D": "LH."
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 258,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Sự thụ tinh xảy ra tại:",
+      "options": {
+        "A": "Buồng tử cung",
+        "B": "Sừng tử cung",
+        "C": ". 1/3 ngoài ống dẫn trứng",
+        "D": "1/3 trong ống dẫn trứng"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 259,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Một bệnh nhân nam vô sinh, cần làm xét nghiệm nội tiết nào?",
+      "options": {
+        "A": "FSH, testosterone",
+        "B": "LH, testosterone",
+        "C": "Testosterone",
+        "D": ". FSH, LH, inhibin, testosterone"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 260,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Rau thai bài tiết hormon:",
+      "options": {
+        "A": "LH",
+        "B": ". HCG",
+        "C": "Gonadotropin",
+        "D": "Oxytocin"
+      },
+      "correct_answer": "B",
+      "explanation": null
+    },
+    {
+      "id": 261,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Các hormon sau đây đều do rau thai bài tiết, TRỪ:",
+      "options": {
+        "A": "Estrogen",
+        "B": "Progesteron",
+        "C": "HCG",
+        "D": ". Gonadotropin."
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 262,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Nguyên lý chẩn đoán thai là tìm:",
+      "options": {
+        "A": "LH trong máu và nước tiểu",
+        "B": "FSH trong máu và nước tiểu",
+        "C": ". HCG trong máu và nước tiểu",
+        "D": "Prolactin trong máu và nước tiểu"
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 263,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Hormon có tác dụng tới hoạt động của tuyến vú:",
+      "options": {
+        "A": "Estrogen",
+        "B": "Testosteron",
+        "C": "Progesteron",
+        "D": ". Prolactin"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    },
+    {
+      "id": 264,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Progesteron là hormon dưỡng thai vì:",
+      "options": {
+        "A": "Phát triển niêm mạc tử cung phù hợp để trứng đã thụ tinh dễ làm tổ ở",
+        "B": "Phát triển mạch máu do đó làm tăng lượng máu đến nuôi thai.",
+        "C": ". Giảm co bóp cơ tử cung.",
+        "D": "Bài tiết dịch có nhiều chất dinh dưỡng nuôi thai."
+      },
+      "correct_answer": "C",
+      "explanation": null
+    },
+    {
+      "id": 265,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Estrogen có tác dụng trong mỗi chu kỳ kinh nguyệt:",
+      "options": {
+        "A": ". Tạo feedback dương dẫn tới chín và phóng noãn",
+        "B": "Làm giảm co bóp cơ tử cung",
+        "C": "Tái tạo và phát triển lớp niêm mạc nền tử cung",
+        "D": "Gây hiện tượng tăng thân nhiệt"
+      },
+      "correct_answer": "A",
+      "explanation": null
+    },
+    {
+      "id": 266,
+      "chapter_id": null,
+      "chapter": "Multiple Choice Questions",
+      "type": "multiple_choice",
+      "question": "Cơ sở khoa học của các biện pháp tránh thai tác động vào giai đoạn thụ",
+      "options": {
+        "A": "Uống progesteron để ngăn cản phóng noãn",
+        "B": "Tiêm progesteron để ngăn cản biệt hoá tinh trùng",
+        "C": "Giao hợp tránh xa ngày rụng trứng",
+        "D": ". Ngăn cản tinh trùng gặp noãn"
+      },
+      "correct_answer": "D",
+      "explanation": null
+    }
+  ]
+}

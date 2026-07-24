@@ -1,0 +1,5251 @@
+{
+  "metadata": {
+    "subject": "Y học cổ truyền",
+    "subject_slug": "y_hoc_co_truyen",
+    "version": "1.0",
+    "created_date": "2026-07-19",
+    "total_chapters": 10,
+    "total_questions": 300,
+    "language": "vi"
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "HỌC THUYẾT ÂM DƯƠNG",
+      "total_questions": 66,
+      "question_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "name": "HỌC THUYẾT TẠNG TƯỢNG",
+      "total_questions": 28,
+      "question_ids": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "name": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "total_questions": 16,
+      "question_ids": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "name": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "total_questions": 18,
+      "question_ids": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "name": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "total_questions": 19,
+      "question_ids": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "name": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "total_questions": 18,
+      "question_ids": [
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "name": "TỨ CHẨN",
+      "total_questions": 31,
+      "question_ids": [
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "name": "BÁT CƯƠNG",
+      "total_questions": 53,
+      "question_ids": [
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "name": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "total_questions": 32,
+      "question_ids": [
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "name": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "total_questions": 19,
+      "question_ids": [
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 1,
+      "text": "Bất kỳ sự vật nào cũng có hai thuộc tính âm và dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 2,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 2,
+      "text": " Vạn vật trong vũ trụ đều do âm dương cấu tạo nên.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 3,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 3,
+      "text": "Mạnh mẽ, sáng sủa, tiến bộ, bên dưới là thuộc tính của dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 4,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 4,
+      "text": "Yếu đuối, tối tăm, bên trong là thuộc tính của âm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 5,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 5,
+      "text": "Bệnh tật phát sinh là do sự mất cân bằng và rối loạn âm dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 6,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 6,
+      "text": "Nguyên tắc phòng bệnh là giữ gìn làm sao cho âm dương luôn cân bằng và không bị rối loạn",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 7,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 7,
+      "text": "Trong điều trị bằng châm cứu thì bệnh hàn thường châm, bệnh nhiệt thường cứu",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 8,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 8,
+      "text": "Từ 6 giờ sáng đến 18 giờ là âm nhưng trong đó từ 6 giờ sáng đến 12 giờ thuộc dương, từ 12 giờ đến 18 giờ là lúc mặt trời hạ dần thuộc âm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 9,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 9,
+      "text": "Khí là âm cho nên mang tính chất hoạt động",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 10,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 10,
+      "text": "Âm dược là các thuốc có lính lạnh, mát dùng điều trị cho bệnh nhiệt thuộc dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 11,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 11,
+      "text": "Nguyên tắc điều trị là lập lại cân bằng và điều hòa âm dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 12,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 12,
+      "text": "Khi dương hơn âm biểu hiện là nhiệt, khi âm hơn dương biểu hiện là hàn",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 13,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 13,
+      "text": "Trước, trong, dưới thuộc âm. Trên, sau ngoài thuộc dương.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 14,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 14,
+      "text": "Động, mạnh, lạnh thuộc dương. Tĩnh, yếu, nóng thuộc âm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 15,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 15,
+      "text": "Vật chất thuộc âm, cơ năng hoạt động thuộc dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 16,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 17,
+      "text": "Vạn vật, tùy vị trí và trạng thái hoạt động, có lúc là dương, có lúc là âm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 17,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 18,
+      "text": "Bụng, ngực, phủ, huyết thuộc dương. Lưng, khí, tạng thuộc dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 18,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 19,
+      "text": "Âm hư sinh nội hàn, dương hư sinh ngoại hàn",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 19,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 20,
+      "text": "Âm thịnh sinh nội nhiệt, dương thịnh sinh ngoại nhiệt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 20,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 1,
+      "text": "Học thuyết ngũ hành là cụ thể hóa của học thuyết âm dương",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 21,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 2,
+      "text": "Ngũ hành là năm loại vật chất cấu tạo nên vũ trụ và vạn vật kể cả con người",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 22,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 3,
+      "text": "Ngũ hành giải thích nguồn gốc phát sinh, phát triển của một sự vật",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 23,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 4,
+      "text": "Âm dương giải thích mối quan hệ của các sự vật",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 24,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 5,
+      "text": "Quy luật ngũ hành tương sinh: là hành nọ sinh ra hành kia một cách thứ tự, tạo thành một vòng tròn khép kín",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 25,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 6,
+      "text": "Quy luật ngũ hành tương khắc: là hành nọ chế ước hành kia",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 26,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 7,
+      "text": "Quan hệ ngũ hành tương khắc là quan hệ mẹ con",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 27,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 8,
+      "text": "Quy luật tương thừa: là hiện tượng hành nọ khắc hành kia nhưng không khắc được và bị khắc ngược trở lại",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 28,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 9,
+      "text": "Quy luật tương vũ: là hiện tượng hành nọ khắc hành kia nhưng khắc quá mạnh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 29,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 10,
+      "text": "Thứ tự của ngũ hành tương khắc là: Mộc khắc thổ, thổ khắc hỏa, hỏa khắc kim, kim khắc mộc",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 30,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 11,
+      "text": "Mùa thu hay có bệnh ở can, mùa đông hay có bệnh ở thận, mùa cuối hè hay có bệnh ở tâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 31,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 12,
+      "text": "Thấp hay gây bệnh ở tỳ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 32,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 13,
+      "text": "Mùa xuân hay có bệnh ở phế, mùa hè hay có bệnh ở tâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 33,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 14,
+      "text": "Trong chẩn đoán bệnh: da sắc vàng là bệnh thuộc can đởm, da sắc đen bệnh thuộc thận",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 34,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 15,
+      "text": "Trong chẩn đoán bệnh: nếu bệnh nhân hay cáu gắt, giận dữ là bệnh thuộc tâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 35,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 16,
+      "text": "Theo ngũ hành: muốn dẫn thuốc vào tỳ có thể sao thuốc với cám, đất hoàng thổ…",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 36,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 17,
+      "text": "Trong châm cứu: có thể lấy huyệt ở kinh bị bệnh  hoặc huyệt ở đường kinh có quan lệ tương sinh, tương khắc với kinh đó",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 37,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 18,
+      "text": "Trong châm cứu: quan hệ ngũ hành của các huyệt ngũ du ở cùng một đường kinh là quan hệ tương sinh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 38,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 19,
+      "text": "Mất ngủ do tâm là chính tà, do tỳ là thực tà",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 39,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "true_false",
+      "number": 20,
+      "text": "Thuốc có màu đỏ, vị đắng vào kinh tâm, thuốc có màu vàng, vị ngọt vào tỳ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 40,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 1,
+      "text": " Âm dương hoạt động theo qui luật tiêu trưởng nghĩa là :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm dương hoạt động làm cho sự vật biến hoá và cũng làm cho sự vật phát sinh, phát triển."
+        },
+        {
+          "letter": "B",
+          "text": "Làm cho sự vật không phát sinh phát, phát triển được"
+        },
+        {
+          "letter": "C",
+          "text": "Làm cho sự vật tiêu đi."
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ làm cho sự vật phát sinh, phát triển"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 41,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 3,
+      "text": "Âm dương hoạt động theo qui luật hỗ căn nghĩa là :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm dương hỗ trợ, nương tựa vào nhau"
+        },
+        {
+          "letter": "B",
+          "text": "Thúc đẩy quá trình biến hoá để sự vật phát sinh, phát triển theo quy luật tự nhiên."
+        },
+        {
+          "letter": "C",
+          "text": "Âm dương chế ước lẫn nhau, kìm hãm lẫn nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương thúc đẩy nhau để tồn tại."
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 42,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 4,
+      "text": "Âm dương hoạt động theo qui luật bình hành nghĩa là :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm dương hoạt động một cách cân bằng để đảm bảo sự vật luôn tồn tại và phát triển theo quy luật tự nhiên."
+        },
+        {
+          "letter": "B",
+          "text": "Âm dương hỗ trợ, nương tựa vào nhau."
+        },
+        {
+          "letter": "C",
+          "text": "Âm dương hoạt động vừa mâu thuẫn vừa thống nhất để lập lại thế cân bằng"
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương hoạt động làm cho sự vật biến hoá và cũng làm cho sự vật phát sinh, phát triển"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 43,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 5,
+      "text": "Ứng dụng học thuyết âm dương trong giải phẫu phân chia cơ thể như sau:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bên trong, phía trước, ở dưới,  bụng, ngực, tạng, huyết thuộc âm."
+        },
+        {
+          "letter": "B",
+          "text": "Bên ngoài, phía trước, ở trên, bụng, ngực, khí thuộc dương."
+        },
+        {
+          "letter": "C",
+          "text": "Bên trong, phía sau, ở dưới, bụng, ngực, phủ, khí thuộc âm"
+        },
+        {
+          "letter": "D",
+          "text": "Bên ngoài, phía sau, ở trên, bụng, phủ, khí thuộc dương"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 44,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 6,
+      "text": "Hoạt động huyết nhờ khí đi nuôi dưỡng cơ thể được giải thích theo qui luật âm dương nào:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qui luật hỗ căn"
+        },
+        {
+          "letter": "B",
+          "text": "Qui luật bình hành"
+        },
+        {
+          "letter": "C",
+          "text": "Qui luật đối lập"
+        },
+        {
+          "letter": "D",
+          "text": "Qui luật tiêu và trưởng"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 45,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 7,
+      "text": "Biểu hiện ra ngoài của âm hư là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nội nhiệt"
+        },
+        {
+          "letter": "B",
+          "text": "Nội hàn"
+        },
+        {
+          "letter": "C",
+          "text": "Ngoại nhiệt"
+        },
+        {
+          "letter": "D",
+          "text": "Ngoại hàn"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 46,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 8,
+      "text": "Biểu hiện ra ngoài của dương hư là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nội nhiệt"
+        },
+        {
+          "letter": "B",
+          "text": "Nội hàn"
+        },
+        {
+          "letter": "C",
+          "text": "Ngoại nhiệt"
+        },
+        {
+          "letter": "D",
+          "text": "Ngoại hàn"
+        }
+      ],
+      "correct_answer": "D",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 47,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 9,
+      "text": " Ba cương lĩnh trong bát cương thuộc về âm là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biểu, thực, nhiệt"
+        },
+        {
+          "letter": "B",
+          "text": "Lý, hư, hàn"
+        }
+      ],
+      "correct_answer": "B",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 48,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 10,
+      "text": "Ba cương lĩnh trong bát cương thuộc về dương là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lý, hư, hàn"
+        },
+        {
+          "letter": "B",
+          "text": "Biểu, thực, nhiệt"
+        },
+        {
+          "letter": "C",
+          "text": "Biểu, hư, hàn"
+        },
+        {
+          "letter": "D",
+          "text": "Lý, hư, nhiệt"
+        }
+      ],
+      "correct_answer": "B",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 49,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 11,
+      "text": "Học thuyết âm dương có các quy luật sau trừ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm dương đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Âm dương tiêu trưởng"
+        },
+        {
+          "letter": "C",
+          "text": "Trong âm có dương, trong dương có âm"
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương bình hành"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 50,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 12,
+      "text": "Học thuyết âm dương có các đặc tính sau, trừ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trong âm có dương, trong dương có âm"
+        },
+        {
+          "letter": "B",
+          "text": "Âm dương mang tính chất quy ước tương đối"
+        },
+        {
+          "letter": "C",
+          "text": "Vạn vật trong vũ trụ đều do âm dương cấu tạo nên"
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương đối lập"
+        }
+      ],
+      "correct_answer": "D",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 51,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 13,
+      "text": "Theo quy ước âm dương thì từ 6h sáng đến 18 giờ thuộc:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm trong âm"
+        },
+        {
+          "letter": "B",
+          "text": "Dương trong âm"
+        },
+        {
+          "letter": "C",
+          "text": "Dương trong dương"
+        },
+        {
+          "letter": "D",
+          "text": "Âm trong dương"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 52,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 14,
+      "text": "Theo quy ước âm dương thì từ 18 đến 24h thuộc:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm trong âm"
+        },
+        {
+          "letter": "B",
+          "text": "Dương trong âm"
+        },
+        {
+          "letter": "C",
+          "text": "Dương trong dương"
+        },
+        {
+          "letter": "D",
+          "text": "Âm trong dương"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 53,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 15,
+      "text": "Theo quy ước âm dương, các đặc tính sau thuộc âm, trừ:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thấp, lạnh, tối"
+        },
+        {
+          "letter": "B",
+          "text": "Dưới, trước, trong"
+        },
+        {
+          "letter": "C",
+          "text": "Trên, yếu, nặng"
+        },
+        {
+          "letter": "D",
+          "text": "Tĩnh, vật chất, nước"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 54,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 16,
+      "text": "Từ lạnh sang nóng là :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm tiêu dương trưởng"
+        },
+        {
+          "letter": "B",
+          "text": "Dương tiêu âm trưởng"
+        },
+        {
+          "letter": "C",
+          "text": "Âm dương bình hành"
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương hỗ căn"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 55,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 17,
+      "text": "Các phát biểu sau đây đều đúng, trừ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm dương là quy luật của vũ trụ"
+        },
+        {
+          "letter": "B",
+          "text": "Âm dương là nguồn gốc của sự biến hoá"
+        },
+        {
+          "letter": "C",
+          "text": "Âm dương là nền tảng của sự sinh trưởng và phát dục."
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương là cơ sở để điều trị và phòng bệnh"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 56,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 18,
+      "text": "Các đường kinh sau thuộc âm, trừ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tâm, Tỳ, Tam tiêu"
+        },
+        {
+          "letter": "B",
+          "text": "Phế, Can, Thận"
+        },
+        {
+          "letter": "C",
+          "text": "Tâm, Tâm bào,  Can"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 57,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 19,
+      "text": "Dương dược là thuốc có tính :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ấm, nóng, trầm"
+        },
+        {
+          "letter": "B",
+          "text": "Ấm, mát, thăng"
+        },
+        {
+          "letter": "C",
+          "text": "Ấm, nóng, phù"
+        },
+        {
+          "letter": "D",
+          "text": "Ấm, nóng, giáng"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 58,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 20,
+      "text": "Âm dược là thuốc có tính :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lạnh, mát, trầm"
+        },
+        {
+          "letter": "B",
+          "text": "Lạnh, ôn, thăng"
+        },
+        {
+          "letter": "C",
+          "text": "Lạnh, mát, giáng"
+        },
+        {
+          "letter": "D",
+          "text": "Lạnh, mát, phù"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 59,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 21,
+      "text": "Các phát biểu sau đây đều đúng, trừ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trong kinh dịch, quan niệm thái cực sinh ra âm dương, âm dương sinh ra ngũ hành."
+        },
+        {
+          "letter": "B",
+          "text": "Âm dương là hai thuộc tính của một sự vật, luôn luôn mâu thuẫn và thống nhất với nhau."
+        },
+        {
+          "letter": "C",
+          "text": "Mọi sự vật luôn biến đổi, phát sinh và phát triển không ngừng theo học thuyết âm dương."
+        },
+        {
+          "letter": "D",
+          "text": "Học thuyết âm dương dựa vào đặc tính và hoạt động của âm dương để giải thích quá trình biến đổi của vũ trụ và vạn vật."
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 60,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 22,
+      "text": "Biểu hiện ra ngoài của âm thịnh là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ngoại hàn"
+        },
+        {
+          "letter": "B",
+          "text": "Ngoại nhiệt"
+        },
+        {
+          "letter": "C",
+          "text": "Nội hàn"
+        },
+        {
+          "letter": "D",
+          "text": "Nội nhiệt"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 61,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 23,
+      "text": "Biểu hiện ra ngoài của dương thịnh là:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ngoại hàn"
+        },
+        {
+          "letter": "B",
+          "text": "Ngoại nhiệt"
+        },
+        {
+          "letter": "C",
+          "text": "Nội hàn"
+        },
+        {
+          "letter": "D",
+          "text": "Nội nhiệt"
+        }
+      ],
+      "correct_answer": "B",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 62,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 24,
+      "text": "Âm dược là những thuốc để điều trị bệnh thuộc:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chứng hư"
+        },
+        {
+          "letter": "B",
+          "text": "Chứng thực"
+        },
+        {
+          "letter": "C",
+          "text": "Chứng nhiệt"
+        },
+        {
+          "letter": "D",
+          "text": "Chứng hàn"
+        }
+      ],
+      "correct_answer": "C",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 63,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 25,
+      "text": "Dương dược là những thuốc để điều trị bệnh thuộc :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chứng hư"
+        },
+        {
+          "letter": "B",
+          "text": "Chứng thực"
+        },
+        {
+          "letter": "C",
+          "text": "Chứng nhiệt"
+        },
+        {
+          "letter": "D",
+          "text": "Chứng hàn"
+        }
+      ],
+      "correct_answer": "D",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 64,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 26,
+      "text": "Nguyên nhân mất thăng bằng âm dương gồm các yếu tố sau, trừ:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dương mạnh, âm yêu"
+        },
+        {
+          "letter": "B",
+          "text": "Âm mạnh, dương yếu"
+        },
+        {
+          "letter": "C",
+          "text": "Âm dương không đủ"
+        },
+        {
+          "letter": "D",
+          "text": "Âm thịnh, dương thịnh"
+        }
+      ],
+      "correct_answer": "D",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 65,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 27,
+      "text": "Lúc bệnh nhân chết thì:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vong âm"
+        },
+        {
+          "letter": "B",
+          "text": "Vong dương"
+        },
+        {
+          "letter": "C",
+          "text": "Thận khí thoát"
+        },
+        {
+          "letter": "D",
+          "text": "Âm dương ly thoát"
+        }
+      ],
+      "correct_answer": "D",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 66,
+      "chapter_id": 1,
+      "chapter": "HỌC THUYẾT ÂM DƯƠNG",
+      "type": "multiple_choice",
+      "number": 28,
+      "text": "Theo Kinh dịch, thái cực sẽ sinh ra:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Âm dương"
+        },
+        {
+          "letter": "B",
+          "text": "Tứ tượng"
+        },
+        {
+          "letter": "C",
+          "text": "Ngũ hành"
+        },
+        {
+          "letter": "D",
+          "text": "Bát quái"
+        }
+      ],
+      "correct_answer": "A",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 67,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 1,
+      "text": "Tạng là biểu hiện của hình thái sinh lý, bệnh lý của nội tạng phản ảnh ra bên ngoài cơ thể.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 68,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 2,
+      "text": "Học thuyết tạng tượng được nghiên cứu dựa trên giải phẫu học cổ chưa phát triển",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 69,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 3,
+      "text": "Mỗi tạng thực chất là cơ quan trong giải phẫu học hiện đại",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 70,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 4,
+      "text": "Ngũ tạng có công năng tàng chứa tinh khí",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 71,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 5,
+      "text": "Can là tạng có vai trò quan trọng nhất trong hoạt đông sinh mệnh của cơ thể",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 72,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 7,
+      "text": "Tâm bào lạc là đường đi của huyết dịch nuôi dưỡng tâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 73,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 8,
+      "text": "Tà ở tâm bào có thể có biểu hiện các chứng trạng của tạng tâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 74,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 9,
+      "text": "Triệu chứng của tâm và tâm bào tương đối giống nhau",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 75,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 10,
+      "text": "Nếu khí ứ ở lồng ngực ảnh hưởng tới tâm thì sinh bệnh khó thở, mặt đỏ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 76,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 11,
+      "text": "Các tạng phủ vận hành được thông suốt, thăng giáng được điều hòa là nhờ chức năng quân chủ của tâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 77,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 12,
+      "text": "Phế quản lý sự phân bố khí của toàn thân",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 78,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 13,
+      "text": "Khí của can thường dễ cang thịnh, thích vươn thoải mái, ghét gò bó uất trệ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 79,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 14,
+      "text": "Tâm có tác dụng tàng trữ và điều tiết lượng huyết đến các bộ phận của cơ thể",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 80,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 15,
+      "text": "Can tàng huyết là chỉ sự vận hành tuần hoàn của huyết trong cơ thể",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 81,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 16,
+      "text": "Sự co duỗi bất thường của cân gây chứng co giật cấp tính thường có liên quan đến bệnh can phong",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 82,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 17,
+      "text": "Tiếp nhận, tiêu hóa thức ăn là công năng của Tỳ, hấp thu vận chuyển các chất dinh dưỡng là nhờ vào Vị",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 83,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 18,
+      "text": "Tỳ có tính thấp (ướt) chủ việc đưa lên (thăng), Vị có tính chất táo (khô) chủ việc đưa xuống (giáng)",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 84,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 19,
+      "text": "Tỳ là nguồn sinh ra huyết, can là tạng chủ về huyết",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 85,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 20,
+      "text": "Tất cả các trường hợp xuất huyết đều do công năng của tạng Tỳ suy giảm vì Tỳ có chức năng “thống nhiếp huyết”",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 86,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 21,
+      "text": "Hệ thống hoạt động của các tổ chức cơ quan trong cơ thể dựa vào mối liên hệ giữa hoạt động sinh lý của ngũ tạng mà phân chia ra.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 87,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 22,
+      "text": "Học thuyết tạng tượng phản ánh sự thống nhất giữa cơ thể và hoàn cảnh bên ngoài.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 88,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 23,
+      "text": "Nguyên khí tiên thiên tàng chứa ở thận",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 89,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 24,
+      "text": "Huyết là soái của khí, khí là mẹ của huyết chở huyết đi, khí hành thì huyết hành, chỗ nào huyết đi đến thì khí cũng đi đến.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 90,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 25,
+      "text": "Tinh là vật chất cơ bản tạo nên mọi hoạt động sống của con người.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 91,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 26,
+      "text": "Quan hệ giữa thận thủy với tâm hỏa là quan hệ “âm dương hỗ căn, thủy hỏa tương tế”.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 92,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 27,
+      "text": "Thận khí hư khiến cho sự phát dục của cơ thể chậm lại gây hiện tượng chậm mọc răng, chậm biết đi, xương mềm yếu",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 93,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 28,
+      "text": "Mệnh môn là nguồn sinh hóa của cơ thể.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 94,
+      "chapter_id": 2,
+      "chapter": "HỌC THUYẾT TẠNG TƯỢNG",
+      "type": "true_false",
+      "number": 29,
+      "text": "Nguyên khí tiên thiên tàng chứa ở thận.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 95,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 1,
+      "text": "Tâm thuộc hỏa là tạng dương trong dương.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 96,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 2,
+      "text": "Nếu phế khí không thúc đẩy tâm huyết vận hành sẽ gây ra chứng khí trệ.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 97,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 3,
+      "text": "Can hỏa vượng làm hao tổn thận âm làm thận âm bị hư.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 98,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 4,
+      "text": "Phế chủ khí của hậu thiên, Tỳ chủ khí của tự nhiên",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 99,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 5,
+      "text": "Nếu thận dương hư thì tỳ dương cũng hư vì thận khí ôn ấm giúp tỳ vận hóa tốt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 100,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 6,
+      "text": "Quan hệ biểu lý tương hợp của tạng phủ được thực hiện qua đường kinh mạch.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 101,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 7,
+      "text": "Tâm hỏa có thể theo đường tiểu tiện ra ngoài nhờ tác dụng gạn lọc thanh trọc của tiểu trường.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 102,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 8,
+      "text": "Bệnh của phủ đởm thường có các chứng trạng của kinh can và ngược lại.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 103,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 9,
+      "text": "Tỳ ưa thấp, ghét táo vì tỳ có chức năng vận hóa thủy thấp, còn Vị ưa táo ghét thấp.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 104,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 10,
+      "text": "Tỳ lấy thăng làm hòa, vị lấy giáng làm thuận.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 105,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 11,
+      "text": "Đai trường chủ việc truyền tống phân nhưng phải được sự túc giáng của phế",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 106,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 12,
+      "text": "Tỳ vị có bệnh gây sự đảo lộn về thấp và táo",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 107,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 13,
+      "text": "Tỳ và Vị có mối quan hệ vừa đối lập vừa thống nhất đảm bảo cho việc tiêu hóa bình thường",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 108,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 14,
+      "text": "Can khí vốn tính cương trực, Đởm khí vốn tính cấp bức, dễ cang thịnh.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 109,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 15,
+      "text": "Khi điều trị nếu muốn bình can thì cần thêm thuốc tả đởm hỏa và ngược lại.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 110,
+      "chapter_id": 3,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG VỚI LỤC PHỦ",
+      "type": "true_false",
+      "number": 16,
+      "text": "Bệnh lý giữa lục phủ cũng có quan hệ ảnh hưởng lẫn nhau.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 111,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 1,
+      "text": "Ngũ quan thông với tinh khí của ngũ tạng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 112,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 2,
+      "text": "Ngũ quan có thể phân biệt được thanh âm, màu sắc, mùi vị là do ngũ quan thông với tinh khí của ngũ tạng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 113,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 3,
+      "text": "Nếu ngũ tạng không yên hòa thì ngũ quan không phát huy được tác dụng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 114,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 4,
+      "text": "Dựa vào biểu hiện bên ngoài của ngũ quan không thể biết được sự biến hóa của ngũ tạng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 115,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 5,
+      "text": "Thận khí thông ra tai, thận hòa thì tai nghe được ngũ âm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 116,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 6,
+      "text": "Tâm mạch vi sáp thì tai ù.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 117,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 7,
+      "text": "Tai ù, tai điếc là do tâm huyết không đầy đủ.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 118,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 8,
+      "text": "Mắt nhờ huyết mới thấy được do đó tâm hòa thì can mới thấy được ngũ sắc vì tâm chủ huyết mạch.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 119,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 9,
+      "text": "Xem mắt có thể biết can khí hư hay thực.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 120,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 11,
+      "text": "Mi mắt thuộc tâm, tia máu mắt thuộc tỳ, con ngươi thuộc thận, tròng đen thuộc can, tròng trắng thuộc phế",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 121,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 12,
+      "text": " Phế hòa thì mũi phân biệt được mùi",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 122,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 13,
+      "text": "Công năng của tỳ vị bình thường thì miệng nhận biết được ngũ cốc, biết đói, muốn ăn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 123,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 14,
+      "text": "Tâm hòa thì lưỡi nhận biết được ngũ vị.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 124,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 15,
+      "text": "Xét sự thay đổi của lưỡi có thể biết bệnh của ngũ tạng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 125,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 16,
+      "text": "Thận khí không hòa thì tiểu tiện không thông lợi.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 126,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 17,
+      "text": " Đường kinh của can liên hệ với âm hộ do đó những bệnh liệt dương, cường dương, kinh nguyệt không đều, đới hạ cũng quan hệ với can.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 127,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 18,
+      "text": "Táo bón có thể do phế hư hoặc do nhiệt từ phế truyền xuống đại trường.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 128,
+      "chapter_id": 4,
+      "chapter": "QUAN HỆ GIỮA NGŨ TẠNG, NGŨ QUAN VỚI NGŨ KHIẾU VÀ TINH KHÍ THẦN.",
+      "type": "true_false",
+      "number": 20,
+      "text": "Nguyên khí gồm có khí nguyên âm và khí nguyên dương bẩm thụ từ tiên thiên.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 129,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 1,
+      "text": "Kinh lạc là con đường vận hành của âm dương, khí huyết, tân dịch mang khí huyết nuôi dưỡng toàn thân.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 130,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 2,
+      "text": "Kinh là đường thẳng có vai trò như cái khung đi ở nông, lạc là đường ngang có vai trò như cái lưới đi ở sâu.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 131,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 3,
+      "text": "Khí huyết tuần hoàn trong hệ kinh mạch theo một vòng khép kín.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 132,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 4,
+      "text": "Hệ kinh lạc chỉ có chức năng liên kết các tổ chức tạng và phủ thành một khối thống nhất.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 133,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 5,
+      "text": "Có thể căn cứ vào thay đổi cảm giác (đau, tức, trướng) trên đường đi của kinh mạch để chẩn đoán bệnh thuộc tạng phủ nào đó gọi là kinh lạc chẩn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 134,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 6,
+      "text": "Khi có bệnh khí huyết trong kinh mạch không thông suốt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 135,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 7,
+      "text": "Kinh mạch có liên quan chặt chẽ đến sự sống và cái chết, chữa bách bệnh, điều hòa hư thực, không thể không thông.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 136,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 8,
+      "text": "Học thuyết kinh lạc chỉ đạo sự quy kinh của thuốc.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 137,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 10,
+      "text": "Hoàn cảnh tự nhiên luôn tác động đến cơ thể con người bao gồm cả hoạt động sinh lý cũng như quá trình bệnh lý.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 138,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 12,
+      "text": "Nếu chính khí cơ thể suy yếu thì tà khí dễ dàng xâm phạm vào cơ thể và sinh ra các bệnh ngoại cảm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 139,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 13,
+      "text": "Những người cơ thể càng khỏe mạnh thì khả năng thích ứng với hoàn cảnh tự nhiên tốt nhưng khả năng thích ứng với hoàn cảnh xã hội kém.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 140,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 14,
+      "text": "Ngoại nhân quyết định nội nhân.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 141,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 15,
+      "text": "Chính khí cơ thể có vai trò quyết định trong sự phát sinh bệnh tật.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 142,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 16,
+      "text": "Con người ở các điều kiện khí hậu khác nhau đều có sự chống đỡ với bệnh tật như nhau.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 143,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 17,
+      "text": "Con người có các tập quán sinh hoạt khác nhau thì có khả năng đề kháng với bệnh tật khác nhau.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 144,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 18,
+      "text": "Quá trình biến đổi 4 mùa là quá trình tiêu trưởng của âm dương.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 145,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 19,
+      "text": "Nếu chính khí bên trong vững thì tà khí không xâm phạm vào cơ thể được.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 146,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 20,
+      "text": "Mùa xuân và mùa hạ thuộc dương, mùa thu và mùa đông thuộc âm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 147,
+      "chapter_id": 5,
+      "chapter": "HỌC THUYẾT THIÊN NHÂN HỢP NHẤT, HỌC THUYẾT KINH LẠC",
+      "type": "true_false",
+      "number": 21,
+      "text": "Kinh mạch có liên quan chặt chẽ đến sự sống cái chết, không thể không thông.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 148,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 1,
+      "text": "Lục dâm là nguyên nhân từ bên trong tác động vào cơ thể.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 149,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 2,
+      "text": "Lục dâm thường gây ra các bệnh ngoại cảm và bệnh truyền nhiễm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 150,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 3,
+      "text": "Bệnh do thất tình gây ra thường có tính chất đa dạng vì các tình trí của thất tình thường hay phối hợp với nhau.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 151,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 4,
+      "text": "Phong là dương tà nên thường gây bệnh ở nửa người trên và ở phần trong cơ thể.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 152,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 5,
+      "text": "Bệnh do phong thường xuất hiện theo mùa và hay di chuyển.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 153,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 6,
+      "text": "Các trường hợp sốt cao co giật, cơn tăng huyết áp là do ngoại phong sinh ra.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 154,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 7,
+      "text": "Phong là gió, chủ khí mùa đông.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 155,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 9,
+      "text": "Người dương hư nội hàn dễ cảm phải ngoại hàn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 156,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 10,
+      "text": "Hàn là âm tà, dễ tổn thương dương khí.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 157,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 11,
+      "text": "Phong có tính di chuyển nhưng hay gây co rút.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 158,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 12,
+      "text": "Hàn có tính ngưng trệ và gây co rút",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 159,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 13,
+      "text": "Thử là nắng, chủ khí mùa cuối hạ.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 160,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 14,
+      "text": "Thử là dương tà, tính thăng phát.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 161,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 15,
+      "text": "Thử là dương tà, tính hỏa nhiệt nên dễ làm tổn thương dương khí.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 162,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 17,
+      "text": " Thử nhiệt là chứng bệnh xuất hiện do thử, trong đó nhẹ là trúng thử, nặng là thương thử.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 163,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 18,
+      "text": "Thấp là âm tà, chủ khí của mùa cuối hạ.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 164,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 19,
+      "text": " Thấp tính nặng đục do đó gây bệnh chủ yếu ở phần dưới của cơ thể.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 165,
+      "chapter_id": 6,
+      "chapter": "NGUYÊN NHÂN GÂY BỆNH THEO Y HỌC CỔ TRUYỀN.",
+      "type": "true_false",
+      "number": 20,
+      "text": "Các chứng bệnh do thấp gây ra thường kéo dài nhưng khi được điều trị thì nhanh khỏi.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 166,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 1,
+      "text": "Mạch chẩn là khâu quan trọng nhất của tứ chẩn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 167,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 2,
+      "text": "Cảm giác lúc nóng lúc lạnh là hàn nhiệt vãng lai",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 168,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 3,
+      "text": "Đau đầu buổi chiều thuộc đa số thuộc âm hư, đau đầu nửa đêm đa số thuộc huyết hư.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 169,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 4,
+      "text": "Đau mỏi vùng thắt lưng đa số thuộc Thận hư.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 170,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 5,
+      "text": "Đau vùng bụng trên, nôn khan, hay nôn ra nước trong gặp lạnh thì đau lên đa số là do vị hàn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 171,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 6,
+      "text": "Đau bụng từ từ, âm ỉ, vị trí đau không cố định khi thăm khám, xoa nắn có cảm giác dễ chịu là thực chứng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 172,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 7,
+      "text": "Miệng khát thích uống nước ấm là vị dương bất túc.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 173,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 8,
+      "text": "Sắc da vàng sậm, tươi như vỏ quýt, phát sốt là Dương hoàng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 174,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 9,
+      "text": "Đi tiểu nhiều về đêm, hay đái dầm đa số là do thận hư.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 175,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 10,
+      "text": "Lưỡi bị lệch sang bên thường thấy trong chứng trúng phong.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 176,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 11,
+      "text": "Khi có bệnh thì rêu lưỡi thường có những thay đổi.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 177,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 12,
+      "text": "Rêu lưỡi trắng mỏng, biến dần thành xám, rồi từ xám lại chuyển thành đen … là nghịch chứng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 178,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 13,
+      "text": "Có thể quan sát chỉ tay ở người lớn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 179,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 14,
+      "text": "Chỉ tay chìm sâu là bệnh đã vào lý.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 180,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 15,
+      "text": "Mạch phù mà có lực là biểu hư, mạch phù mà vô lực là biểu thực.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 181,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 16,
+      "text": "Mạch trì và mạch sác là hai loại mạch khác nhau về cường độ.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 182,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 17,
+      "text": "Mạch hoạt thường gặp ở những người bị chứng đàm thấp thực ngưng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 183,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 18,
+      "text": "Ngực đau, sốt cao, khạc ộc ra máu mủ… đa số là do Phế ung. (áp xe phổi).",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 184,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 19,
+      "text": "Đau bụng âm ỉ, đại tiện phân nhão nát, sợ lạnh, chân tay lạnh… đa số là hàn thấp – hư chứng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 185,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 20,
+      "text": "Khi mê hay la hét đa số là do can khí thực hay đởm nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 186,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 21,
+      "text": "Khi mắc bệnh mà vẫn ăn uống bình thường là vị khí chưa bị tổn thương.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 187,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 22,
+      "text": "Đau nửa đầu vào ban đêm đa số là do âm hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 188,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 23,
+      "text": "Miệng khát, thích uống nước mát đa số là do vị thực thiên nhiệt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 189,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 24,
+      "text": "Miệng nhạt đa số là do thực chứng",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 190,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 25,
+      "text": "Đại tiện phân nát, có mùi chua, sống phân, đau bụng trước khi đi đại tiện, đại tiện xong thì đỡ đau là biểu hiện của vị trường có nhiệt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 191,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 26,
+      "text": "Đau bụng, đại tiện phân lỏng lúc sáng sớm đa số là do thận dương hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 192,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 27,
+      "text": "Đại tiện phân nhão nát, nhưng trước khi đại tiện không đau bụng đa số là do tỳ vị hư hàn",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 193,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 28,
+      "text": "Đi tiểu khó hoặc mất chủ động, nước tiểu trong đa số là do khí hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 194,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 29,
+      "text": "Đi tiểu nước tiểu đục, đái dắt, đái buốt là do thấp nhiệt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 195,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 30,
+      "text": "Rêu lưỡi càng vàng đậm, chứng tỏ bệnh càng nặng",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 196,
+      "chapter_id": 7,
+      "chapter": "TỨ CHẨN",
+      "type": "true_false",
+      "number": 31,
+      "text": "Mạch bệnh có thể xuất hiện ở 1 bộ vị nào đó.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 197,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 1,
+      "text": "Da xanh, chất lưỡi nhạt, rêu lưỡi trắng, sợ lạnh là triệu chứng của hàn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 198,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 2,
+      "text": "Mặt đỏ, môi đỏ, gò má đỏ, trong người háo khát, chất lưỡi đỏ khô, rêu lưỡi vàng là triệu chứng của nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 199,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 3,
+      "text": "Bệnh ở lý có triệu chứng ở da, cơ, khớp, bệnh cảm mạo, truyền nhiễm ở giai đoạn khởi phát.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 200,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 5,
+      "text": "Bệnh lâu ngày, người mệt, cơ teo nhẽo, mạch trầm nhược là biểu hiện của hư chứng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 201,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 6,
+      "text": "Bệnh mới mắc, triệu chứng rầm rộ là biểu hiện của thực chứng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 202,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 7,
+      "text": "Dương hư sinh nội hàn, âm hư sinh nội nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 203,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 8,
+      "text": "Âm thịnh sinh ngoại hàn, dương thịnh sinh ngoại nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 204,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 9,
+      "text": "Dương gồm các hội chứng của Biểu, Thực, Nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 205,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 10,
+      "text": "Âm gồm các hội chứng của Lý, Hư, Hàn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 206,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 11,
+      "text": "Nếu bệnh thuộc hàn mà dùng pháp hàn để điều trị sẽ gây nguy hiểm cho người bệnh vì “Hàn ngộ hàn tắc tử”",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 207,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 12,
+      "text": "Âm hư thường gây sốt cao, hai gò má đỏ, lòng bàn tay bàn chân nóng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 208,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 13,
+      "text": "Âm thịnh thường gây ra các triệu chứng: sợ lạnh, đại tiện phân nát, nước tiểu trong dài…",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 209,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 14,
+      "text": "Thực là do chính khí suy yếu, tà khí xâm phậm gây nên triệu chứng rầm rộ.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 210,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 15,
+      "text": "Hư là tình trạng chính khí suy yếu, khi chữa bệnh phải dùng phép bổ để nâng cao chính khí.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 211,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 16,
+      "text": "Nếu bệnh thuộc chứng thực mà dùng phép bổ sẽ đưa tà khí vào sâu làm bệnh nặng lên.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 212,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 17,
+      "text": "Nếu bệnh thuộc chứng hư mà dùng phép tả sẽ làm chính khí hư thêm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 213,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 18,
+      "text": "Hư, Thực là hai cương lĩnh nói lên tính chất của bệnh.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 214,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 19,
+      "text": "Chứng thực thường gặp ở bệnh mới mắc, chứng hư thường gặp ở bệnh đã mắc lâu ngày hoặc ở người chính khí suy yếu.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 215,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 20,
+      "text": "Biểu lý là hai cương lĩnh nói lên tình trạng của bệnh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 216,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 21,
+      "text": "Bệnh truyền từ biểu vào lý nên bệnh ở lý có thể dùng phương pháp giải biểu.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 217,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 22,
+      "text": "Bệnh ở biểu mà điều trị bằng phương pháp điều lý sẽ đưa bệnh từ ngoài vào trong.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 218,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 23,
+      "text": "Âm dương là hai cương lĩnh tổng quát, thể hiện khuynh hướng của bệnh.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 219,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 1,
+      "text": "Tạng phủ biện chứng là tổng cương của các loại biện chứng.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 220,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 2,
+      "text": "Lục kinh biện chứng, vệ khí dinh huyết biện chứng và tam tiêu biện chứng chủ yếu vận dụng với các bệnh ngoại cảm, truyền nhiễm.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 221,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 3,
+      "text": "Khí huyết tân dịch biện chứng có tác dụng hỗ trợ bổ sung cho tạng phủ biện chứng",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 222,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 4,
+      "text": "Hội chứng khí hãm là bệnh biến của khí hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 223,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 5,
+      "text": "Bài thuốc Bổ trung ích khí dùng để điều trị chứng khí hư, huyết hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 224,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 6,
+      "text": "Pháp điều trị đối với thể khí nghịch là hành khí",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 225,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 7,
+      "text": "Bài thuốc Tứ vật đào hồng có thể dùng điều trị trường hợp huyết ứ kết hợp với huyết hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 226,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 8,
+      "text": "Hội chứng tân dịch ứ trệ thường do công năng của các tạng Phế, Tỳ, Thận gây nên",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 227,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 9,
+      "text": "Bài thuốc Dưỡng tâm thang dùng để điều trị thể Tâm dương hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 228,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 10,
+      "text": "Sâm phụ thang là bài thuốc điều trị thể Tâm dương hư thoát",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 229,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 11,
+      "text": "Thiên vương bổ tâm đan là bài thuốc điều trị thể Tâm âm hư.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 230,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 12,
+      "text": "Tả tâm thang là bài thuốc dùng điều trị thể Tâm huyết ứ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 231,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 13,
+      "text": "Pháp điều trị thể Phế âm hư là Tư âm nhuận phế",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 232,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 14,
+      "text": "Bài thuốc Ma hạnh thạch cam thang dùng để điều trị thể phong hàn phạm phế",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 233,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 15,
+      "text": "Lý trung thang và Phụ tử lý trung thang là 2 bài thuốc điều trị thể Tỳ bị hàn thấp",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 234,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 16,
+      "text": "Cam lộ tiêu độc đan dùng điều trị thể Tỳ bị thấp nhiệt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 235,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 17,
+      "text": "Long đởm tả can thang dùng điểu trị thể Can hoả thượng viêm và thấp nhiệt ở can kinh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 236,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 18,
+      "text": "Pháp đìêu trị thể hàn trệ ở Can kinh là noãn can, tán hàn,",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 237,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 19,
+      "text": "Pháp điều trị thể Thận âm hư có biểu hiện hoả vượng là tư âm giáng hỏa",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 238,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 20,
+      "text": "Cát căn cầm liên thang là bài thuốc dùng điều trị hội chứng đại tràng thấp nhịêt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 239,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 21,
+      "text": "Tế sinh thận khí hoàn là bài thuốc điều trị thể thận khí hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 240,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 22,
+      "text": "Pháp điều trị hội chứng bàng quang thấp nhiệt là thanh nhiệt, lợi thấp, thông lâm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 241,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 23,
+      "text": "Bài thuốc Bát chính tán dùng điều trị thể Bàng quang thấp nhiệt",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 242,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 24,
+      "text": "Bài thuốc Lục vị địa hoàng hoàn để điều trị hội chứng Thận dương hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 243,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 25,
+      "text": "Bài thuốc Bát vị hoàn để điều trị hội chứng Thận âm hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 244,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 26,
+      "text": "Bài thuốc Hữu quy ẩm điều trị hội chứng Thận dương hư",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 245,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 27,
+      "text": "Phương pháp tạng phủ biện chứng có vai trò hỗ trợ cho phương pháp khí huyết tân dịch biện chứng",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 246,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 28,
+      "text": "Lục kinh biện chứng được vận dụng với các bệnh thương hàn",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 247,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 29,
+      "text": "Vệ - khí – dinh – huyết biện chứng và tam tiêu được vận dụng với các bệnh truyền nhiễm",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 248,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 30,
+      "text": "Chỉ có bát cương bệnh chứng mới là cơ sở cho các loại biện chứng khác",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 249,
+      "chapter_id": 8,
+      "chapter": "BÁT CƯƠNG",
+      "type": "true_false",
+      "number": 31,
+      "text": "Bệnh ôn nhiệt mà nguyên nhân do thấp nhiệt thì sử dụng phương pháp biện chứng bệnh theo tam tiêu là phù hợp nhất",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 250,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 1,
+      "text": "Lục kinh bệnh chứng lấy Âm-Dương làm cương lĩnh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 251,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 2,
+      "text": "Lục kinh biện chứng bản chất là phản ánh sự biến đổi bệnh lý của Tạng phủ và kinh lạc",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 252,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 3,
+      "text": "Tam dương bệnh chứng lấy diễn biến của ngũ tạng làm cơ sở, còn tam âm bệnh chứng lấy diễn biến của lục phủ làm cơ sở",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 253,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 4,
+      "text": "Bệnh ở kinh thiếu dương thuộc bán biểu bán lý.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 254,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 5,
+      "text": "Bệnh ở ba kinh âm thuộc chứng thực, chứng nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 255,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 6,
+      "text": "Bệnh ở ba kinh dương thuộc chứng hư, chứng hàn",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 256,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 7,
+      "text": "Về nguyên tắc điều trị thì bệnh ở ba kinh âm lấy phục chính làm chủ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 257,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 8,
+      "text": "Bệnh chứng từ một kinh truyền đến một kinh khác gọi là Truyền kinh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 258,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 9,
+      "text": "Một kinh bệnh chứng chưa khỏi, lại một kinh bệnh chứng mới bắt đầu thì gọi là Hợp bệnh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 259,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 10,
+      "text": "Tà khí có thể xâm phạm trực tiếp vào ba kinh âm gọi là trực trúng",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 260,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 11,
+      "text": "Mỗi chứng bệnh có thể có hai mức độ, nhẹ thì bệnh ở đường kinh, gọi là “Kinh chứng”, nặng hơn thuộc phủ mang tên kinh đó, gọi là “Phủ chứng”",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 261,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 12,
+      "text": "Thái dương bệnh phủ chứng là do biểu tà không giải truyền vào bên trong ảnh hưởng tới phủ Bàng quang",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 262,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 13,
+      "text": "Thái âm bệnh chứng khi liên hệ với tạng phủ là biểu hiện suy giảm chức năng của hai tạng Tâm – Thận",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 263,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 14,
+      "text": "Thiếu âm bệnh chứng khi liên hệ với tạng phủ là biểu hiện do tỳ dương hư dẫn đến hàn thấp nội sinh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 264,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 15,
+      "text": "Quyết âm bệnh chứng trên lâm sàng hay xuất hiện các chứng hàn nhiệt thác tạp",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 265,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 16,
+      "text": "Về nguyên tắc điều trị thì bệnh ở ba kinh dương lấy phục chính và trừ tà làm chủ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 266,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 1,
+      "text": "Biện chứng bệnh theo vệ, khí, dinh, huyết được áp dụng với các bệnh thương hàn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 267,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 2,
+      "text": "Bệnh ở phần vệ tương đương với phần biểu, bệnh ở phần khí tương dương với bệnh ở phần lý.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 268,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 3,
+      "text": "Bệnh ở phần khí thì phần lớn tà khí đã xâm phạm vào tạng phủ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 269,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 4,
+      "text": "Tà khí vào dinh huyết là đã vào huyết của tạng phủ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 270,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 5,
+      "text": "Bệnh ở phần huyết thì phần lớn tà khí đã xâm phạm vào phần sâu của huyết",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 271,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 6,
+      "text": "Diễn biến của bệnh ôn nhiệt thường từ biểu vào lý",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 272,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 7,
+      "text": "Nguyên tắc điều trị cơ bản với bệnh ở phần dinh là tiết nhiệt, giải độc",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 273,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 8,
+      "text": "Bệnh từ phần vệ có thể truyền trực tiếp vào phần dinh, huyết",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 274,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 9,
+      "text": "Bệnh ôn nhiệt truyền rất nhanh nên thường xuất hiện bệnh lý của ít nhất 2 phần.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 275,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 10,
+      "text": "Ôn bệnh có thể khởi đầu ở khí phận",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 276,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 11,
+      "text": "Ôn bệnh không thể khởi đầu ở huyết phận",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 277,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 12,
+      "text": "Ôn bệnh có thể khởi đầu ở dinh phận",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 278,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 13,
+      "text": "Chứng khí phận là do tà khí xâm phạm vào phần cơ biểu làm cho chức năng của vệ khí bị rối loạn.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 279,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 14,
+      "text": "Chứng vệ phận thường gặp ở giai đoạn đầu của ôn bệnh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 280,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 15,
+      "text": "Chứng dinh phận là do nhiệt tà đã xâm phạm vào tạng phủ bên trong",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 281,
+      "chapter_id": 9,
+      "chapter": "BIỆN CHỨNG BỆNH THEO LỤC KINH",
+      "type": "true_false",
+      "number": 16,
+      "text": "Chứng huyết phận là do nhiệt nhập tâm bào",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 282,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 1,
+      "text": "Nếu có nhiều bệnh thì bản (gốc của bệnh) là bệnh gây ảnh hưởng tới tính mạng của người bệnh.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 283,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 2,
+      "text": "Nếu bệnh do nhiều nguyên nhân gây nên thì bản (gốc của bệnh) là các nguyên nhân gây nên bệnh đó",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 284,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 3,
+      "text": "Tiêu của bệnh là các triệu chứng chính của bệnh",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 285,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 4,
+      "text": "Nguyên tắc điều trị bệnh là \"cấp trị tiêu, mạn trị bản\".",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 286,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 5,
+      "text": "Khi bệnh nhân sốt cao do nhiễm khuẩn, không được điều trị dẫn đến sốc nhiễm khuẩn: truỵ mạch, chân tay lạnh, vã mồ hôi lạnh gọi là hiện tượng \"chân hàn giả nhiệt\"",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 287,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 6,
+      "text": "Bệnh nhân bị cảm hàn, ở bất cứ trường hợp nào cũng phải dùng các thuốc giải biểu trong thời gian dài để đuổi hoàn toàn tà khí ra ngoài",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 288,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 7,
+      "text": "Nếu nguyên nhân gây ứ đọng các chất trong ruột là do hàn thì dùng các thuốc ôn hạ, nếu nguyên nhân do nhiệt thì dùng thuốc hàn hạ",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 289,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 8,
+      "text": "Hoà pháp là phương pháp dùng khi bệnh đã vào trong lý",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 290,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 9,
+      "text": "Ôn pháp là phương pháp điều trị các bệnh thuộc hàn như: Biểu hàn, thực hàn, thoát dương.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 291,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 10,
+      "text": "Thanh pháp để chữa các bệnh thuộc nhiệt như: Biểu nhiệt, lý nhiệt, chân hàn giả nhiệt.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 292,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 11,
+      "text": "Bệnh nhân sốt cao kéo dài làm mất tân dịch thì phải dùng thuốc thanh nhiệt lương huyết là chính",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 293,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 13,
+      "text": "Phép tiêu là phép tả nên khi dùng phải chú ý đến chính khí của bệnh nhân.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 294,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 14,
+      "text": "Trường hợp bệnh nhân già yếu bị sa các tạng phủ như sa dạ dày, trĩ, sa dạ con . . .  thì phải dùng phép hành khí hoạt huyết là chính",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 295,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 15,
+      "text": "Muốn tăng tác dụng thuốc bổ khí thì nên kết hợp với các thuốc bổ huyết và ngược lại. Muốn tăng tác dụng của thuốc bổ âm thì kết hợp thêm thuốc bổ dương và ngược lại.",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 296,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 16,
+      "text": "Thuốc Ôn trung trừ hàn dùng điều trị hàn ở trung tiêu",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 297,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 17,
+      "text": "Thuốc hồi dương cứu nghịch dùng điều trị Dương suy, Dương thoát",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 298,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 18,
+      "text": "Thuốc thanh nhiệt giải độc dùng điều trị các bệnh sốt cao gây chảy máu",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 299,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 19,
+      "text": "Khi bệnh nhân bị bệnh truyền nhiễm gây sốt cao, không được điều trị dẫn đến sốc nhiễm khuẩn: truỵ mạch, chân tay lạnh, vã mồ hôi lạnh phải dùng thuốc hồi dương cứu nghịch",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "S",
+      "is_important": false,
+      "user_status": "unseen"
+    },
+    {
+      "id": 300,
+      "chapter_id": 10,
+      "chapter": "MỘT SỐ NGUYÊN TẮC ĐIỀU TRỊ CỦA YHCT",
+      "type": "true_false",
+      "number": 20,
+      "text": "Bổ pháp là phương pháp điều trị chính khí của cơ thể suy yếu",
+      "options": [
+        "Đ",
+        "S"
+      ],
+      "correct_answer": "Đ",
+      "is_important": false,
+      "user_status": "unseen"
+    }
+  ]
+}

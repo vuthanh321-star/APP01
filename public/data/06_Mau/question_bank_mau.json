@@ -1,0 +1,3093 @@
+{
+  "metadata": {
+    "subject": "Máu",
+    "subject_en": "Blood/Hematology",
+    "subject_vie": "Huyết Học",
+    "version": "1.0",
+    "source_file": "Máu_đáp_án.docx",
+    "creation_date": "2026-07-19T13:32:42.973435",
+    "language": "Vietnamese",
+    "target_exam": "Cao học Y khoa",
+    "total_questions": 148,
+    "question_breakdown": {
+      "true_false": 148,
+      "multiple_choice": 0,
+      "case_study": 0
+    },
+    "chapters": [
+      {
+        "chapter_id": 1,
+        "name": "Kháng nguyên nhóm máu",
+        "question_ids": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 2,
+        "name": "Thoái hóa hồng cầu trong cơ thể",
+        "question_ids": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 3,
+        "name": "Người nhóm máu A",
+        "question_ids": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 4,
+        "name": "Tiểu cầu có vai trò trong quá trình cầm máu do",
+        "question_ids": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 5,
+        "name": "Bilirubin huyết tương",
+        "question_ids": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 6,
+        "name": "Bạch cầu mono",
+        "question_ids": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 7,
+        "name": "Hồng cầu",
+        "question_ids": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 8,
+        "name": "Albumin huyết tương",
+        "question_ids": [
+          29,
+          30,
+          31,
+          32
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 9,
+        "name": "Bạch cầu hạt trung tính",
+        "question_ids": [
+          33,
+          34,
+          35,
+          36
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 10,
+        "name": "Chảy máu từ vết cắt nhỏ trên da",
+        "question_ids": [
+          37,
+          38,
+          39,
+          40
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 11,
+        "name": "Kháng thể nhóm máu",
+        "question_ids": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 12,
+        "name": "Hồng cầu lưu hành trong máu",
+        "question_ids": [
+          45,
+          46,
+          47,
+          48
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 13,
+        "name": "Bạch cầu lympho",
+        "question_ids": [
+          49,
+          50,
+          51,
+          52
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 14,
+        "name": "Máu",
+        "question_ids": [
+          53,
+          54,
+          55,
+          56
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 15,
+        "name": "Kháng nguyên",
+        "question_ids": [
+          57,
+          58,
+          59,
+          60
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 16,
+        "name": "Bạch cầu ái toan ở người bình thường",
+        "question_ids": [
+          61,
+          62,
+          63,
+          64
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 17,
+        "name": "Hình thành cục máu đông bình thường cần có",
+        "question_ids": [
+          65,
+          66,
+          67,
+          68
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 18,
+        "name": "Kháng thể của hệ thống nhóm máu ABO",
+        "question_ids": [
+          69,
+          70,
+          71,
+          72
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 19,
+        "name": "Hệ bạch huyết",
+        "question_ids": [
+          73,
+          74,
+          75,
+          76
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 20,
+        "name": "Tiểu cầu trong máu ngoại vi",
+        "question_ids": [
+          77,
+          78,
+          79,
+          80
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 21,
+        "name": "Sự biến đổi fibrinogen thành fibrin",
+        "question_ids": [
+          81,
+          82,
+          83,
+          84
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 22,
+        "name": "Bệnh lý tan máu ở trẻ sơ sinh",
+        "question_ids": [
+          85,
+          86,
+          87,
+          88
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 23,
+        "name": "Mẫu máu sau khi ly tâm có thể gợi ý",
+        "question_ids": [
+          89,
+          90,
+          91,
+          92
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 24,
+        "name": "Bệnh nhân thiếu máu mức độ từ vừa đến nặng có thể",
+        "question_ids": [
+          93,
+          94,
+          95,
+          96
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 25,
+        "name": "Thiếu sắt",
+        "question_ids": [
+          97,
+          98,
+          99,
+          100
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 26,
+        "name": "Tai biến truyền máu nghiêm trọng có thể xảy ra sau khi truyền máu",
+        "question_ids": [
+          101,
+          102,
+          103,
+          104
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 27,
+        "name": "Hematocrit (thể tích khối hồng cầu)",
+        "question_ids": [
+          105,
+          106,
+          107,
+          108
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 28,
+        "name": "Sự sản sinh hồng cầu tăng lên",
+        "question_ids": [
+          109,
+          110,
+          111,
+          112
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 29,
+        "name": "Thiếu vitamin B12 có thể",
+        "question_ids": [
+          113,
+          114,
+          115,
+          116
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 30,
+        "name": "pH máu và nồng độ bicarbonat tăng trong trường hợp",
+        "question_ids": [
+          117,
+          118,
+          119,
+          120
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 31,
+        "name": "Toan hô hấp bù trừ một phần",
+        "question_ids": [
+          121,
+          122,
+          123,
+          124
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 32,
+        "name": "Giảm số lượng bạch cầu đa nhân trung tính có thể",
+        "question_ids": [
+          125,
+          126,
+          127,
+          128
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 33,
+        "name": "Giảm nồng độ natri huyết tương có thể",
+        "question_ids": [
+          129,
+          130,
+          131,
+          132
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 34,
+        "name": "Nồng độ kali máu cao",
+        "question_ids": [
+          133,
+          134,
+          135,
+          136
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 35,
+        "name": "Thiếu yếu tố VIII",
+        "question_ids": [
+          137,
+          138,
+          139,
+          140
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 36,
+        "name": "Tăng nồng độ canxi máu có thể",
+        "question_ids": [
+          141,
+          142,
+          143,
+          144
+        ],
+        "question_count": 4
+      },
+      {
+        "chapter_id": 37,
+        "name": "Bình thường dịch não tủy",
+        "question_ids": [
+          145,
+          146,
+          147,
+          148
+        ],
+        "question_count": 4
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "chapter": "Kháng nguyên nhóm máu",
+      "question_type": "true_false",
+      "statement": "là các beta globulin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 2,
+      "chapter": "Kháng nguyên nhóm máu",
+      "question_type": "true_false",
+      "statement": "có tính miễn dịch khác nhau.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 3,
+      "chapter": "Kháng nguyên nhóm máu",
+      "question_type": "true_false",
+      "statement": "không có trong máu thai nhi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 4,
+      "chapter": "Kháng nguyên nhóm máu",
+      "question_type": "true_false",
+      "statement": "di truyền theo đặc tính gen lặn của Mendel.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 5,
+      "chapter": "Thoái hóa hồng cầu trong cơ thể",
+      "question_type": "true_false",
+      "statement": "xảy ra khi hồng cầu 6-8 tuần tuổi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 6,
+      "chapter": "Thoái hóa hồng cầu trong cơ thể",
+      "question_type": "true_false",
+      "statement": "xảy ra ở hệ liên võng nội mô.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 7,
+      "chapter": "Thoái hóa hồng cầu trong cơ thể",
+      "question_type": "true_false",
+      "statement": "tạo ra sắt và bài xuất phần lớn theo nước tiểu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 8,
+      "chapter": "Thoái hóa hồng cầu trong cơ thể",
+      "question_type": "true_false",
+      "statement": "tạo ra bilirubin và được vận chuyển tới gan bởi protein huyết tương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 9,
+      "chapter": "Người nhóm máu A",
+      "question_type": "true_false",
+      "statement": "có kháng thể kháng B trong huyết tương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 10,
+      "chapter": "Người nhóm máu A",
+      "question_type": "true_false",
+      "statement": "có thể có kiểu gen AB.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 11,
+      "chapter": "Người nhóm máu A",
+      "question_type": "true_false",
+      "statement": "có thể có bố hoặc mẹ mang nhóm máu O.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 12,
+      "chapter": "Người nhóm máu A",
+      "question_type": "true_false",
+      "statement": "chỉ có thể có con nhóm máu A hoặc O.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 13,
+      "chapter": "Tiểu cầu có vai trò trong quá trình cầm máu do",
+      "question_type": "true_false",
+      "statement": "Tiểu cầu giải phóng các yếu tố thúc đẩy hình thành cục máu đông.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 14,
+      "chapter": "Tiểu cầu có vai trò trong quá trình cầm máu do",
+      "question_type": "true_false",
+      "statement": "Tiểu cầu dính với nhau để hình thành nút tiểu cầu khi tiếp xúc với collagen.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 15,
+      "chapter": "Tiểu cầu có vai trò trong quá trình cầm máu do",
+      "question_type": "true_false",
+      "statement": "Tiểu cầu giải phóng ion Ca2+ với nồng độ cao.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 16,
+      "chapter": "Tiểu cầu có vai trò trong quá trình cầm máu do",
+      "question_type": "true_false",
+      "statement": "Tiểu cầu giải phóng các yếu tố gây co mạch.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 17,
+      "chapter": "Bilirubin huyết tương",
+      "question_type": "true_false",
+      "statement": "có bản chất là steroid.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 18,
+      "chapter": "Bilirubin huyết tương",
+      "question_type": "true_false",
+      "statement": "được chuyển thành biliverdin tại gan.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 19,
+      "chapter": "Bilirubin huyết tương",
+      "question_type": "true_false",
+      "statement": "bình thường không đi qua hàng rào máu não.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 20,
+      "chapter": "Bilirubin huyết tương",
+      "question_type": "true_false",
+      "statement": "được lọc tự do ở cầu thận.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 21,
+      "chapter": "Bạch cầu mono",
+      "question_type": "true_false",
+      "statement": "có nguồn gốc từ các tế bào tiền thân trong nang bạch huyết.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 22,
+      "chapter": "Bạch cầu mono",
+      "question_type": "true_false",
+      "statement": "có thể tăng số lượng khi tế bào mẹ bị kích thích bởi các yếu tố được giải phóng từ bạch cầu lympho hoạt hóa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 23,
+      "chapter": "Bạch cầu mono",
+      "question_type": "true_false",
+      "statement": "khác với bạch cầu hạt ở chỗ nó không di cư qua thành mao mạch.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 24,
+      "chapter": "Bạch cầu mono",
+      "question_type": "true_false",
+      "statement": "có thể biến đổi thành các tế bào đa nhân lớn trong một số bệnh cảnh nhiễm trùng mạn tính.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 25,
+      "chapter": "Hồng cầu",
+      "question_type": "true_false",
+      "statement": "đóng vai trò chủ yếu trong việc hình thành độ nhớt của máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 26,
+      "chapter": "Hồng cầu",
+      "question_type": "true_false",
+      "statement": "chứa enzym carbonic anhydrase.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 27,
+      "chapter": "Hồng cầu",
+      "question_type": "true_false",
+      "statement": "tạo ra CO2 và H2O từ chuyển hóa glucose.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 28,
+      "chapter": "Hồng cầu",
+      "question_type": "true_false",
+      "statement": "phồng và vỡ khi nó được chứa trong dung dịch nước muối 0,9% (150mmol/l).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 29,
+      "chapter": "Albumin huyết tương",
+      "question_type": "true_false",
+      "statement": "đóng góp cho áp suất keo huyết tương nhiều hơn globulin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 30,
+      "chapter": "Albumin huyết tương",
+      "question_type": "true_false",
+      "statement": "lọc tự do qua cầu thận.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 31,
+      "chapter": "Albumin huyết tương",
+      "question_type": "true_false",
+      "statement": "mang điện tích âm trong điều kiện pH máu bình thường.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 32,
+      "chapter": "Albumin huyết tương",
+      "question_type": "true_false",
+      "statement": "vận chuyển CO2 trong máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 33,
+      "chapter": "Bạch cầu hạt trung tính",
+      "question_type": "true_false",
+      "statement": "là bạch cầu phổ biến nhất trong máu người trưởng thành bình thường.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 34,
+      "chapter": "Bạch cầu hạt trung tính",
+      "question_type": "true_false",
+      "statement": "chứa các enzym tiêu protein.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 35,
+      "chapter": "Bạch cầu hạt trung tính",
+      "question_type": "true_false",
+      "statement": "có đời sống trong máu tuần hoàn khoảng 3-4 tuần.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 36,
+      "chapter": "Bạch cầu hạt trung tính",
+      "question_type": "true_false",
+      "statement": "chứa các sợi actin và myosin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 37,
+      "chapter": "Chảy máu từ vết cắt nhỏ trên da",
+      "question_type": "true_false",
+      "statement": "bình thường sẽ giảm đi do co mạch cục bộ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 38,
+      "chapter": "Chảy máu từ vết cắt nhỏ trên da",
+      "question_type": "true_false",
+      "statement": "ngừng chảy trong khoảng 5 phút ở người bình thường.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 39,
+      "chapter": "Chảy máu từ vết cắt nhỏ trên da",
+      "question_type": "true_false",
+      "statement": "kéo dài trong trường hợp thiếu yếu tố VIII nặng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 40,
+      "chapter": "Chảy máu từ vết cắt nhỏ trên da",
+      "question_type": "true_false",
+      "statement": "chảy nhiều hơn ở da ấm so với da lạnh.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 41,
+      "chapter": "Kháng thể nhóm máu",
+      "question_type": "true_false",
+      "statement": "có bản chất là protein.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 42,
+      "chapter": "Kháng thể nhóm máu",
+      "question_type": "true_false",
+      "statement": "vắng mặt trong máu thai nhi ở giai đoạn đầu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 43,
+      "chapter": "Kháng thể nhóm máu",
+      "question_type": "true_false",
+      "statement": "được sản xuất sau 6 tuần tiếp xúc lần đầu tiên với kháng nguyên và từ lần tiếp xúc thứ  2 tốc độ sản xuất sẽ lớn hơn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 44,
+      "chapter": "Kháng thể nhóm máu",
+      "question_type": "true_false",
+      "statement": "được sản xuất bởi tế bào lympho B và lưu hành dưới dạng immunoglobulin tự do.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 45,
+      "chapter": "Hồng cầu lưu hành trong máu",
+      "question_type": "true_false",
+      "statement": "Khoảng 1% có nhân.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 46,
+      "chapter": "Hồng cầu lưu hành trong máu",
+      "question_type": "true_false",
+      "statement": "Có thể bộc lộc mạng lưới nội bào nếu được nhuộm thích hợp.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 47,
+      "chapter": "Hồng cầu lưu hành trong máu",
+      "question_type": "true_false",
+      "statement": "Phân bố đều trên các dòng máu trong các mạch máu lớn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 48,
+      "chapter": "Hồng cầu lưu hành trong máu",
+      "question_type": "true_false",
+      "statement": "Di chuyển trong tĩnh mạch với tốc độ chậm hơn trong mao mạch.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 49,
+      "chapter": "Bạch cầu lympho",
+      "question_type": "true_false",
+      "statement": "chiếm 1-2% bạch cầu máu ngoại vi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 50,
+      "chapter": "Bạch cầu lympho",
+      "question_type": "true_false",
+      "statement": "có tính di động.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 51,
+      "chapter": "Bạch cầu lympho",
+      "question_type": "true_false",
+      "statement": "có thể biến đổi thành tương bào.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 52,
+      "chapter": "Bạch cầu lympho",
+      "question_type": "true_false",
+      "statement": "giảm số lượng khi cắt bỏ tuyến ức ở người lớn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 53,
+      "chapter": "Máu",
+      "question_type": "true_false",
+      "statement": "Chiếm khoảng 7% trọng lượng cơ thể.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 54,
+      "chapter": "Máu",
+      "question_type": "true_false",
+      "statement": "Tỷ lệ trọng lượng của máu trong cơ thể ở người béo cao hơn người gầy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 55,
+      "chapter": "Máu",
+      "question_type": "true_false",
+      "statement": "Có thể tính toán thể tích máu bằng cách nhân thể tích huyết tương với hematocrit (dưới dạng phần trăm).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 56,
+      "chapter": "Máu",
+      "question_type": "true_false",
+      "statement": "Thể tích máu tăng lên sau uống nước.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 57,
+      "chapter": "Kháng nguyên",
+      "question_type": "true_false",
+      "statement": "Thường là các phân tử protein hoặc polypeptid.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 58,
+      "chapter": "Kháng nguyên",
+      "question_type": "true_false",
+      "statement": "Chỉ có thể nhận biết bởi các tế bào hệ miễn dịch đã từng tiếp xúc kháng nguyên đó.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 59,
+      "chapter": "Kháng nguyên",
+      "question_type": "true_false",
+      "statement": "Kháng nguyên thường được hấp thu từ ruột qua hệ bạch huyết và được vận chuyển đến các hạch bạch huyết mạc treo.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 60,
+      "chapter": "Kháng nguyên",
+      "question_type": "true_false",
+      "statement": "Kháng nguyên gây ra đáp ứng miễn dịch kém hơn khi quá trình tổng hợp protein bị ức chế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 61,
+      "chapter": "Bạch cầu ái toan ở người bình thường",
+      "question_type": "true_false",
+      "statement": "Bào tương không có hạt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 62,
+      "chapter": "Bạch cầu ái toan ở người bình thường",
+      "question_type": "true_false",
+      "statement": "Chiếm 1/4  tổng số bạch cầu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 63,
+      "chapter": "Bạch cầu ái toan ở người bình thường",
+      "question_type": "true_false",
+      "statement": "Có nhiều trong lớp dịch nhày của đường hô hấp, tiết niệu và ống tiêu hóa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 64,
+      "chapter": "Bạch cầu ái toan ở người bình thường",
+      "question_type": "true_false",
+      "statement": "Giải phóng cytokine.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 65,
+      "chapter": "Hình thành cục máu đông bình thường cần có",
+      "question_type": "true_false",
+      "statement": "Bất hoạt heparin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 66,
+      "chapter": "Hình thành cục máu đông bình thường cần có",
+      "question_type": "true_false",
+      "statement": "Bất hoạt plasmin (tiêu fibrin).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 67,
+      "chapter": "Hình thành cục máu đông bình thường cần có",
+      "question_type": "true_false",
+      "statement": "Ion Ca2+.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 68,
+      "chapter": "Hình thành cục máu đông bình thường cần có",
+      "question_type": "true_false",
+      "statement": "Cơ thể có đủ lượng vitamin K.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 69,
+      "chapter": "Kháng thể của hệ thống nhóm máu ABO",
+      "question_type": "true_false",
+      "statement": "Có mặt trong huyết tương thai nhi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 70,
+      "chapter": "Kháng thể của hệ thống nhóm máu ABO",
+      "question_type": "true_false",
+      "statement": "Gây ly giải hồng cầu chứa kháng nguyên A và B khi cho kháng thể tương ứng vào dung dịch hồng cầu rửa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 71,
+      "chapter": "Kháng thể của hệ thống nhóm máu ABO",
+      "question_type": "true_false",
+      "statement": "Thường không đi qua hàng rào rau thai.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 72,
+      "chapter": "Kháng thể của hệ thống nhóm máu ABO",
+      "question_type": "true_false",
+      "statement": "Có trọng lượng phân tử trên 500.000 Dalton.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 73,
+      "chapter": "Hệ bạch huyết",
+      "question_type": "true_false",
+      "statement": "Bạch huyết chứa protein.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 74,
+      "chapter": "Hệ bạch huyết",
+      "question_type": "true_false",
+      "statement": "Mạch bạch huyết tham gia vào hấp thu acid amin ở ruột.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 75,
+      "chapter": "Hệ bạch huyết",
+      "question_type": "true_false",
+      "statement": "Lưu lượng bạch huyết tăng khi hoạt động cơ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 76,
+      "chapter": "Hệ bạch huyết",
+      "question_type": "true_false",
+      "statement": "Bình thường thành phần dịch bạch huyết không có các tế bào.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 77,
+      "chapter": "Tiểu cầu trong máu ngoại vi",
+      "question_type": "true_false",
+      "statement": "Được tạo thành trong tủy xương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 78,
+      "chapter": "Tiểu cầu trong máu ngoại vi",
+      "question_type": "true_false",
+      "statement": "Thường có số lượng nhiều hơn bạch cầu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 79,
+      "chapter": "Tiểu cầu trong máu ngoại vi",
+      "question_type": "true_false",
+      "statement": "Chỉ có một nhân nhỏ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 80,
+      "chapter": "Tiểu cầu trong máu ngoại vi",
+      "question_type": "true_false",
+      "statement": "Tăng số lượng sau chấn thương và phẫu thuật.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 81,
+      "chapter": "Sự biến đổi fibrinogen thành fibrin",
+      "question_type": "true_false",
+      "statement": "Bị tác động bởi prothrombin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 82,
+      "chapter": "Sự biến đổi fibrinogen thành fibrin",
+      "question_type": "true_false",
+      "statement": "Liên quan đến sự phá vỡ các liên kết peptid nhất định bởi một enzym tiêu protein.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 83,
+      "chapter": "Sự biến đổi fibrinogen thành fibrin",
+      "question_type": "true_false",
+      "statement": "Theo sau là sự trùng hợp các đơn phân fibrin.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 84,
+      "chapter": "Sự biến đổi fibrinogen thành fibrin",
+      "question_type": "true_false",
+      "statement": "Bị ức chế bởi heparin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 85,
+      "chapter": "Bệnh lý tan máu ở trẻ sơ sinh",
+      "question_type": "true_false",
+      "statement": "Ảnh hưởng chủ yếu ở trẻ có mẹ Rh(+).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 86,
+      "chapter": "Bệnh lý tan máu ở trẻ sơ sinh",
+      "question_type": "true_false",
+      "statement": "Xảy ra chủ yếu ở trẻ có kháng nguyên D.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 87,
+      "chapter": "Bệnh lý tan máu ở trẻ sơ sinh",
+      "question_type": "true_false",
+      "statement": "Gây vàng da và biến mất nhanh sau sinh.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 88,
+      "chapter": "Bệnh lý tan máu ở trẻ sơ sinh",
+      "question_type": "true_false",
+      "statement": "Có thể điều trị bằng truyền máu Rh(+) cho trẻ bị bệnh.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 89,
+      "chapter": "Mẫu máu sau khi ly tâm có thể gợi ý",
+      "question_type": "true_false",
+      "statement": "Thiếu máu nếu thể tích khối huyết tương lớn hơn thể tích khối hồng cầu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 90,
+      "chapter": "Mẫu máu sau khi ly tâm có thể gợi ý",
+      "question_type": "true_false",
+      "statement": "Nồng độ lipid huyết tương cao.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 91,
+      "chapter": "Mẫu máu sau khi ly tâm có thể gợi ý",
+      "question_type": "true_false",
+      "statement": "Bệnh nhân vàng da.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 92,
+      "chapter": "Mẫu máu sau khi ly tâm có thể gợi ý",
+      "question_type": "true_false",
+      "statement": "Tan máu đã xảy ra.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 93,
+      "chapter": "Bệnh nhân thiếu máu mức độ từ vừa đến nặng có thể",
+      "question_type": "true_false",
+      "statement": "giảm thể tích tâm thu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 94,
+      "chapter": "Bệnh nhân thiếu máu mức độ từ vừa đến nặng có thể",
+      "question_type": "true_false",
+      "statement": "xuất hiện tiếng thổi mạch máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 95,
+      "chapter": "Bệnh nhân thiếu máu mức độ từ vừa đến nặng có thể",
+      "question_type": "true_false",
+      "statement": "giảm nồng độ 2,3-DPG máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 96,
+      "chapter": "Bệnh nhân thiếu máu mức độ từ vừa đến nặng có thể",
+      "question_type": "true_false",
+      "statement": "giảm phân áp oxy trong máu động mạch (PaO2).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 97,
+      "chapter": "Thiếu sắt",
+      "question_type": "true_false",
+      "statement": "Thường gặp sau mất máu kéo dài.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 98,
+      "chapter": "Thiếu sắt",
+      "question_type": "true_false",
+      "statement": "Thường gặp ở nam hơn nữ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 99,
+      "chapter": "Thiếu sắt",
+      "question_type": "true_false",
+      "statement": "Có thể gây thiếu máu do ức chế tốc độ sinh sản của tế bào gốc hồng cầu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 100,
+      "chapter": "Thiếu sắt",
+      "question_type": "true_false",
+      "statement": "Có thể gây thiếu máu nhược sắc hồng cầu to trong máu ngoại vi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 101,
+      "chapter": "Tai biến truyền máu nghiêm trọng có thể xảy ra sau khi truyền máu",
+      "question_type": "true_false",
+      "statement": "nhóm A cho người nhóm B.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 102,
+      "chapter": "Tai biến truyền máu nghiêm trọng có thể xảy ra sau khi truyền máu",
+      "question_type": "true_false",
+      "statement": "nhóm O cho người nhóm AB.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 103,
+      "chapter": "Tai biến truyền máu nghiêm trọng có thể xảy ra sau khi truyền máu",
+      "question_type": "true_false",
+      "statement": "nhóm A cho người nhóm O.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 104,
+      "chapter": "Tai biến truyền máu nghiêm trọng có thể xảy ra sau khi truyền máu",
+      "question_type": "true_false",
+      "statement": "nhóm A cho người nhóm AB.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 105,
+      "chapter": "Hematocrit (thể tích khối hồng cầu)",
+      "question_type": "true_false",
+      "statement": "có thể thu được bằng ly tâm máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 106,
+      "chapter": "Hematocrit (thể tích khối hồng cầu)",
+      "question_type": "true_false",
+      "statement": "có thể được tính toán bằng nhân MCV với số lượng hồng cầu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 107,
+      "chapter": "Hematocrit (thể tích khối hồng cầu)",
+      "question_type": "true_false",
+      "statement": "tăng ở bệnh nhân bỏng diện rộng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 108,
+      "chapter": "Hematocrit (thể tích khối hồng cầu)",
+      "question_type": "true_false",
+      "statement": "tăng sau tiêm aldosteron.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 109,
+      "chapter": "Sự sản sinh hồng cầu tăng lên",
+      "question_type": "true_false",
+      "statement": "Sau khi tiêm vitamin B12 cho người khỏe mạnh có chế độ ăn bình thường.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 110,
+      "chapter": "Sự sản sinh hồng cầu tăng lên",
+      "question_type": "true_false",
+      "statement": "Trong máu người cho một tuần sau khi hiến máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 111,
+      "chapter": "Sự sản sinh hồng cầu tăng lên",
+      "question_type": "true_false",
+      "statement": "Ở bệnh nhân thiếu máu tan máu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 112,
+      "chapter": "Sự sản sinh hồng cầu tăng lên",
+      "question_type": "true_false",
+      "statement": "Sau khi tiêm erythropoietin cho bệnh nhân đã cắt thận.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 113,
+      "chapter": "Thiếu vitamin B12 có thể",
+      "question_type": "true_false",
+      "statement": "do bệnh lý đoạn cuối hồi tràng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 114,
+      "chapter": "Thiếu vitamin B12 có thể",
+      "question_type": "true_false",
+      "statement": "dẫn đến thiếu máu ưu sắc hồng cầu nhỏ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 115,
+      "chapter": "Thiếu vitamin B12 có thể",
+      "question_type": "true_false",
+      "statement": "do thiếu lớp màng nhầy dạ dày.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 116,
+      "chapter": "Thiếu vitamin B12 có thể",
+      "question_type": "true_false",
+      "statement": "gây giảm số lượng tiểu cầu lưu hành trong máu ngoại vi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 117,
+      "chapter": "pH máu và nồng độ bicarbonat tăng trong trường hợp",
+      "question_type": "true_false",
+      "statement": "Toan chuyển hóa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 118,
+      "chapter": "pH máu và nồng độ bicarbonat tăng trong trường hợp",
+      "question_type": "true_false",
+      "statement": "Kiềm hô hấp bù trừ một phần.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 119,
+      "chapter": "pH máu và nồng độ bicarbonat tăng trong trường hợp",
+      "question_type": "true_false",
+      "statement": "Giảm phân áp CO2 trong máu động mạch (PaCO2).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 120,
+      "chapter": "pH máu và nồng độ bicarbonat tăng trong trường hợp",
+      "question_type": "true_false",
+      "statement": "Suy thận mạn với PaCO2 tăng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 121,
+      "chapter": "Toan hô hấp bù trừ một phần",
+      "question_type": "true_false",
+      "statement": "phải có tăng phân áp CO2 trong máu động mạch (PaCO2).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 122,
+      "chapter": "Toan hô hấp bù trừ một phần",
+      "question_type": "true_false",
+      "statement": "có thể có giảm nồng độ ion H+.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 123,
+      "chapter": "Toan hô hấp bù trừ một phần",
+      "question_type": "true_false",
+      "statement": "phải có tăng nồng độ bicarbonat.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 124,
+      "chapter": "Toan hô hấp bù trừ một phần",
+      "question_type": "true_false",
+      "statement": "có thể có sự tham gia bù trừ của thận.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 125,
+      "chapter": "Giảm số lượng bạch cầu đa nhân trung tính có thể",
+      "question_type": "true_false",
+      "statement": "gây ra bởi thuốc ức chế hoạt động của tủy xương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 126,
+      "chapter": "Giảm số lượng bạch cầu đa nhân trung tính có thể",
+      "question_type": "true_false",
+      "statement": "là hậu quả của tổn thương mô.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 127,
+      "chapter": "Giảm số lượng bạch cầu đa nhân trung tính có thể",
+      "question_type": "true_false",
+      "statement": "liên quan đến viêm loét họng giả mạc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 128,
+      "chapter": "Giảm số lượng bạch cầu đa nhân trung tính có thể",
+      "question_type": "true_false",
+      "statement": "liên quan đến nhiễm trùng mủ lan rộng",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 129,
+      "chapter": "Giảm nồng độ natri huyết tương có thể",
+      "question_type": "true_false",
+      "statement": "do sản xuất quá mức ADH.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 130,
+      "chapter": "Giảm nồng độ natri huyết tương có thể",
+      "question_type": "true_false",
+      "statement": "làm giảm thể tích dịch nội bào.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 131,
+      "chapter": "Giảm nồng độ natri huyết tương có thể",
+      "question_type": "true_false",
+      "statement": "xảy ra ở những người hoạt động thể lực nặng trong điều kiện khí hậu nóng ẩm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 132,
+      "chapter": "Giảm nồng độ natri huyết tương có thể",
+      "question_type": "true_false",
+      "statement": "làm giảm áp lực thẩm thấu huyết tương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 133,
+      "chapter": "Nồng độ kali máu cao",
+      "question_type": "true_false",
+      "statement": "xảy ra trong suy thận cấp.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 134,
+      "chapter": "Nồng độ kali máu cao",
+      "question_type": "true_false",
+      "statement": "xảy ra sau chấn thương trầm trọng các chi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 135,
+      "chapter": "Nồng độ kali máu cao",
+      "question_type": "true_false",
+      "statement": "có thể làm giảm hoạt động tim và gây tử vong.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 136,
+      "chapter": "Nồng độ kali máu cao",
+      "question_type": "true_false",
+      "statement": "làm tăng sức mạnh cơ xương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 137,
+      "chapter": "Thiếu yếu tố VIII",
+      "question_type": "true_false",
+      "statement": "làm thời gian chảy máu kéo dài.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 138,
+      "chapter": "Thiếu yếu tố VIII",
+      "question_type": "true_false",
+      "statement": "là do gen bất thường nằm trên NST Y.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 139,
+      "chapter": "Thiếu yếu tố VIII",
+      "question_type": "true_false",
+      "statement": "có thể dẫn đến chảy máu quá mức sau nhổ răng khi giảm còn 75% giá trị bình thường.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 140,
+      "chapter": "Thiếu yếu tố VIII",
+      "question_type": "true_false",
+      "statement": "gây xuất huyết dạng chấm ở da.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 141,
+      "chapter": "Tăng nồng độ canxi máu có thể",
+      "question_type": "true_false",
+      "statement": "xảy ra khi giảm hoạt động tuyến cận giáp.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 142,
+      "chapter": "Tăng nồng độ canxi máu có thể",
+      "question_type": "true_false",
+      "statement": "xảy ra khi nồng độ protein huyết tương giảm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 143,
+      "chapter": "Tăng nồng độ canxi máu có thể",
+      "question_type": "true_false",
+      "statement": "xảy ra khi suy thận mạn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 144,
+      "chapter": "Tăng nồng độ canxi máu có thể",
+      "question_type": "true_false",
+      "statement": "không làm tăng tính kích thích thần kinh - cơ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 145,
+      "chapter": "Bình thường dịch não tủy",
+      "question_type": "true_false",
+      "statement": "được hấp thu tại đám rối mạch mạc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 146,
+      "chapter": "Bình thường dịch não tủy",
+      "question_type": "true_false",
+      "statement": "chảy vào khoang dưới nhện.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_id": 147,
+      "chapter": "Bình thường dịch não tủy",
+      "question_type": "true_false",
+      "statement": "có nồng độ protein cao hơn huyết tương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_id": 148,
+      "chapter": "Bình thường dịch não tủy",
+      "question_type": "true_false",
+      "statement": "có nồng độ glucose thấp hơn huyết tương.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng"
+        },
+        {
+          "key": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": ""
+    }
+  ]
+}

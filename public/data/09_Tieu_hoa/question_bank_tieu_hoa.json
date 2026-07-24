@@ -1,0 +1,2634 @@
+{
+  "metadata": {
+    "subject": "Tiêu hoá",
+    "total_questions": 165,
+    "document_title": "Tiêu hoá - Đáp án",
+    "created_date": "2026-07-19T14:29:52.512Z",
+    "data_engineer": "Claude",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch nước bọt",
+      "question": "Có hai loại tuyến nước bọt là tuyến mang tai và tuyến dưới hàm.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch nước bọt",
+      "question": "Amylase có tác dụng thuỷ phân tinh bột sống, chín thành maltose.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch nước bọt",
+      "question": "Nước bọt được bài tiết trong cả ngày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch nước bọt",
+      "question": "Thể tích và thành phần nước bọt phụ thuộc vào bản chất thức ăn.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thức ăn chứa trong dạ dày",
+      "question": "Thức ăn vào dạ dày đến đâu áp suất trong dạ dày tăng lên đến đó.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thức ăn chứa trong dạ dày",
+      "question": "Thức ăn vào trước nằm ở giữa khối thức ăn trong dạ dày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thức ăn chứa trong dạ dày",
+      "question": "Sau bữa ăn, phần lớn thức ăn được chứa ở vùng thân dạ dày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thức ăn chứa trong dạ dày",
+      "question": "Phần thức ăn nằm bên ngoài khối thức ăn được đưa xuống hang vị trước.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của HCl trong dịch vị",
+      "question": "Hoạt hoá pepsinogen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của HCl trong dịch vị",
+      "question": "Tạo ra pH cho pepsin hoạt động.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của HCl trong dịch vị",
+      "question": "Thuỷ phân nucleoprotein.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của HCl trong dịch vị",
+      "question": "Thủy phân cellulose của thực vật non.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của ruột",
+      "question": "Được chi phối bởi đám rối thần kinh nội tại của ruột.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của ruột",
+      "question": "Kích thích thần kinh giao cảm làm tăng nhu động ruột.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của ruột",
+      "question": "Thức ăn chứa trong ruột làm tăng hoạt động cơ học của ruột.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của ruột",
+      "question": "Motilin làm tăng hoạt động cơ học của ruột.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của dạ dày",
+      "question": "Thức ăn xuống đến cuối thực quản, nhờ phản xạ ruột cơ thắt thực quản - tâm vị giãn ra.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của dạ dày",
+      "question": "Khi pH trong dạ dày giảm thấp thì cơ thắt thực quản - tâm vị co lại.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của dạ dày",
+      "question": "Khi dạ dày không có thức ăn, dạ dày vẫn có những co bóp yếu và thưa.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hoạt động cơ học của dạ dày",
+      "question": "Ngoài bữa ăn môn vị luôn đóng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 21,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thực nghiệm tạo túi dạ dày nhỏ",
+      "question": "Ngoài bữa ăn túi dạ dày nhỏ vẫn bài tiết dịch vị.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 22,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thực nghiệm tạo túi dạ dày nhỏ",
+      "question": "Kích thích của thức ăn ở giai đoạn đầu cũng gây tăng bài tiết dịch.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 23,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thực nghiệm tạo túi dạ dày nhỏ",
+      "question": "Trong và sau bữa ăn bài tiết dịch vị cũng tăng lên.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 24,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thực nghiệm tạo túi dạ dày nhỏ",
+      "question": "Làm căng phồng túi dạ dày nhỏ cũng làm tăng bài tiết dịch vị ở túi dạ dày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 25,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Điều hoà bài tiết dịch tiêu hoá",
+      "question": "Kích thích dây X làm tăng bài tiết dịch vị, dịch tuỵ.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Điều hoà bài tiết dịch tiêu hoá",
+      "question": "Kích thích hệ thần kinh giao cảm làm giảm bài tiết dịch tuỵ.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Điều hoà bài tiết dịch tiêu hoá",
+      "question": "Kích thích dây X làm tăng bài tiết dịch ruột.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 28,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Điều hoà bài tiết dịch tiêu hoá",
+      "question": "Kích thích dây X làm tăng bài xuất mật.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 29,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tên enzym, cơ chất và sản phẩm",
+      "question": "Pepsin - protein - pepton, proteose, polypeptid.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 30,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tên enzym, cơ chất và sản phẩm",
+      "question": "Trypsin - protein, polypeptid - peptid, acid amin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 31,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tên enzym, cơ chất và sản phẩm",
+      "question": "Chymotrypsin -- polypeptid - peptid, acid amin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 32,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tên enzym, cơ chất và sản phẩm",
+      "question": "Lipase - triglycerid -- acid béo, monoglycerid.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 33,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tắc ống mật chủ",
+      "question": "sự tạo thành các hạt mixen trong hấp thu lipid ở ruột non.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 34,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tắc ống mật chủ",
+      "question": "nhũ tương hóa các chất béo ở ruột non.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 35,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tắc ống mật chủ",
+      "question": "hấp thu các chất carbohydrat.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 36,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tắc ống mật chủ",
+      "question": "loại bỏ cholesteron ra khỏi máu tuần hoàn.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 37,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Nhu động ruột",
+      "question": "Có thể bị ảnh hưởng bởi hệ thống thần kinh giao cảm.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 38,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Nhu động ruột",
+      "question": "Có thể bị ảnh hưởng bởi hệ thống thần kinh phó giao cảm.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 39,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Nhu động ruột",
+      "question": "Có thể được xuất hiện bởi căng giãn thành ruột non.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 40,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Nhu động ruột",
+      "question": "Không bị ảnh hưởng bởi morphin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 41,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cơ thắt thực quản -- tâm vị",
+      "question": "Bình thường ngăn ngừa hiện tượng trào ngược thức ăn từ dạ dày lên thực quản.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 42,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cơ thắt thực quản -- tâm vị",
+      "question": "Giãn ra ngay trước khi sóng nhu động đi qua thực quản.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 43,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cơ thắt thực quản -- tâm vị",
+      "question": "Luôn trong tình trạng co trương lực bởi gastrin của máu tuần hoàn.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 44,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cơ thắt thực quản -- tâm vị",
+      "question": "Co lại khi bệnh nhân có triệu chứng nóng rát vùng thượng vị.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 45,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Bài tiết dịch vị tăng lên bởi",
+      "question": "Kích thích dây thần kinh X.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 46,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Bài tiết dịch vị tăng lên bởi",
+      "question": "pH acid ở dịch trong tá tràng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 47,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Bài tiết dịch vị tăng lên bởi",
+      "question": "Kích thích các receptor nhận cảm sức căng của thành dạ dày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 48,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Bài tiết dịch vị tăng lên bởi",
+      "question": "Secretin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 49,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ tuyến tụy",
+      "question": "có thể làm giảm hấp thu các vitamin hòa tan trong lipid.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 50,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ tuyến tụy",
+      "question": "không làm thay đổi hoặc thay đổi rất ít nồng độ glucagon trong huyết tương.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 51,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ tuyến tụy",
+      "question": "làm tăng glucose trong máu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 52,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ tuyến tụy",
+      "question": "làm giảm hấp thu acid amin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 53,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thiếu máu hồng cầu khổng lồ",
+      "question": "Thiếu máu hồng cầu khổng lồ có thể xuất hiện sau khi phẫu thuật cắt bỏ đại tràng lên.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 54,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thiếu máu hồng cầu khổng lồ",
+      "question": "Thiếu máu hồng cầu khổng lồ có thể xuất hiện sau khi phẫu thuật cắt bỏ dạ dày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 55,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thiếu máu hồng cầu khổng lồ",
+      "question": "Thiếu máu hồng cầu khổng lồ có thể xuất hiện sau khi phẫu thuật cắt bỏ tá tràng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 56,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Thiếu máu hồng cầu khổng lồ",
+      "question": "Thiếu máu hồng cầu khổng lồ có thể xuất hiện sau khi phẫu thuật cắt bỏ đại tràng xuống.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 57,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Chức năng tuyến tụy",
+      "question": "Khi kích thích dây X, tụy sẽ bài tiết nhanh một lượng dịch chứa nhiều nước.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 58,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Chức năng tuyến tụy",
+      "question": "Dịch tụy chứa các enzym thủy phân các polysaccharid.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 59,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Chức năng tuyến tụy",
+      "question": "Các nang tuyến tụy chứa trypsin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 60,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Chức năng tuyến tụy",
+      "question": "Có hormon tác dụng làm tụy tăng bài tiết dịch chứa nhiều enzym đồng thời làm co túi mật.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 61,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ dạ dày",
+      "question": "Cắt bỏ toàn bộ dạ dày có thể dẫn tới máu bị pha loãng sau bữa ăn.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 62,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ dạ dày",
+      "question": "Cắt bỏ toàn bộ dạ dày có thể dẫn tới giảm hấp thu vitamin B12.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 63,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ dạ dày",
+      "question": "Cắt bỏ toàn bộ dạ dày có thể dẫn tới giảm mạnh sự hấp thu ion.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 64,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Cắt bỏ toàn bộ dạ dày",
+      "question": "Cắt bỏ toàn bộ dạ dày có thể dẫn tới giảm hấp thu protein.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 65,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch mật",
+      "question": "Muối mật được tạo ra từ chuyển hóa hemoglobin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 66,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch mật",
+      "question": "Trong hấp thu lipid cần một lượng muối mật nhất định.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 67,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch mật",
+      "question": "Tái hấp thu muối mật từ ruột non sẽ dẫn tới tăng bài tiết dịch mật.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 68,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Dịch mật",
+      "question": "Dịch túi mật được cô đặc là do sự vận chuyển tích cực NaCl ra khỏi dịch túi mật.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 69,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu mỡ",
+      "question": "Kích thước hạt cầu mỡ tăng lên khi mỡ được lắc trong nước ở 37°C có cho thêm muối mật.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 70,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu mỡ",
+      "question": "Chylomicron là giọt mỡ nhỏ được tìm thấy ở trong lòng ruột non.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 71,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu mỡ",
+      "question": "Các sản phẩm tiêu hóa của lipid ở trong lòng ruột sẽ được tái tổ hợp ở các tế bào ruột non và được đưa vào các mạch bạch huyết.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 72,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu mỡ",
+      "question": "Giảm hấp thu lipid có thể dẫn tới giảm hấp thu các vitamin nhóm B.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 73,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu glucid",
+      "question": "Glucose được vận chuyển tích cực.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 74,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu glucid",
+      "question": "Galactose được vận chuyển tích cực.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 75,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu glucid",
+      "question": "Fructose được vận chuyển tích cực.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 76,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Hấp thu glucid",
+      "question": "Glucose và galactose cạnh tranh cùng một chất mang.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 77,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Giảm bài tiết dịch tụy",
+      "question": "Giảm bài tiết dịch tụy sẽ dẫn tới tiêu hóa protid kém và có xu hướng giảm trọng lượng cơ thể.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 78,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Giảm bài tiết dịch tụy",
+      "question": "Giảm bài tiết dịch tụy sẽ dẫn tới dễ bị chảy máu.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 79,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Giảm bài tiết dịch tụy",
+      "question": "Giảm bài tiết dịch tụy sẽ dẫn tới mất nước qua đường tiêu hóa do giảm hấp thu ion Na+ ở ruột.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 80,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Giảm bài tiết dịch tụy",
+      "question": "Giảm bài tiết dịch tụy sẽ dẫn tới tăng đường huyết.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 81,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của dịch vị",
+      "question": "Pepsin có tác dụng hoạt hóa pepsinogen.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 82,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của dịch vị",
+      "question": "HCl có tác dụng hoạt hoá pepsin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 83,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của dịch vị",
+      "question": "Chất nhầy có tác dụng bảo vệ niêm mạc dạ dày.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 84,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Tác dụng của dịch vị",
+      "question": "Yếu tố nội cần cho hấp thuB12 ở hồi tràng.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 85,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các yếu tố làm tăng bài tiết dịch vị",
+      "question": "CCK (cholecystokinin).",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 86,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các yếu tố làm tăng bài tiết dịch vị",
+      "question": "Gastrin do vùng hang vị bài tiết.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 87,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các yếu tố làm tăng bài tiết dịch vị",
+      "question": "Adrenalin và noradrenalin của tuỷ thượng thận.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 88,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các yếu tố làm tăng bài tiết dịch vị",
+      "question": "Histamin do tế bào ưa crôm bài tiết.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 89,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các tuyến của ruột non bài tiết enzym",
+      "question": "Lipase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 90,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các tuyến của ruột non bài tiết enzym",
+      "question": "Amylase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 91,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các tuyến của ruột non bài tiết enzym",
+      "question": "Aminopolypeptidase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 92,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các tuyến của ruột non bài tiết enzym",
+      "question": "Dipeptidase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 93,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các enzym tiêu hóa protid của dịch ruột",
+      "question": "Aminopolypeptidase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 94,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các enzym tiêu hóa protid của dịch ruột",
+      "question": "Chymotrypsin.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 95,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các enzym tiêu hóa protid của dịch ruột",
+      "question": "Carboxypeptidase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 96,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Các enzym tiêu hóa protid của dịch ruột",
+      "question": "Dipeptidase.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 97,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Diềm bàn chải của tế bào niêm mạc ruột non",
+      "question": "Acid amin được hấp thu bằng cơ chế vận chuyển tích cực nguyên phát.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 98,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Diềm bàn chải của tế bào niêm mạc ruột non",
+      "question": "Glucose được hấp thu bằng cơ chế đồng vận chuyển với ion Na+.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 99,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Diềm bàn chải của tế bào niêm mạc ruột non",
+      "question": "Acid béo được hấp thu bằng cơ chế vận chuyển tích cực.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 100,
+      "type": "true_false",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Diềm bàn chải của tế bào niêm mạc ruột non",
+      "question": "Galactose được hấp thu bằng cơ chế vận chuyển tích cực thứ phát.",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 101,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Cấu trúc của tụy bài tiết một lượng lớn dịch kiềm giàu enzym có tác dụng tiêu hóa thức ăn trong tá tràng là:",
+      "options": {
+        "A": "Nang tụy",
+        "B": "Tế bào delta",
+        "C": "Đảo tụy",
+        "D": "Tế bào alpha"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 102,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Nhai có các tác dụng sau đây, TRỪ:",
+      "options": {
+        "A": "Nghiền nhỏ thức ăn để dễ nuốt.",
+        "B": "Nghiền nhỏ thức ăn để dễ hấp thu.",
+        "C": "Nghiền nhỏ và phá vỡ bọc cellulose để dễ tiêu hoá.",
+        "D": "Nghiền nhỏ thức ăn để tăng diện tích tiếp xúc với enzym."
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 103,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Nước bọt có tác dụng sau đây, TRỪ:",
+      "options": {
+        "A": "Làm ẩm ướt, bôi trơn miệng và thức ăn để dễ nuốt.",
+        "B": "Vệ sinh răng miệng do chứa một số chất giết vi khuẩn.",
+        "C": "Tiêu hoá tinh bột thành đường maltose và maltriose.",
+        "D": "Tiêu hoá tinh bột chín thành đường maltose và maltriose."
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 104,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dạ dày có các chức năng sau đây, TRỪ:",
+      "options": {
+        "A": "Có thể phình, giãn tối đa 1,5 lít để chứa đựng thức ăn.",
+        "B": "Nhào trộn thức ăn để ngấm dịch vị và đẩy thức ăn xuống tá tràng.",
+        "C": "Bài tiết enzym tiêu hoá thức ăn các dạng protid và lipid.",
+        "D": "Bài tiết enzym tiêu hoá thức ăn dạng glucid."
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 105,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Cơ thắt môn vị:",
+      "options": {
+        "A": "Luôn ở trạng thái giãn làm môn vị mở để vị chấp chảy xuống tá tràng.",
+        "B": "Luôn ở trạng thái co để đẩy thức ăn ngược về phía phình vị, nhào trộn thức ăn.",
+        "C": "Luôn ở trạng thái co trương lực nhẹ nhưng mức co tăng làm môn vị đóng khi thức ăn vào dạ dày.",
+        "D": "Luôn ở trạng thái giãn nhưng co lại làm môn vị đóng khi thức ăn vào dạ dày."
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 106,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "HCl được tạo thành:",
+      "options": {
+        "A": "Tại kênh của tế bào viền do Cl- được khuếch tán từ bào tương tế bào viền vào kênh, H+ được sinh ra tại tế bào viền và được khuếch tán vào kênh",
+        "B": "Tại kênh của tế bào viền do Cl- được khuếch tán từ bào tương tế bào viền vào kênh, H+ được sinh ra tại tế bào viền và được bơm vào kênh",
+        "C": "Tại kênh của tế bào viền do Cl- được vận chuyển tích cực từ bào tương tế bào viền vào kênh, H+ được sinh ra tại tế bào viền và được bơm vào kênh",
+        "D": "Tại kênh của tế bào viền do Cl- được vận chuyển tích cực từ bào tương tế bào viền vào kênh, H+ được sinh ra tại tế bào viền và được khuếch tán vào kênh"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 107,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dịch tiêu hoá có pH cao nhất:",
+      "options": {
+        "A": "Dịch vị",
+        "B": "Dịch tuỵ",
+        "C": "Dịch nước bọt",
+        "D": "Dịch ruột"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 108,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dịch vị có các thành phần sau, TRỪ:",
+      "options": {
+        "A": "Pepsinogen",
+        "B": "Amylase",
+        "C": "Lipase",
+        "D": "Yếu tố nội"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 109,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dịch vị có các thành phần sau đây, TRỪ:",
+      "options": {
+        "A": "HCl",
+        "B": "Pepsinogen",
+        "C": "Bicarbonat",
+        "D": "Chất nhầy"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 110,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dịch vị được bài tiết khi:",
+      "options": {
+        "A": "Thức ăn vào miệng và dạ dày",
+        "B": "Thức ăn vào dạ dày và xuống ruột",
+        "C": "Thức ăn vào miệng, dạ dày và xuống ruột",
+        "D": "Thức ăn chưa vào miệng, vào miệng, dạ dày và xuống ruột"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 111,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Các yếu tố sau đây kích thích bài tiết dịch vị, TRỪ:",
+      "options": {
+        "A": "Cortisol của tuyến vỏ thượng thận",
+        "B": "Gastrin do vùng hang vị bài tiết",
+        "C": "Adrenalin và noradrenalin của tuỷ thượng thận",
+        "D": "Histamin do tế bào ưa crôm bài tiết"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 112,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Tác dụng của các thành phần trong dịch vị là:",
+      "options": {
+        "A": "Pepsin tham gia thuỷ phân protein thành acid amin",
+        "B": "HCl có tác dụng hoạt hoá pepsin",
+        "C": "Chất nhầy có tác dụng bảo vệ niêm mạc dạ dày",
+        "D": "Yếu tố nội cần cho hấp thu Vit B12 ở hồi tràng"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 113,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Enzym tiêu protid có trong dịch vị là:",
+      "options": {
+        "A": "Trypsin",
+        "B": "Pepsin",
+        "C": "Aminopeptidase",
+        "D": "Carboxypeptidase"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 114,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Bài tiết gastrin tăng lên bởi:",
+      "options": {
+        "A": "pH acid trong lòng dạ dày",
+        "B": "Sự căng của dạ dày do thức ăn",
+        "C": "Tăng nồng độ secretin trong máu",
+        "D": "Tăng nồng độ cholecystokinin trong máu"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 115,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Tác dụng của pepsin là:",
+      "options": {
+        "A": "Thuỷ phân protein thành proteose, polypeptide và acid amin",
+        "B": "Thuỷ phân protein thành proteose, pepton và acid amin",
+        "C": "Thuỷ phân protein thành proteose, pepton và polypeptid",
+        "D": "Thuỷ phân protein thành pepton, polypeptid và acid amin"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 116,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Tuyến tụy ngoại tiết bài tiết các enzym sau, TRỪ:",
+      "options": {
+        "A": "Chymotrypsin",
+        "B": "Amylase",
+        "C": "Aminopeptidase",
+        "D": "Carboxypolypeptidase"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 117,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Chất tham gia điều hoà bài tiết enzym của tuỵ:",
+      "options": {
+        "A": "Secretin",
+        "B": "Somatostatin",
+        "C": "Cholecystokinin",
+        "D": "Histamin"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 118,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Tắc ống mật chủ hoàn toàn:",
+      "options": {
+        "A": "Giảm tiêu hoá và hấp thu lipid",
+        "B": "Giảm tiêu hoá và hấp thu protein",
+        "C": "Giảm tiêu hoá và hấp thu glucid",
+        "D": "Giảm hấp thu vitamin nhóm B"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 119,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Quá trình bài xuất mật được điều hoà bởi:",
+      "options": {
+        "A": "Secretin",
+        "B": "Pancreozymin",
+        "C": "Gastrin",
+        "D": "Histamin"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 120,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Mất hoàn toàn chức năng tụy ngoại tiết sẽ dẫn đến:",
+      "options": {
+        "A": "Tiêu hoá glucid xảy ra bình thường",
+        "B": "Tiêu hoá protid giảm",
+        "C": "Tiêu hoá lipid xảy ra bình thường",
+        "D": "Hấp thu các vitamin tan trong dầu giảm"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 121,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Phần ống tiêu hoá hấp thu nhiều nước nhất:",
+      "options": {
+        "A": "Dạ dày",
+        "B": "Tá tràng",
+        "C": "Ruột non",
+        "D": "Ruột già"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 122,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dịch tụy không tiêu hoá được tuyến tụy vì:",
+      "options": {
+        "A": "Không bài tiết ra pepsinogen",
+        "B": "Trypsinogen không có tác dụng tiêu hóa",
+        "C": "pH của dịch tụy kiềm",
+        "D": "Dịch tụy sau khi bài tiết được đưa ngay xuống tá tràng"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 123,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Dịch tụy không tiêu hoá được tuyến tụy vì các lý do sau đây, TRỪ:",
+      "options": {
+        "A": "Các enzymđược tổng hợp và bài tiết dưới dạng chưa hoạt động",
+        "B": "Các tế bào nang tổng hợp và bài tiết các chất ức chế enterok inase",
+        "C": "Các enzym tiêu hóa được chứa trong các túi của tế bào nang",
+        "D": "Các tế bào nang tổng hợp và bài tiết các chất ức chế trypsin"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 124,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Rất khó tiêu hoá và hấp thu lipid nếu thiếu:",
+      "options": {
+        "A": "Dịch vị",
+        "B": "Dịch tụy",
+        "C": "Dịch mật",
+        "D": "Dịch ruột"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 125,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Hầu hết protid được tiêu hoá thành dạng có thể hấp thu được dưới tác dụng của:",
+      "options": {
+        "A": "Dịch nước bọt",
+        "B": "Dịch vị",
+        "C": "Dịch tụy",
+        "D": "Dịch ruột"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 126,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Hấp thu glucose được tăng lên khi:",
+      "options": {
+        "A": "Uống dung dịch nước muối đẳng trương",
+        "B": "Uống dung dịch có chứa fructose",
+        "C": "Uống dung dịch có chứa pentose",
+        "D": "Dùng thuốc ức chế Na+ - K+ - ATPase"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 127,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Hấp thu fructose ở ruột theo cơ chế:",
+      "options": {
+        "A": "Vận chuyển tích cực",
+        "B": "Vận chuyển tích cực thứ phát",
+        "C": "Khuếch tán nhờ chất mang",
+        "D": "Khuếch tán đơn thuần"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 128,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Hấp thu acid béo có chuỗi carbon <10 từ ruột vào máu theo đường:",
+      "options": {
+        "A": "Vào tế bào niêm mạc ruột → máu tĩnh mạch cửa → ống bạch huyết→ vào máu tĩnh mạch",
+        "B": "Vào tế bào niêm mạc ruột → máu tĩnh mạch cửa → máu tĩnh mạch chủ",
+        "C": "Vào khoảng kẽ giữa các tế bào niêm mạc ruột → ống bạch huyết→ vào máu tĩnh mạch cửa",
+        "D": "Vào khoảng kẽ → Chylomicron → ống bạch huyết → vào máu tĩnh mạch cửa"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 129,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Tại diềm bàn chải của tế bào niêm mạc ruột non:",
+      "options": {
+        "A": "Acid amin được hấp thu bằng cơ chế vận chuyển tích cực",
+        "B": "Glucose được hấp thu bằng cơ chế vận chuyển tích cực",
+        "C": "Acid béo được hấp thu bằng cơ chế vận chuyển tích cực",
+        "D": "Galactose được hấp thu bằng cơ chế vận chuyển tích cực thứ phát"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 130,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Na+ được hấp thu ở niêm mạc ruột non theo cơ chế:",
+      "options": {
+        "A": "Vận chuyển tích cực ở màng đáy - bên của tế bào biểu mô, vận chuyển tích cực từ lòng ruột vào tế bào biểu mô niêm mạc ruột",
+        "B": "Vận chuyển tích cực ở màng đáy - bên của tế bào biểu mô, khuếch tán từ lòng ruột vào tế bào biểu mô niêm mạc ruột",
+        "C": "Khuếch tán ở màng đáy - bên của tế bào biểu mô, vận chuyển tích cực từ lòng ruột vào tế bào biểu mô niêm mạc ruột",
+        "D": "Khuếch tán ở màng đáy - bên của tế bào biểu mô, khuếch tán từ lòng ruột vào tế bộ biểu mô niêm mạc ruột"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 131,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Acid amin được hấp thu từ tế bào biểu mô của ruột non vào máu theo cơ chế:",
+      "options": {
+        "A": "Khuếch tán đơn thuần qua kênh protein",
+        "B": "Vận chuyển tích cực",
+        "C": "Khuếch tán thuận hoá",
+        "D": "Vận chuyển tích cực thứ phát"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 132,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Tụy ngoại tiết bài tiết các enzym sau, TRỪ:",
+      "options": {
+        "A": "Chymotrypsin",
+        "B": "Proelastase",
+        "C": "Aminopeptidase",
+        "D": "α -- amylase tụy"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 133,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Thuốc và độc tố làm tăng lượng AMP vòng ở niêm mạc ruột sẽ gây ra tiêu chảy bởi vì chúng:",
+      "options": {
+        "A": "Làm tăng nhu động ở ruột non",
+        "B": "Làm tăng nhu động ở đại tràng",
+        "C": "Làm tăng bài tiết Cl- vào trong lòng ruột",
+        "D": "Làm tăng hấp thu Na+ ở ruột non"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 134,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Diềm bàn chải của tế bào ruột non chứa một lượng lớn:",
+      "options": {
+        "A": "Pepsin",
+        "B": "Maltase",
+        "C": "Secrectin",
+        "D": "α -- amylase nước bọt"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 135,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Gastrin có cấu trúc gần giống như",
+      "options": {
+        "A": "Peptid ức chế gastrin (GIP)",
+        "B": "VIP (vasoactive intestinal peptide)",
+        "C": "Glucagon",
+        "D": "Cholecystokinin (CCK)"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 136,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Chất rất ít có khả năng được tìm thấy trong nước bọt:",
+      "options": {
+        "A": "α -- amylase nước bọt",
+        "B": "Ion Na+",
+        "C": "Ion HCO3-",
+        "D": "Chymotrypsinogen"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 137,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Chất được vận chuyển vào trong tế bào biểu mô ruột non theo cơ chế đồng vận chuyển với ion Na+",
+      "options": {
+        "A": "Các acid béo",
+        "B": "Triglycerid",
+        "C": "Glucose",
+        "D": "Fructose"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 138,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Chất cần phải được tiêu hóa thêm nữa trước khi được vận chuyển bởi chất mang đặc hiệu vào trong tế bào biểu mô ruột non",
+      "options": {
+        "A": "Fructose",
+        "B": "Sucrose",
+        "C": "Alanin",
+        "D": "Dipeptid"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 139,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Sự tạo thành các hạt mixen cần thiết cho hấp thu chất nào sau đây:",
+      "options": {
+        "A": "Galactose",
+        "B": "Leucine",
+        "C": "Vitamin B12",
+        "D": "Vitamin D"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 140,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Chất được giải phóng từ các nơron thành ống tiêu hoá và có tác dụng làm giãn các cơ trơn",
+      "options": {
+        "A": "VIP (Vasoactive intestinal peptide)",
+        "B": "Gastrin",
+        "C": "CCK (cholecystokinin)",
+        "D": "Secretin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 141,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Đoạn ống tiêu hoá bài tiết yếu tố nội:",
+      "options": {
+        "A": "Hang vị",
+        "B": "Đáy vị",
+        "C": "Tá tràng",
+        "D": "Hồi tràng"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 142,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Yếu tố nội được tiết ra từ tế bào nào ở dạ dày:",
+      "options": {
+        "A": "Tế bào chính ở vùng thân vị",
+        "B": "Tế bào G ở vùng hang vị",
+        "C": "Tế bào thành ở vùng thân và đáy vị",
+        "D": "Tế bào niêm mạc ở tá tràng"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 143,
+      "type": "multiple_choice",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "MCQ",
+      "question": "Về tuyến Lieberkühn và tuyến Brunner trong ống tiêu hoá, phát biểu nào sau đây là đúng?",
+      "options": {
+        "A": "Tuyến Brunner nằm chủ yếu ở hỗng tràng và tiết men tiêu hóa.",
+        "B": "Tuyến Lieberkühn nằm ở lớp dưới niêm mạc tá tràng và tiết chất nhầy kiềm.",
+        "C": "Tuyến Brunner nằm ở lớp dưới niêm mạc tá tràng và tiết dịch nhầy giàu bicarbonat.",
+        "D": "Tuyến Lieberkühn chỉ có ở đại tràng và không có ở ruột non."
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 144,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Bà Nh. được chẩn đoán là tắc ống mật chủ do sỏi. Kết quả xét nghiệm máu nào dưới đây là của bệnh nhân này",
+      "options": {
+        "A": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm, hematocrit và acid mật không đổi",
+        "B": "Bilirubin trực tiếp tăng mạnh, bilirubin gián tiếp tăng vừa, phosphatase kiềm tăng, hematocrit không đổi, acid mật giảm",
+        "C": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, hematocrit giảm, phosphatase kiềm và acid mật không đổi",
+        "D": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm tăng, hematocrit không đổi, acid mật tăng"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 145,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Chị M. được chẩn đoán bị mắc bệnh tan máu nội mạch. Kết quả xét nghiệm máu nào dưới đây là của bệnh nhân này",
+      "options": {
+        "A": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm, hematocrit và acid mật không đổi",
+        "B": "Bilirubin trực tiếp tăng mạnh, bilirubin gián tiếp tăng vừa, phosphatase kiềm tăng, hematocrit không đổi, acid mật giảm",
+        "C": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, hematocrit giảm, phosphatase kiềm và acid mật không đổi",
+        "D": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm tăng, hematocrit không đổi, acid mật tăng"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 146,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Anh H. được chẩn đoán mắc bệnh viêm gan virus. Kết quả của xét nghiệm máu nào dưới đây là của bệnh nhân này",
+      "options": {
+        "A": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm, hematocrit và acid mật không đổi",
+        "B": "Bilirubin trực tiếp tăng mạnh, bilirubin gián tiếp tăng vừa, phosphatase kiềm tăng, hematocrit không đổi, acid mật giảm",
+        "C": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, hematocrit giảm, phosphatase kiềm và acid mật không đổi",
+        "D": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm tăng, hematocrit không đổi, acid mật tăng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 147,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Ông K. được phẫu thuật cắt bỏ đoạn ruột hồi tràng. Kết quả xét nghiệm máu nào dưới đây là của bệnh nhân này",
+      "options": {
+        "A": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm, hematocrit và acid mật không đổi",
+        "B": "Bilirubin trực tiếp, bilirubin gián tiếp, phosphatase kiềm và hematocrit không đổi, acid mật giảm",
+        "C": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, hematocrit giảm, phosphatase kiềm và acid mật không đổi",
+        "D": "Bilirubin trực tiếp tăng vừa, bilirubin gián tiếp tăng mạnh, phosphatase kiềm tăng, hematocrit không đổi, acid mật tăng"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 148,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Bé trai A. 10 tuổi có thói quen ăn nhiều cả tinh bột, đạm, mỡ. Sự có mặt đồng thời của cả ba chất lipid, protid và glucid trong bữa ăn sẽ kích thích niêm mạc tá tràng bài tiết hormon",
+      "options": {
+        "A": "Cholecystokinin (CCK)",
+        "B": "GIP (gastric inhibitory polypeptid)",
+        "C": "Gastrin",
+        "D": "Secretin"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 149,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Bà Nh. 65 tuổi được bác sỹ chỉ định sinh thiết lấy các mảnh niêm mạc vùng hang vị và tá tràng để phục vụ cho chẩn đoán. Hormon dưới đây có thể được phát hiện ở các mảnh tổ chức này",
+      "options": {
+        "A": "Cholecystokinin (CCK)",
+        "B": "GIP (gastric inhibitory polypeptid)",
+        "C": "Gastrin",
+        "D": "Secretin"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 150,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Yếu tố nào trong các yếu tố sau đây giải thích được tại sao lượng glucose đưa vào cơ thể theo đường uống được làm sạch ra khỏi máu nhanh hơn so với lượng glucose đưa vào cơ thể theo đường truyền tĩnh mạch",
+      "options": {
+        "A": "CCK làm giải phóng insulin",
+        "B": "CCK làm giải phóng VIP",
+        "C": "GIP (gastric inhibitory polypeptid) làm giải phóng glucagon",
+        "D": "GIP (gastric inhibitory polypeptid) làm giải phóng insulin"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 151,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Cô A. 27 tuổi bị Hội chứng ruột kích thích (irritable bowel syndrome, IBS). Miêu tả nào dưới đây phù hợp với bệnh cảnh của cô A",
+      "options": {
+        "A": "Nhu động ruột chỉ tăng lên trong khi ăn",
+        "B": "Tần suất co bóp luôn hằng định từ tá tràng cho đến hồi tràng",
+        "C": "Phức hợp vận động di chuyển xuất hiện trong giai đoạn tiêu hóa thức ăn",
+        "D": "Hoạt động co bóp xuất hiện khi thành ruột bị giãn"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 152,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Sự nuôi dưỡng bằng đường tĩnh mạch có thể dẫn tới teo niêm mạc đường tiêu hóa chủ yếu là do giảm trong máu nồng độ hormon",
+      "options": {
+        "A": "Cholecystokinin",
+        "B": "Gastrin",
+        "C": "Gastrin và secretin",
+        "D": "Secretin và cholecystokinin"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 153,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Xét nghiệm đông máu nào sau đây sẽ bị ảnh hưởng rõ rệt nhất",
+      "options": {
+        "A": "Đông máu ngoại sinh kéo dài",
+        "B": "Đông máu nội sinh kéo dài",
+        "C": "Thời gian máu chảy kéo dài",
+        "D": "Giảm tiểu cầu"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 154,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Bệnh nhân này cần được bổ sung vitamin gì để cải thiện tình trạng đông máu",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B",
+        "C": "Vitamin C",
+        "D": "Vitamin K"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 155,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Vitamin B12 chủ yếu được hấp thu ở",
+      "options": {
+        "A": "Dạ dày",
+        "B": "Tá tràng",
+        "C": "Hỗng tràng",
+        "D": "Hồi tràng"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 156,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Miêu tả nào dưới đây phản ánh đúng co bóp hang vị",
+      "options": {
+        "A": "Dịch vị càng acid co bóp hang vị càng tăng",
+        "B": "Áp suất thẩm thấu dịch tá tràng tăng, co bóp hang vị sẽ giảm",
+        "C": "Thức ăn lipid thoát khỏi dạ dày nhanh hơn thức ăn giàu tinh bột",
+        "D": "Kích thích dây X làm giảm khả năng giãn tiếp nhận thức ăn của dạ dày phần gần"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 157,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Cơ sở cho sự ức chế bài tiết H+ trong dịch vị của cimetidine là do cimetidine có tác dụng",
+      "options": {
+        "A": "Phong bế receptor muscarinic",
+        "B": "Phong bế receptor H2 của tế bào viền",
+        "C": "Phong bế bơm H+-K+-ATPase",
+        "D": "Làm tăng tác dụng của acetylcholin trong tế bào viền"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 158,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Sau phẫu thuật ông Th. đi đại tiện phân có mỡ là do",
+      "options": {
+        "A": "Tăng tích lũy acid mật ở gan",
+        "B": "Không hình thành được hạt chylomicron trong lòng ruột non",
+        "C": "Các hạt mixen không được tạo thành trong lòng ruột non",
+        "D": "Triglycerid trong thức ăn không được tiêu hóa"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 159,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Anh Ng. được điều trị bằng omeprazole. Cơ chế nào sau đây là cơ chế tác dụng của omeprazole",
+      "options": {
+        "A": "Ức chế tác dụng lên tế bào viền của acetylcholin",
+        "B": "Ức chế bơm Na+-K+-ATPase",
+        "C": "Làm tăng tác dụng của somatostatin lên tế bào viền",
+        "D": "Ức chế bơm H+-K+-ATPase"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 160,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Những biến đổi nào sau đây sẽ xảy ra ở bệnh nhân này",
+      "options": {
+        "A": "Giảm lượng gastrin huyết thanh",
+        "B": "Tăng lượng insulin huyết thanh",
+        "C": "Tăng hấp thu lipid",
+        "D": "Viêm loét dạ dày tá tràng"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 161,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Kết quả định lượng bilirubin trực tiếp và gián tiếp dưới đây được cho là kết quả xét nghiệm từ máu của bệnh nhân này (đơn vị: mg/dL)",
+      "options": {
+        "A": "Bilirubin trực tiếp: 1,0 Bilirubin gián tiếp: 1,3",
+        "B": "Bilirubin trực tiếp: 2,3 Bilirubin gián tiếp: 2,4",
+        "C": "Bilirubin trực tiếp: 5,0 Bilirubin gián tiếp: 1,7",
+        "D": "Bilirubin trực tiếp: 1,8 Bilirubin gián tiếp: 6,4"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 162,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Hiện tượng/chất giảm đi ở bệnh nhân này là",
+      "options": {
+        "A": "Hấp thu các chất dinh dưỡng",
+        "B": "Tiêu hóa chất béo",
+        "C": "Carbohydrat trong phân",
+        "D": "Nitrogen trong phân"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 163,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Xét nghiệm hormon nào ở bệnh nhân này cần thiết cho chẩn đoán xác định",
+      "options": {
+        "A": "Cholecystokinin (CCK)",
+        "B": "GIP (gastrin inhibiting polypeptid)",
+        "C": "Molitin",
+        "D": "Secretin"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 164,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Uống misoprostol nhằm",
+      "options": {
+        "A": "Phong bế receptor H2 ngăn ngừa loét dạ dày",
+        "B": "Tăng hấp thu nước ở đại tràng, ngăn ngừa tiêu chảy",
+        "C": "Ức chế bài tiết bicarbonat ở lớp dịch nhày lót niêm mạc dạ dày",
+        "D": "Ngăn ngừa loét dạ dày do NSAID"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": []
+    },
+    {
+      "id": 165,
+      "type": "case_study",
+      "chapter_id": null,
+      "chapter": null,
+      "section": "Case Study",
+      "question": "Nguyên nhân gây tắc ruột ở bệnh nhân nay là",
+      "options": {
+        "A": "Ung thư biểu mô (carcinoid tumor)",
+        "B": "Không có receptor indothelin typ B",
+        "C": "Giảm phản xạ dạ dày-ruột",
+        "D": "Tăng hoạt động chức năng thần kinh giao cảm tạng"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": []
+    }
+  ],
+  "chapters": [],
+  "validation": {
+    "total_questions": 165,
+    "by_type": {
+      "true_false": 100,
+      "multiple_choice": 43,
+      "case_study": 22
+    },
+    "continuous_numbering": true,
+    "has_duplicates": false,
+    "answer_distribution": {
+      "A": 67,
+      "B": 62,
+      "C": 22,
+      "D": 14
+    }
+  }
+}

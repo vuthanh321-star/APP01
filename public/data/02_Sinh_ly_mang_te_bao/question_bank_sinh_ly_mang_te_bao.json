@@ -1,0 +1,665 @@
+{
+  "metadata": {
+    "document_id": "sinh_ly_mang_te_bao",
+    "document_name": "Sinh lý màng tế bào (Cell Membrane Physiology)",
+    "document_type": "true_false",
+    "language": "vi",
+    "charset": "utf-8",
+    "total_chapters": 12,
+    "total_questions": 48,
+    "answer_distribution": {
+      "true_count": 21,
+      "false_count": 27
+    }
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_name": "Đặc điểm cấu trúc của màng tế bào",
+      "questions": [
+        {
+          "question_id": 1,
+          "chapter_id": 1,
+          "question_stem": "Thành phần chủ yếu của màng là protein và lipid.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 2,
+          "chapter_id": 1,
+          "question_stem": "Mặt trong của kênh K+ tích điện (+) mạnh.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 3,
+          "chapter_id": 1,
+          "question_stem": "Lớp lipid kép có đầu ưa nước nằm giữa 2 lớp, đầu kỵ nước nằm quay mặt ra ngoài.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 4,
+          "chapter_id": 1,
+          "question_stem": "Lớp lipid kép có tác dụng làm các tế bào dính nhau.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_name": "Về lớp lipid kép",
+      "questions": [
+        {
+          "question_id": 5,
+          "chapter_id": 2,
+          "question_stem": "Đầu kị nước của lớp lipid kép nằm ở hai phía của màng tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 6,
+          "chapter_id": 2,
+          "question_stem": "Đầu ưa nước của lớp lipid kép nằm ở hai phía của màng tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 7,
+          "chapter_id": 2,
+          "question_stem": "Đầu kị nước của lớp lipid kép nằm quay vào trong, ở giữa hai lớp lipid màng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 8,
+          "chapter_id": 2,
+          "question_stem": "Đầu ưa nước của lớp lipid kép nằm quay vào trong, ở giữa hai lớp lipid màng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_name": "Về cấu trúc và chức năng của màng tế bào",
+      "questions": [
+        {
+          "question_id": 9,
+          "chapter_id": 3,
+          "question_stem": "Màng tế bào được cấu tạo bởi hai lớp phân tử phospholipid.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 10,
+          "chapter_id": 3,
+          "question_stem": "Các protein màng chỉ có chức năng vận chuyển vật chất qua màng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 11,
+          "chapter_id": 3,
+          "question_stem": "Cổng hoạt hoá của kênh K+ nằm ở mặt trong màng tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 12,
+          "chapter_id": 3,
+          "question_stem": "Cổng hoạt hoá của kênh Na+ nằm ở  mặt trong màng tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_name": "Khuếch tán thụ động",
+      "questions": [
+        {
+          "question_id": 13,
+          "chapter_id": 4,
+          "question_stem": "Khuếch tán thụ động không cần có chất mang.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 14,
+          "chapter_id": 4,
+          "question_stem": "Các ion có kích thước nhỏ khuếch tán dễ dàng qua lớp lipid kép.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 15,
+          "chapter_id": 4,
+          "question_stem": "Nước thấm qua màng tế bào rất nhanh vì 1 phần nước khuếch tán qua lớp lipid kép, phần còn lại qua các kênh protein.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 16,
+          "chapter_id": 4,
+          "question_stem": "Khuếch tán được tăng cường có đặc điểm là tốc độ khuếch tán tăng dần tới mức tối đa thì không tăng nữa, dù nồng độ chất  khuếch tán tiếp tục tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_name": "Về tốc độ khuếch tán",
+      "questions": [
+        {
+          "question_id": 17,
+          "chapter_id": 5,
+          "question_stem": "Trọng lượng phân tử càng thấp thì tốc độ khuếch tán càng giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 18,
+          "chapter_id": 5,
+          "question_stem": "Tốc độ khuếch tán qua màng của một chất tỷ lệ thuận với độ hoà tan trong lipid của chất đó.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 19,
+          "chapter_id": 5,
+          "question_stem": "Tính thấm của màng tế bào đối với một chất tỷ lệ thuận với hệ số tan trong lipid và tỷ lệ nghịch với diện tích màng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 20,
+          "chapter_id": 5,
+          "question_stem": "Nhiệt độ tăng thì tốc độ khuếch tán giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_name": "Vận chuyển tích cực",
+      "questions": [
+        {
+          "question_id": 21,
+          "chapter_id": 6,
+          "question_stem": "Cần được cung cấp năng lượng và chất mang.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 22,
+          "chapter_id": 6,
+          "question_stem": "Là vận chuyển ngược chiều bậc thang điện hoá.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 23,
+          "chapter_id": 6,
+          "question_stem": "Mỗi lần hoạt động bơm Na+- K+- ATPase đưa 3 ion K+ ra ngoài và  2 ionNa+ vào trong.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 24,
+          "chapter_id": 6,
+          "question_stem": "Vận chuyển tích cực thứ phát sử dụng năng lượng từ phân giải các hợp chất phosphat giàu năng lượng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_name": "Điện thế nghỉ",
+      "questions": [
+        {
+          "question_id": 25,
+          "chapter_id": 7,
+          "question_stem": "Điện thế nghỉ do khuếch tán K+ là +61 mV.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 26,
+          "chapter_id": 7,
+          "question_stem": "Bơm Na+- K+- ATPase tạo điện thế (-) bên trong màng là -86mV .",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 27,
+          "chapter_id": 7,
+          "question_stem": "Tính thấm của màng đối với Na+ cao hơn đối với K+ 100 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 28,
+          "chapter_id": 7,
+          "question_stem": "Dùng phương trình Goldman để tính điện thế khuếch tán khi màng thấm nhiều loại ion khác nhau.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "chapter_name": "Điện thế hoạt động",
+      "questions": [
+        {
+          "question_id": 29,
+          "chapter_id": 8,
+          "question_stem": "Nếu điện thế bên trong màng bớt (-) hơn thì màng dễ bị kích thích hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 30,
+          "chapter_id": 8,
+          "question_stem": "Thường cần tăng đột ngột điện thế bên trong màng lên 15-30mV mới đạt được ngưỡng tạo điện thế hoạt động.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 31,
+          "chapter_id": 8,
+          "question_stem": "Ở giai đoạn khử cực tính thấm của màng đối với K+ tăng 500-5000 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 32,
+          "chapter_id": 8,
+          "question_stem": "Sự phát sinh dòng điện hoạt động là do một feedback (+) làm mở các kênh K+.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "chapter_name": "Bình thường tỷ lệ nồng độ ion ở hai bên màng tế bào",
+      "questions": [
+        {
+          "question_id": 33,
+          "chapter_id": 9,
+          "question_stem": "Nồng độ Na+ ở ngoài cao hơn ở trong màng 10 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 34,
+          "chapter_id": 9,
+          "question_stem": "Nồng độ Na+ ở ngoài cao hơn ở trong màng 35 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 35,
+          "chapter_id": 9,
+          "question_stem": "Nồng độ K+ ở trong cao hơn ở ngoài màng 35 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 36,
+          "chapter_id": 9,
+          "question_stem": "Nồng độ Cl- ở trong cao hơn ở ngoài màng 26 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "chapter_name": "Các yếu tố sau đây tham gia tạo điện thế nghỉ của màng tế bào",
+      "questions": [
+        {
+          "question_id": 37,
+          "chapter_id": 10,
+          "question_stem": "Vận chuyển Na+ vào trong tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 38,
+          "chapter_id": 10,
+          "question_stem": "Vận chuyển Na+ra ngoài tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 39,
+          "chapter_id": 10,
+          "question_stem": "Vận chuyển K+ vào trong tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 40,
+          "chapter_id": 10,
+          "question_stem": "Hoạt động của bơm Na+-K+-ATPase.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "chapter_name": "Yếu tố tham gia tạo điện thế nghỉ",
+      "questions": [
+        {
+          "question_id": 41,
+          "chapter_id": 11,
+          "question_stem": "K+ khuếch tán từ phía trong màng ra phía ngoài màng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 42,
+          "chapter_id": 11,
+          "question_stem": "Na+ khuếch tán từ phía trong màng ra phía ngoài màng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 43,
+          "chapter_id": 11,
+          "question_stem": "Các phân tử protein không khuếch tán từ phía trong raphía ngoài màng tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 44,
+          "chapter_id": 11,
+          "question_stem": "Cl- khuếch tán từ phía trong ra phía ngoài màng tế bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "chapter_name": "Về khuếch tán được thuận hóa",
+      "questions": [
+        {
+          "question_id": 45,
+          "chapter_id": 12,
+          "question_stem": "Tốc độ khuếch tán luôn tỷ lệ với nồng độ chất khuếch tán.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 46,
+          "chapter_id": 12,
+          "question_stem": "Không cần năng lượng từ ATP",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 47,
+          "chapter_id": 12,
+          "question_stem": "Cần protein vận chuyển.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 48,
+          "chapter_id": 12,
+          "question_stem": "Vận chuyển ngược bậc thang nồng độ.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

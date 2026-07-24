@@ -1,0 +1,3693 @@
+{
+  "metadata": {
+    "subject": "Thận",
+    "subject_vietnamese": "Sinh lý thận và bài tiết nước tiểu",
+    "total_questions": 165,
+    "question_types": {
+      "true_false": 91,
+      "mcq": 58,
+      "case_study": 16
+    },
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lọc ở cầu thận",
+        "question_count": 4
+      },
+      {
+        "id": 2,
+        "name": "Cơ chế ảnh hưởng đến lưu lượng lọc ở cầu thận",
+        "question_count": 4
+      },
+      {
+        "id": 3,
+        "name": "Tái hấp thu và bài tiết urê ở thận",
+        "question_count": 4
+      },
+      {
+        "id": 4,
+        "name": "Aldosteron",
+        "question_count": 4
+      },
+      {
+        "id": 5,
+        "name": "Tái hấp thu và bài tiết ion H+ ở thận",
+        "question_count": 4
+      },
+      {
+        "id": 6,
+        "name": "Tái hấp thu glucose ở ống thận",
+        "question_count": 4
+      },
+      {
+        "id": 7,
+        "name": "Tái hấp thu ion Na+ ở ống thận",
+        "question_count": 4
+      },
+      {
+        "id": 8,
+        "name": "Tái hấp thu nước ở ống thận",
+        "question_count": 4
+      },
+      {
+        "id": 9,
+        "name": "Lọc ở cầu thận",
+        "question_count": 4
+      },
+      {
+        "id": 10,
+        "name": "Về nguồn gốc và tác dụng của aldosteron",
+        "question_count": 4
+      },
+      {
+        "id": 11,
+        "name": "Cơ chế tái hấp thu các chất ở ống thận",
+        "question_count": 4
+      },
+      {
+        "id": 12,
+        "name": "Các chất do thận bài tiết là",
+        "question_count": 4
+      },
+      {
+        "id": 13,
+        "name": "Các hormon có tác dụng ở ống thận",
+        "question_count": 4
+      },
+      {
+        "id": 14,
+        "name": "Cơ chế bài tiết ion H+ vào lòng ống thận",
+        "question_count": 4
+      },
+      {
+        "id": 15,
+        "name": "Nồng độ protein trong dịch lọc cầu thận rất thấp do",
+        "question_count": 4
+      },
+      {
+        "id": 16,
+        "name": "Tái hấp thu ở quai Henle",
+        "question_count": 4
+      },
+      {
+        "id": 17,
+        "name": "ADH làm tăng tái hấp thu nước ở",
+        "question_count": 4
+      },
+      {
+        "id": 18,
+        "name": "Thận có chức năng",
+        "question_count": 4
+      },
+      {
+        "id": 19,
+        "name": "Tăng nồng độ aldosteron trong máu sẽ dẫn đến",
+        "question_count": 4
+      },
+      {
+        "id": 20,
+        "name": "Nhờ có cơ chế điều hòa tại thận nên",
+        "question_count": 4
+      },
+      {
+        "id": 21,
+        "name": "Người bình thường uống 1 lít dung dịch NaCl 0,9% thì là",
+        "question_count": 4
+      },
+      {
+        "id": 22,
+        "name": "Các chất tác dụng đồng thời lên mạch máu và tái hấp thu ở ống thận để điều hòa huyết áp là",
+        "question_count": 3
+      },
+      {
+        "id": 23,
+        "name": "Angiotensin II làm tăng huyết áp do",
+        "question_count": 4
+      },
+      {
+        "id": 98,
+        "name": "Case Study (Lâm sàng)",
+        "question_count": 16
+      },
+      {
+        "id": 99,
+        "name": "MCQ (Multiple Choice Questions)",
+        "question_count": 58
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "chapter_id": 1,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Màng lọc cầu thận có tính thấm chọn lọc cao là nhờ kích thước của các lỗ lọc và màng đáy của cầu thận được cấu tạo bằng lipid.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "chapter_id": 1,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Dịch lọc ở cầu thận có cùng áp suất thẩm thấu với huyết tương.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "chapter_id": 1,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Hơn 99% lượng dịch lọc ở cầu thận được tái hấp thu, phần nhỏ còn lại tạo thành nước tiểu.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "chapter_id": 1,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Lưu lượng lọc cầu thận luôn được duy trì ở mức độ tương đối ổn định nhờ vai trò chủ yếu của hệ thống thần kinh chi phối thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "chapter_id": 2,
+      "chapter": "Cơ chế ảnh hưởng đến lưu lượng lọc ở cầu thận",
+      "question": "Dòng máu qua thận tăng làm tăng lưu lượng lọc cầu thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "chapter_id": 2,
+      "chapter": "Cơ chế ảnh hưởng đến lưu lượng lọc ở cầu thận",
+      "question": "Dù huyết áp toàn thân tăng cao trên 200mmHg thì lượng nước tiểu vẫn không thay đổi.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "chapter_id": 2,
+      "chapter": "Cơ chế ảnh hưởng đến lưu lượng lọc ở cầu thận",
+      "question": "Nếu kích thích giao cảm mạnh và kéo dài, thì lưu lượng máu thận, lưu lượng lọc và lượng nước tiểu sẽ trở về mức bình thường trong vòng 20-30 phút.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "chapter_id": 2,
+      "chapter": "Cơ chế ảnh hưởng đến lưu lượng lọc ở cầu thận",
+      "question": "Nồng độ aldosteron trong máu tăng làm tăng lưu lượng lọc cầu thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "chapter_id": 3,
+      "chapter": "Tái hấp thu và bài tiết urê ở thận",
+      "question": "Urê được tái hấp thu theo cơ chế thụ động ở ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "chapter_id": 3,
+      "chapter": "Tái hấp thu và bài tiết urê ở thận",
+      "question": "Urê không được tái hấp thu ở tất cả các đoạn của ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "chapter_id": 3,
+      "chapter": "Tái hấp thu và bài tiết urê ở thận",
+      "question": "Urê được bài tiết ở tất cả các đoạn của ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "chapter_id": 3,
+      "chapter": "Tái hấp thu và bài tiết urê ở thận",
+      "question": "Urê không được tái hấp thu ở phần dày của quai Henlé và phần đầu của ống lượn xa.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "chapter_id": 4,
+      "chapter": "Aldosteron",
+      "question": "Do lớp cầu của tuyến vỏ thượng thận bài tiết.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "chapter_id": 4,
+      "chapter": "Aldosteron",
+      "question": "Mức độ bài tiết phụ thuộc vào nồng độ Na+ và renin- angiotensin trong máu.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "chapter_id": 4,
+      "chapter": "Aldosteron",
+      "question": "Có tác dụng điều hoà nồng độ K+ trong dịch ngoại bào.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "chapter_id": 4,
+      "chapter": "Aldosteron",
+      "question": "Khi huyết áp toàn thân tăng cao thì gây tăng tiết aldosteron.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "chapter_id": 5,
+      "chapter": "Tái hấp thu và bài tiết ion H+ ở thận",
+      "question": "Ion H+được bài tiết ở tất cả các phần của ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "chapter_id": 5,
+      "chapter": "Tái hấp thu và bài tiết ion H+ ở thận",
+      "question": "Sự bài tiết ion H+ chịu sự điều hoà của nồng độ CO2 dịch ngoại bào.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "chapter_id": 5,
+      "chapter": "Tái hấp thu và bài tiết ion H+ ở thận",
+      "question": "Ion H+ được bài tiết ở ống lượn xa theo cơ chế vận chuyển tích cực để điều hoà pH.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "chapter_id": 5,
+      "chapter": "Tái hấp thu và bài tiết ion H+ ở thận",
+      "question": "Ion H+ được tái hấp thu ở ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 21,
+      "type": "true_false",
+      "chapter_id": 6,
+      "chapter": "Tái hấp thu glucose ở ống thận",
+      "question": "Glucose được tái hấp thu ở ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "type": "true_false",
+      "chapter_id": 6,
+      "chapter": "Tái hấp thu glucose ở ống thận",
+      "question": "Glucose được tái hấp thu ở tất cả các đoạn của ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "type": "true_false",
+      "chapter_id": 6,
+      "chapter": "Tái hấp thu glucose ở ống thận",
+      "question": "Glucose được tái hấp thu theo cơ chế khuếch tán thụ động ở ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "type": "true_false",
+      "chapter_id": 6,
+      "chapter": "Tái hấp thu glucose ở ống thận",
+      "question": "Tái hấp thu glucose ở ống thận phụ thuộc vào nồng độ glucose máu.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "type": "true_false",
+      "chapter_id": 7,
+      "chapter": "Tái hấp thu ion Na+ ở ống thận",
+      "question": "Ion Na+ được tái hấp thu chủ yếu ở ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "chapter_id": 7,
+      "chapter": "Tái hấp thu ion Na+ ở ống thận",
+      "question": "Ion Na+ được tái hấp thu ở tất cả mọi đoạn của ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "chapter_id": 7,
+      "chapter": "Tái hấp thu ion Na+ ở ống thận",
+      "question": "Ion Na+ được tái hấp thu theo cơ chế vận chuyển tích cực ở bờ lòng ống.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "type": "true_false",
+      "chapter_id": 7,
+      "chapter": "Tái hấp thu ion Na+ ở ống thận",
+      "question": "Aldosteron làm tăng tái hấp thu Na+ ở ống lượn xa và ống góp.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "type": "true_false",
+      "chapter_id": 8,
+      "chapter": "Tái hấp thu nước ở ống thận",
+      "question": "Nước được tái hấp thu chủ yếu ở ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "type": "true_false",
+      "chapter_id": 8,
+      "chapter": "Tái hấp thu nước ở ống thận",
+      "question": "Nước được tái hấp thu ở tất cả mọi đoạn của ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "type": "true_false",
+      "chapter_id": 8,
+      "chapter": "Tái hấp thu nước ở ống thận",
+      "question": "ADH và aldosteron làm tăng tái hấp thu nước ở ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "type": "true_false",
+      "chapter_id": 8,
+      "chapter": "Tái hấp thu nước ở ống thận",
+      "question": "Ngành lên của quai Henle chỉ cho nước thấm qua.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "type": "true_false",
+      "chapter_id": 9,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Lọc ở cầu thận có cùng một cơ chế như sự trao đổi chất giữa mao mạch với dịch kẽ.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "type": "true_false",
+      "chapter_id": 9,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Bình thường dịch lọc có thành phần như huyết tương trong máu động mạch.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "type": "true_false",
+      "chapter_id": 9,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Máu trong tiểu động mạch đi có độ quánh cao hơn máu trong tiểu động mạch đến.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "type": "true_false",
+      "chapter_id": 9,
+      "chapter": "Lọc ở cầu thận",
+      "question": "Lưu lượng lọc cầu thận bình thường là 125ml/phút.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "type": "true_false",
+      "chapter_id": 10,
+      "chapter": "Về nguồn gốc và tác dụng của aldosteron",
+      "question": "Aldosteron làm tăng tái hấp thu Na+ chủ yếu ở ống lượn xa.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "type": "true_false",
+      "chapter_id": 10,
+      "chapter": "Về nguồn gốc và tác dụng của aldosteron",
+      "question": "Bài tiết aldosteron tăng khi áp suất thẩm thấu dịch ngoại bào tăng.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "type": "true_false",
+      "chapter_id": 10,
+      "chapter": "Về nguồn gốc và tác dụng của aldosteron",
+      "question": "Aldosteron trong máu tăng dẫn đến tăng tái hấp thu ion Na+ và bài tiết ion K+ ở ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "type": "true_false",
+      "chapter_id": 10,
+      "chapter": "Về nguồn gốc và tác dụng của aldosteron",
+      "question": "Aldosteron do lớp lưới của vỏ thượng thận bài tiết ra.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 41,
+      "type": "true_false",
+      "chapter_id": 11,
+      "chapter": "Cơ chế tái hấp thu các chất ở ống thận",
+      "question": "Nhập bào.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "type": "true_false",
+      "chapter_id": 11,
+      "chapter": "Cơ chế tái hấp thu các chất ở ống thận",
+      "question": "Cơ chế vận chuyển tích cực nguyên phát.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "type": "true_false",
+      "chapter_id": 11,
+      "chapter": "Cơ chế tái hấp thu các chất ở ống thận",
+      "question": "Cơ chế vận chuyển tích cực thứ phát.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "type": "true_false",
+      "chapter_id": 11,
+      "chapter": "Cơ chế tái hấp thu các chất ở ống thận",
+      "question": "Sự thẩm thấu.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "type": "true_false",
+      "chapter_id": 12,
+      "chapter": "Các chất do thận bài tiết là",
+      "question": "1,25 - dihydroxycholecalciferol.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "type": "true_false",
+      "chapter_id": 12,
+      "chapter": "Các chất do thận bài tiết là",
+      "question": "Renin.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "type": "true_false",
+      "chapter_id": 12,
+      "chapter": "Các chất do thận bài tiết là",
+      "question": "Erythropoietin và aldosteron.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "type": "true_false",
+      "chapter_id": 12,
+      "chapter": "Các chất do thận bài tiết là",
+      "question": "Vasopressin.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "type": "true_false",
+      "chapter_id": 13,
+      "chapter": "Các hormon có tác dụng ở ống thận",
+      "question": "Parathormon.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "type": "true_false",
+      "chapter_id": 13,
+      "chapter": "Các hormon có tác dụng ở ống thận",
+      "question": "GH.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 51,
+      "type": "true_false",
+      "chapter_id": 13,
+      "chapter": "Các hormon có tác dụng ở ống thận",
+      "question": "Cortisol.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "type": "true_false",
+      "chapter_id": 13,
+      "chapter": "Các hormon có tác dụng ở ống thận",
+      "question": "LH.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "type": "true_false",
+      "chapter_id": 14,
+      "chapter": "Cơ chế bài tiết ion H+ vào lòng ống thận",
+      "question": "Bơm trao đổi Na+ - H+.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "type": "true_false",
+      "chapter_id": 14,
+      "chapter": "Cơ chế bài tiết ion H+ vào lòng ống thận",
+      "question": "Sự khuếch tán của ion H+ từ tế bào ống thận vào dịch ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "type": "true_false",
+      "chapter_id": 14,
+      "chapter": "Cơ chế bài tiết ion H+ vào lòng ống thận",
+      "question": "Bơm proton lấy năng lượng từ ATP.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 56,
+      "type": "true_false",
+      "chapter_id": 14,
+      "chapter": "Cơ chế bài tiết ion H+ vào lòng ống thận",
+      "question": "Sự đồng vận chuyển Na+ với H+ vào dịch ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "type": "true_false",
+      "chapter_id": 15,
+      "chapter": "Nồng độ protein trong dịch lọc cầu thận rất thấp do",
+      "question": "kích thước của phân tử protein huyết tương đều quá lớn so với kích thước của lỗ lọc.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "type": "true_false",
+      "chapter_id": 15,
+      "chapter": "Nồng độ protein trong dịch lọc cầu thận rất thấp do",
+      "question": "điện tích âm của lỗ lọc đã đẩy lùi các phân tử protein huyết tương.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "type": "true_false",
+      "chapter_id": 15,
+      "chapter": "Nồng độ protein trong dịch lọc cầu thận rất thấp do",
+      "question": "kích thước của lỗ lọc.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "type": "true_false",
+      "chapter_id": 15,
+      "chapter": "Nồng độ protein trong dịch lọc cầu thận rất thấp do",
+      "question": "màng đáy của màng lọc cầu thận tích điện tích âm.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "type": "true_false",
+      "chapter_id": 16,
+      "chapter": "Tái hấp thu ở quai Henle",
+      "question": "Ngành xuống tái hấp thu ion Na+",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "type": "true_false",
+      "chapter_id": 16,
+      "chapter": "Tái hấp thu ở quai Henle",
+      "question": "Ngành xuống tái hấp thu nước và urê.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "type": "true_false",
+      "chapter_id": 16,
+      "chapter": "Tái hấp thu ở quai Henle",
+      "question": "Ngành lên tái hấp thu nước.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "type": "true_false",
+      "chapter_id": 16,
+      "chapter": "Tái hấp thu ở quai Henle",
+      "question": "Ngành lên tái hấp thu ion Na+",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "type": "true_false",
+      "chapter_id": 17,
+      "chapter": "ADH làm tăng tái hấp thu nước ở",
+      "question": "ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 66,
+      "type": "true_false",
+      "chapter_id": 17,
+      "chapter": "ADH làm tăng tái hấp thu nước ở",
+      "question": "quai Henle và ống lượn gần.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "type": "true_false",
+      "chapter_id": 17,
+      "chapter": "ADH làm tăng tái hấp thu nước ở",
+      "question": "ống lượn xa và quai Henle",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "type": "true_false",
+      "chapter_id": 17,
+      "chapter": "ADH làm tăng tái hấp thu nước ở",
+      "question": "ống góp và ống lượn xa",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "type": "true_false",
+      "chapter_id": 18,
+      "chapter": "Thận có chức năng",
+      "question": "Tham gia điều hoà các thành phần nội môi.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "type": "true_false",
+      "chapter_id": 18,
+      "chapter": "Thận có chức năng",
+      "question": "Tham gia điều hoà huyết áp.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 71,
+      "type": "true_false",
+      "chapter_id": 18,
+      "chapter": "Thận có chức năng",
+      "question": "Tham gia chức năng sinh sản.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "type": "true_false",
+      "chapter_id": 18,
+      "chapter": "Thận có chức năng",
+      "question": "Tân tạo glucose.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 73,
+      "type": "true_false",
+      "chapter_id": 19,
+      "chapter": "Tăng nồng độ aldosteron trong máu sẽ dẫn đến",
+      "question": "tăng lượng ion Na+ được tái hấp thu từ dịch ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "type": "true_false",
+      "chapter_id": 19,
+      "chapter": "Tăng nồng độ aldosteron trong máu sẽ dẫn đến",
+      "question": "tăng bài tiết ion H+ vào dịch ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "type": "true_false",
+      "chapter_id": 19,
+      "chapter": "Tăng nồng độ aldosteron trong máu sẽ dẫn đến",
+      "question": "tăng bài tiết ion K+ vào dịch ống thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 76,
+      "type": "true_false",
+      "chapter_id": 19,
+      "chapter": "Tăng nồng độ aldosteron trong máu sẽ dẫn đến",
+      "question": "giảm thể tích nước tiểu.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 77,
+      "type": "true_false",
+      "chapter_id": 20,
+      "chapter": "Nhờ có cơ chế điều hòa tại thận nên",
+      "question": "lưu lượng lọc cầu thận tương đối ổn định.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 78,
+      "type": "true_false",
+      "chapter_id": 20,
+      "chapter": "Nhờ có cơ chế điều hòa tại thận nên",
+      "question": "dòng máu chảy trong mạch thẳng vasarecta rất chậm.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "type": "true_false",
+      "chapter_id": 20,
+      "chapter": "Nhờ có cơ chế điều hòa tại thận nên",
+      "question": "nước tiểu trở nên acid.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 80,
+      "type": "true_false",
+      "chapter_id": 20,
+      "chapter": "Nhờ có cơ chế điều hòa tại thận nên",
+      "question": "Sự thẩm thấu được duy trì ở các tháp thuộc vùng tuỷ",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 81,
+      "type": "true_false",
+      "chapter_id": 21,
+      "chapter": "Người bình thường uống 1 lít dung dịch NaCl 0,9% thì là",
+      "question": "áp suất thẩm thấu của huyết tương tăng.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "type": "true_false",
+      "chapter_id": 21,
+      "chapter": "Người bình thường uống 1 lít dung dịch NaCl 0,9% thì là",
+      "question": "áp suất thẩm thấu của nước tiểu tăng.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "type": "true_false",
+      "chapter_id": 21,
+      "chapter": "Người bình thường uống 1 lít dung dịch NaCl 0,9% thì là",
+      "question": "Thể tích nước tiểu tăng.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 84,
+      "type": "true_false",
+      "chapter_id": 21,
+      "chapter": "Người bình thường uống 1 lít dung dịch NaCl 0,9% thì là",
+      "question": "nồng độ ion Na+ trong nước tiểu tăng.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 85,
+      "type": "true_false",
+      "chapter_id": 22,
+      "chapter": "Các chất tác dụng đồng thời lên mạch máu và tái hấp thu ở ống thận để điều hòa huyết áp là",
+      "question": "Adrenalin.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 86,
+      "type": "true_false",
+      "chapter_id": 22,
+      "chapter": "Các chất tác dụng đồng thời lên mạch máu và tái hấp thu ở ống thận để điều hòa huyết áp là",
+      "question": "Bradykinin.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "type": "true_false",
+      "chapter_id": 22,
+      "chapter": "Các chất tác dụng đồng thời lên mạch máu và tái hấp thu ở ống thận để điều hòa huyết áp là",
+      "question": "Angiotensin II.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 88,
+      "type": "true_false",
+      "chapter_id": 23,
+      "chapter": "Angiotensin II làm tăng huyết áp do",
+      "question": "co động mạch nhỏ làm tăng sức cản.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "type": "true_false",
+      "chapter_id": 23,
+      "chapter": "Angiotensin II làm tăng huyết áp do",
+      "question": "co tiểu động mạch làm tăng sức cản.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 90,
+      "type": "true_false",
+      "chapter_id": 23,
+      "chapter": "Angiotensin II làm tăng huyết áp do",
+      "question": "tăng bài tiết aldosteron từ tuyến vỏ thượng thận.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 91,
+      "type": "true_false",
+      "chapter_id": 23,
+      "chapter": "Angiotensin II làm tăng huyết áp do",
+      "question": "tăng tác dụng của hệ thần kinh giao cảm.",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đúng"
+        },
+        {
+          "option": "B",
+          "text": "Sai"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Chức năng của nephron trong quá trình bài tiết nước tiểu:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Lọc và bài tiết các chất không cần thiết ra khỏi cơ thể"
+        },
+        {
+          "option": "B",
+          "text": "Lọc các chất không cần thiết ra khỏi máu và tái hấp thu các chất cần thiết trở lại máu"
+        },
+        {
+          "option": "C",
+          "text": "Lọc và bài tiết các chất không cần thiết ra khỏi cơ thể, tái hấp thu các chất cần thiết trở lại máu"
+        },
+        {
+          "option": "D",
+          "text": "Lọc và bài tiết các chất không cần thiết ra khỏi cơ thể, tái hấp thu nước trở lại máu"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Quá trình lọc ở thận có sự tham gia của:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Mao mạch cầu thận"
+        },
+        {
+          "option": "B",
+          "text": "Mao mạch quanh ống thận"
+        },
+        {
+          "option": "C",
+          "text": "Mao mạch cầu thận và mao mạch quanh ống thận"
+        },
+        {
+          "option": "D",
+          "text": "Toàn bộ các phần của ống thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Cấu tạo mao mạch và áp suất mao mạch ở thận rất phù hợp với chức năng tạo nước tiểu được thể hiện ở đặc điểm:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Mạng lưới mao mạch dày đặc quanh cầu thận và ống thận"
+        },
+        {
+          "option": "B",
+          "text": "Mao mạch cầu thận có áp suất cao, mao mạch quanh ống thận có áp suất thấp"
+        },
+        {
+          "option": "C",
+          "text": "Mao mạch cầu thận có áp suất thấp, mao mạch quanh ống thận có áp suất cao"
+        },
+        {
+          "option": "D",
+          "text": "Mạch máu vùng tuỷ thận là những mạch thẳng (vasarecta)"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Dịch lọc cầu thận có:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Thành phần như huyết tương trong máu động mạch"
+        },
+        {
+          "option": "B",
+          "text": "Nồng độ ion giống trong máu động mạch"
+        },
+        {
+          "option": "C",
+          "text": "Thành phần không giống huyết tương trong máu động mạch"
+        },
+        {
+          "option": "D",
+          "text": "pH bằng pH của huyết tương"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Các áp suất có tác dụng đẩy nước và các chất hoà tan từ mao mạch cầu thận vào bao Bowman:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Áp suất thuỷ tĩnh trong mao mạch cầu thận và áp suất thuỷ tĩnh trong bao Bowman"
+        },
+        {
+          "option": "B",
+          "text": "Áp suất thuỷ tĩnh trong bao Bowman và áp suất keo trong mao mạch cầu thận"
+        },
+        {
+          "option": "C",
+          "text": "Áp suất keo trong mao mạch cầu thận và áp suất keo trong bao Bowman"
+        },
+        {
+          "option": "D",
+          "text": "Áp suất keo trong bao Bowman và áp suất thuỷ tĩnh trong mao mạch cầu thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Áp suất có tác dụng ngăn cản quá trình lọc cầu thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Áp suất thủy tĩnh trong mao mạch cầu thận và áp suất thuỷ tĩnh trong bao Bowman"
+        },
+        {
+          "option": "B",
+          "text": "Áp suất thủy tĩnh trong mao mạch cầu thận và áp suất keo trong mao mạch cầu thận"
+        },
+        {
+          "option": "C",
+          "text": "Áp suất thủy tĩnh trong mao mạch cầu thận và áp suất keo trong bao Bowman"
+        },
+        {
+          "option": "D",
+          "text": "Áp suất thủy tĩnh trong bao Bowman và áp suất keo trong mao mạch cầu thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Lưu lượng lọc cầu thận tăng khi:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Kích thích thần kinh giao cảm"
+        },
+        {
+          "option": "B",
+          "text": "Tiểu động mạch đi co mạnh"
+        },
+        {
+          "option": "C",
+          "text": "Tiểu động mạch đến giãn"
+        },
+        {
+          "option": "D",
+          "text": "Tiểu động mạch đi giãn"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Cơ chế tự điều hoà lưu lượng lọc cầu thận là:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Sự kết hợp hai cơ chế feedback (-) làm giãn tiểu động mạch đến và co tiểu động mạch đi"
+        },
+        {
+          "option": "B",
+          "text": "Sự kết hợp hai cơ chế feedback (+) làm giãn tiểu động mạch đến và co tiểu động mạch đi"
+        },
+        {
+          "option": "C",
+          "text": "Sự kết hợp một cơ chế feedback (-) với một cơ chế feedback (+) làm giãn tiểu động mạch đến và co tiểu động mạch đi"
+        },
+        {
+          "option": "D",
+          "text": "Do các tế bào Maculadensa đảm nhận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Lượng dịch lọc được tái hấp thu nhiều nhất ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ống lượn gần"
+        },
+        {
+          "option": "B",
+          "text": "Quai Henlé"
+        },
+        {
+          "option": "C",
+          "text": "Ống lượn xa"
+        },
+        {
+          "option": "D",
+          "text": "Ống góp"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nếu hệ số lọc sạch của một chất ít hơn hệ số lọc sạch của inulin thì :",
+      "options": [
+        {
+          "option": "A",
+          "text": "Chất đó được bài tiết ở ống lượn gần nhiều hơn ở ống lượn xa"
+        },
+        {
+          "option": "B",
+          "text": "Chất đó được tái hấp thu ở ống thận"
+        },
+        {
+          "option": "C",
+          "text": "Chất đó được bài tiết ở ống thận"
+        },
+        {
+          "option": "D",
+          "text": "Chất đó vừa được bài tiết, vừa được tái hấp thu ở ống thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 102,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Tái hấp thu glucose xảy ra ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ống lượn gần"
+        },
+        {
+          "option": "B",
+          "text": "Quai Henlé"
+        },
+        {
+          "option": "C",
+          "text": "Ống lượn xa"
+        },
+        {
+          "option": "D",
+          "text": "Ống góp"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 103,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Aldosteron gây ảnh hưởng lớn nhất lên:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Tái hấp thu ion Na+ ở ống lượn gần"
+        },
+        {
+          "option": "B",
+          "text": "Tái hấp thu ion Na+ ở quai Henlé"
+        },
+        {
+          "option": "C",
+          "text": "Tái hấp thu ion Na+ ở ống góp"
+        },
+        {
+          "option": "D",
+          "text": "Tái hấp thu ion Na+ ở ống lượn xa"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 104,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Tái hấp thu glucose theo cơ chế:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Vận chuyển tích cực thứ phát (đồng vận chuyển với ion Na+) ở bờ diềm bàn chải vào trong tế bào, sau đó khuếch tán thuận hoá qua bờ bên và bờ đáy"
+        },
+        {
+          "option": "B",
+          "text": "Vận chuyển tích cực thứ phát (vận chuyển ngược với ion Na+) ở bờ diềm bàn chải vào trong tế bào, sau đó khuếch tán thuận hoá qua bờ bên và bờ đáy"
+        },
+        {
+          "option": "C",
+          "text": "Khuếch tán thuận hoá qua bờ diềm bàn chải, sau đó vận chuyển tích cực thứ phát (đồng vận chuyển với ion Na+) qua bờ bên và bờ đáy"
+        },
+        {
+          "option": "D",
+          "text": "Khuếch tán thuận hoá qua bờ diềm bàn chải, sau đó vận chuyển tích cực thứ phát (vận chuyển ngược với ion Na+) qua bờ bên và bờ đáy"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Tái hấp thu ion Na+ ở ống lượn gần theo cơ chế:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Vận chuyển tích cực nguyên phát từ lòng ống vào tế bào, khuếch tán thuận hoá từ tế bào vào dịch kẽ"
+        },
+        {
+          "option": "B",
+          "text": "Khuếch tán đơn thuần từ lòng ống vào tế bào, vận chuyển tích cực thứ phát từ tế bào vào dịch kẽ"
+        },
+        {
+          "option": "C",
+          "text": "Khuếch tán thuận hoá từ lòng ống vào tế bào, vận chuyển tích cực nguyên phát từ tế bào vào dịch kẽ"
+        },
+        {
+          "option": "D",
+          "text": "Vận chuyển tích cực nguyên phát từ lòng ống vào tế bào, vận chuyển tích cực thứ phát từ tế bào vào dịch kẽ"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nồng độ/Glucose huyết tương x MLCT = —> lượng Glucose lọc/phút. Tm ~ 250mg/min",
+      "options": [
+        {
+          "option": "A",
+          "text": "0 mg/min"
+        },
+        {
+          "option": "B",
+          "text": "50 mg/min"
+        },
+        {
+          "option": "C",
+          "text": "220 mg/min"
+        },
+        {
+          "option": "D",
+          "text": "225 mg/min"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Một chất được dùng để đánh giá chức năng lọc cầu thận khi:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Được lọc hoàn toàn qua cầu thận, không được tái hấp thu và bài tiết ở ống thận."
+        },
+        {
+          "option": "B",
+          "text": "Được lọc hoàn toàn qua cầu thận, được tái hấp thu nhưng không được bài tiết ở ống thận."
+        },
+        {
+          "option": "C",
+          "text": "Được lọc hoàn toàn qua cầu thận, không được tái hấp thu nhưng được bài tiết ở ống thận."
+        },
+        {
+          "option": "D",
+          "text": "Được lọc hoàn toàn qua cầu thận, được tái hấp thu và được bài tiết ở ống thận."
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Một chất được dùng để đánh giá chức năng bài tiết khi:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Được lọc hoàn toàn qua cầu thận, không được tái hấp thu và bài tiết ở ống thận"
+        },
+        {
+          "option": "B",
+          "text": "Được lọc hoàn toàn qua cầu thận, được tái hấp thu mà không được bài tiết ở ống thận"
+        },
+        {
+          "option": "C",
+          "text": "Được lọc hoàn toàn qua cầu thận, không được tái hấp thu, được bài tiết ở ống thận"
+        },
+        {
+          "option": "D",
+          "text": "Được lọc hoàn toàn qua cầu thận, được tái hấp thu và được bài tiết ở ống thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Một chất được dùng để đánh giá chức năng tái hấp thu khi:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Được lọc hoàn toàn qua cầu thận, không được tái hấp thu và bài tiết ở ống thận"
+        },
+        {
+          "option": "B",
+          "text": "Được lọc hoàn toàn qua cầu thận, được tái hấp thu nhưng không được bài tiết ở ống thận"
+        },
+        {
+          "option": "C",
+          "text": "Được lọc hoàn toàn qua cầu thận, không được tái hấp thu nhưng được bài tiết ở ống thận"
+        },
+        {
+          "option": "D",
+          "text": "Được lọc hoàn toàn qua cầu thận, được tái hấp thu và được bài tiết ở ống thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Vai trò của thận trong điều hoà cân bằng acid-base là:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Duy trì nồng độ ion bicarbonat trong dịch ngoại bào ở mức hằng định"
+        },
+        {
+          "option": "B",
+          "text": "Duy trì nồng độ ion H+ trong dịch ngoại bào ở mức hằng định"
+        },
+        {
+          "option": "C",
+          "text": "Duy trì nồng độ phosphat trong máu ở mức hằng định"
+        },
+        {
+          "option": "D",
+          "text": "Duy trì nồng độ ion OH- trong dịch ngoại bào ở mức hằng định"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Khi có rối loạn cân bằng acid-base thì:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Thận sẽ đưa pH trở lại hoàn toàn bình thường sau vài giây"
+        },
+        {
+          "option": "B",
+          "text": "Thận sẽ đào thải tới 1000 mmol acid hoặc base mỗi ngày"
+        },
+        {
+          "option": "C",
+          "text": "Thận sẽ đưa pH trở lại bình thường sau vài ngày"
+        },
+        {
+          "option": "D",
+          "text": "Thận điều chỉnh pH nhanh nhưng không hoàn toàn về bình thường"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Thận có vai trò trong điều hoà pH vì:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Bài tiết ion H+ khi nhiễm toan"
+        },
+        {
+          "option": "B",
+          "text": "Bài tiết ion bicarbonat khi nhiễm toan"
+        },
+        {
+          "option": "C",
+          "text": "Bài tiết ion Na+ khi nó tái hấp thu ion bicarbonat"
+        },
+        {
+          "option": "D",
+          "text": "Tái hấp thu ion HCO3- khi nhiễm toan"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Erythropoietin là:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Glycoprotein có trọng lượng phân tử 34.000 do gan, thận, lách và tuỷ xương sản xuất"
+        },
+        {
+          "option": "B",
+          "text": "Hormon do thận bài tiết có tác dụng kích thích sản sinh hồng cầu"
+        },
+        {
+          "option": "C",
+          "text": "Hormon được sản xuất chậm khi các mô bị thiếu oxy vài ngày"
+        },
+        {
+          "option": "D",
+          "text": "Hormon kích thích làm tăng tổng hợp Hb trong bào tương nhưng làm giảm quá trình vận động cuả hồng cầu lưới trong máu ngoại vi"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Cơ chế lọc ở cầu thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "PB giữ nước và các chất hoà tan ở lại bao Bowman"
+        },
+        {
+          "option": "B",
+          "text": "PK đẩy nước và các chất hoà tan ra khỏi mạch máu"
+        },
+        {
+          "option": "C",
+          "text": "PH đẩy nước và các chất hoà tan từ mạch máu vào bao Bowman"
+        },
+        {
+          "option": "D",
+          "text": "PH và PK đẩy nước và các chất hoà tan ra khỏi mạch máu"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Các yếu tố ảnh hưởng đến lưu lượng lọc cầu thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Giãn tiểu động mạch đến, giãn tiểu động mạch đi làm tăng lưu lượng lọc"
+        },
+        {
+          "option": "B",
+          "text": "Giãn tiểu động mạch đến, co tiểu động mạch đi làm tăng lưu lượng lọc"
+        },
+        {
+          "option": "C",
+          "text": "Kích thích thần kinh giao cảm làm tăng lưu lượng lọc"
+        },
+        {
+          "option": "D",
+          "text": "Co cả tiểu động mạch đến và tiểu động m+ạch đi làm tăng lưu lượng lọc"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Dịch lọc cầu thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Có thành phần như huyết tương ở trong máu động mạch"
+        },
+        {
+          "option": "B",
+          "text": "Có thành phần protein như huyết tương"
+        },
+        {
+          "option": "C",
+          "text": "Có thành phần giống dịch bạch huyết thu nhận từ ống ngực"
+        },
+        {
+          "option": "D",
+          "text": "Có cùng áp suất thẩm thấu với huyết tương"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 117,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Tái hấp thu glucose ở ống thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Glucose được tái hấp thu ở tất cả các đoạn của ống thận"
+        },
+        {
+          "option": "B",
+          "text": "Glucose được tái hấp thu ở ống lượn gần"
+        },
+        {
+          "option": "C",
+          "text": "Glucose được tái hấp thu ở ống lượn gần và ống lượn xa"
+        },
+        {
+          "option": "D",
+          "text": "Glucose được tái hấp thu hoàn toàn ở ống thận khi nồng độ trong máu thấp hơn 160 mg%"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 118,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Ion Na+ được tái hấp thu ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ống lượn gần, ngành lên của quai Henle, ống lượn xa và ống góp"
+        },
+        {
+          "option": "B",
+          "text": "Ống lượn gần, ngành xuống của quai Henle, ống lượn xa và ống góp"
+        },
+        {
+          "option": "C",
+          "text": "Ống lượn gần, quai Henle, ống lượn xa và ống góp"
+        },
+        {
+          "option": "D",
+          "text": "Ống lượn gần, ống lượn xa và ống góp"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Aldosteron làm tăng tái hấp thu ion Na+ ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ngành xuống của quai Henle"
+        },
+        {
+          "option": "B",
+          "text": "Ngành lên của quai Henle"
+        },
+        {
+          "option": "C",
+          "text": "Ống lượn gần"
+        },
+        {
+          "option": "D",
+          "text": "Ống lượn xa"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 120,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Một người bình thường sau khi uống 1000 ml NaCl 0,9% thì:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Thể tích nước tiểu tăng"
+        },
+        {
+          "option": "B",
+          "text": "Áp suất thẩm thấu của nước tiểu tăng"
+        },
+        {
+          "option": "C",
+          "text": "Áp suất thẩm thấu của huyết tương tăng"
+        },
+        {
+          "option": "D",
+          "text": "Tăng bài tiết ADH"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 121,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nước được tái hấp thu chủ yếu ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ống lượn gần theo cơ chế thụ động"
+        },
+        {
+          "option": "B",
+          "text": "Ngành xuống của quai Henle theo cơ chế thụ động"
+        },
+        {
+          "option": "C",
+          "text": "Ngành lên của quai Henle theo cơ chế thụ động"
+        },
+        {
+          "option": "D",
+          "text": "Ống lượn xa dưới tác dụng của ADH"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 122,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Thận bài tiết hormon:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Angiotensinogen, renin"
+        },
+        {
+          "option": "B",
+          "text": "Cortisol, ADH"
+        },
+        {
+          "option": "C",
+          "text": "Aldosteron, erythropoietin"
+        },
+        {
+          "option": "D",
+          "text": "Renin, erythropoietin"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 123,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "2x1 = 0.1 x X",
+      "options": [
+        {
+          "option": "A",
+          "text": "2 ml/ phút"
+        },
+        {
+          "option": "B",
+          "text": "10 ml/ phút"
+        },
+        {
+          "option": "C",
+          "text": "20 ml/ phút"
+        },
+        {
+          "option": "D",
+          "text": "100 ml/ phút"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 124,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Aldosteron trong máu tăng dẫn đến:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Tăng tái hấp thu ion HCO3- ở ống thận"
+        },
+        {
+          "option": "B",
+          "text": "Tăng thể tích nước tiểu"
+        },
+        {
+          "option": "C",
+          "text": "Tăng bài tiết nước và ion Na+ ở ống thận"
+        },
+        {
+          "option": "D",
+          "text": "Tăng tái hấp thu ion Na+ và bài tiết ion K+ ở ống thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Mức vận chuyển tối đa (Tm) của một chất là:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Mức tối đa chất đó có thể được lọc"
+        },
+        {
+          "option": "B",
+          "text": "Mức tối đa chất đó có thể được tái hấp thu hoặc bài tiết"
+        },
+        {
+          "option": "C",
+          "text": "Mức tối đa chất đó có thể được pha loãng trong nước tiểu"
+        },
+        {
+          "option": "D",
+          "text": "Mức tối đa chất đó có thể được cô đặc trong nước tiểu"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 126,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Vai trò của thận trong tạo hồng cầu:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Thận tái hấp thu các chất tham gia tạo hồng cầu"
+        },
+        {
+          "option": "B",
+          "text": "Thận là một cơ quan sản sinh hồng cầu từ tế bào gốc"
+        },
+        {
+          "option": "C",
+          "text": "Thận bài tiết erythropoietin để thúc đẩy tủy xương sản sinh hồng cầu"
+        },
+        {
+          "option": "D",
+          "text": "Thận cung cấp các yếu tố cần thiết để tạo hồng cầu"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 127,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Bài tiết ion K+ ở ống lượn xa sẽ giảm bởi:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Kiềm chuyển hóa"
+        },
+        {
+          "option": "B",
+          "text": "Chế độ ăn nhiều K+"
+        },
+        {
+          "option": "C",
+          "text": "Tăng aldosteron"
+        },
+        {
+          "option": "D",
+          "text": "Sử dụng spironolacton"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 128,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "pH=pK + Log (A-/HA) <—> Log (A-/HA) = 2 <—> A-/HA = 102",
+      "options": [
+        {
+          "option": "A",
+          "text": "1/100 của A–"
+        },
+        {
+          "option": "B",
+          "text": "1/10 của A–"
+        },
+        {
+          "option": "C",
+          "text": "Bằng với A–"
+        },
+        {
+          "option": "D",
+          "text": "Gấp 10 lần A–"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 129,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Hiện tượng làm tăng tái hấp thu dịch đẳng trương ở ống lượn xa:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Tăng phân số lọc"
+        },
+        {
+          "option": "B",
+          "text": "Tăng thể tích dịch ngoại bào"
+        },
+        {
+          "option": "C",
+          "text": "Giảm nồng độ protein mao mạch quanh ống thận"
+        },
+        {
+          "option": "D",
+          "text": "Tăng áp suất thẩm thấu ở mao mạch quanh ống thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 130,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Chất được sử dụng để đo thể tích dịch kẽ:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Mannitol"
+        },
+        {
+          "option": "B",
+          "text": "Xanh Evans"
+        },
+        {
+          "option": "C",
+          "text": "Inulin and D2O"
+        },
+        {
+          "option": "D",
+          "text": "Inulin và albumin gắn phóng xạ"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nồng độ PAH dưới mức vận chuyển tối đa (Tm) thì:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Độ thanh thải của PAH sẽ bằng với độ thanh thải của inulin"
+        },
+        {
+          "option": "B",
+          "text": "Tỉ lệ bài tiết sẽ bằng với tỉ lệ bài xuất PAH"
+        },
+        {
+          "option": "C",
+          "text": "Nồng độ PAH ở tĩnh mạch thận gần bằng 0"
+        },
+        {
+          "option": "D",
+          "text": "Nồng độ PAH ở tĩnh mạch thận bằng với nồng độ PAH trong động mạch thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 132,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "So sánh một người uống 2 lít nước tinh khiết với một người bị thiếu nước thì:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Áp suất thẩm thấu huyết tương thấp hơn"
+        },
+        {
+          "option": "B",
+          "text": "Nồng độ ADH trong tuần hoàn thấp hơn"
+        },
+        {
+          "option": "C",
+          "text": "Áp suất thẩm thẩm thấu của dịch ống thận/huyết tương cao hơn ở ống lượn gần."
+        },
+        {
+          "option": "D",
+          "text": "Tỉ lệ tái hấp thu nước tăng lên ở ống góp (So sánh một bị thiếu nước với một người uống 2 lít nước tinh khiết thì đáp án đúng là D)"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 133,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "73. So với một người thiếu nước với một người uống 2L nước tinh khiết thì:  (Đây là câu hỏi trong bộ cũ)",
+      "options": [
+        {
+          "option": "A",
+          "text": "Áp suất thẩm thấu huyết tương thấp hơn"
+        },
+        {
+          "option": "B",
+          "text": "Nồng độ ADH trong tuần hoàn thấp hơn"
+        },
+        {
+          "option": "C",
+          "text": "Áp suất thẩm thẩm thấu của dịch ống thận/huyết tương cao hơn ở ống lượn gần."
+        },
+        {
+          "option": "D",
+          "text": "Tỉ lệ tái hấp thu nước tăng lên ở ống góp"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 134,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Yếu tố làm tăng cả lưu lượng lọc ở cầu thận và lượng huyết tương qua thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Tăng protein máu"
+        },
+        {
+          "option": "B",
+          "text": "Sỏi niệu quản"
+        },
+        {
+          "option": "C",
+          "text": "Giãn tiểu động mạch đến"
+        },
+        {
+          "option": "D",
+          "text": "Giãn tiểu động mạch đi"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 135,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Khác biệt rõ rệt nhất giữa người khỏe mạnh bị mất nước và người mắc hội chứng tăng tiết ADH không phù hợp (syndrome of inappropriate antidiuretic hormone -SIADH):",
+      "options": [
+        {
+          "option": "A",
+          "text": "Áp suất thẩm thấu nước tiểu"
+        },
+        {
+          "option": "B",
+          "text": "Áp suất thẩm thấu huyết tương"
+        },
+        {
+          "option": "C",
+          "text": "Nồng độ ADH trong máu"
+        },
+        {
+          "option": "D",
+          "text": "Chênh lệch áp suất thẩm thấu giữa vùng vỏ và tủy của thận"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 136,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nguyên nhân gây giảm độ thanh thải Ca2+của thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Suy tuyến cận giáp"
+        },
+        {
+          "option": "B",
+          "text": "Điều trị với chlorothiazide (thuốc lợi tiểu nhóm thiazide)"
+        },
+        {
+          "option": "C",
+          "text": "Điều trị với furosemide (lazix)"
+        },
+        {
+          "option": "D",
+          "text": "Tăng thể tích dịch ngoại bào"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Chất có độ thanh thải lớn nhất ở thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Para-aminohippuric acid (PAH)"
+        },
+        {
+          "option": "B",
+          "text": "Inulin"
+        },
+        {
+          "option": "C",
+          "text": "Glucose"
+        },
+        {
+          "option": "D",
+          "text": "Ion Na+"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 138,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nguyên nhân gây tăng K+ máu:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Vận động"
+        },
+        {
+          "option": "B",
+          "text": "Nhiễm kiềm"
+        },
+        {
+          "option": "C",
+          "text": "Tiêm insulin"
+        },
+        {
+          "option": "D",
+          "text": "Giảm áp suất thẩm thấu huyết tương"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 139,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Nguyên nhân gây nhiễm kiềm chuyển hóa:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ỉa chảy"
+        },
+        {
+          "option": "B",
+          "text": "Suy thận mạn"
+        },
+        {
+          "option": "C",
+          "text": "Cường aldosteron (hyperaldosteronism)"
+        },
+        {
+          "option": "D",
+          "text": "Nhiễm độc salicylat"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 140,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Tác dụng của hormon tuyến cận giáp (PTH) lên ống thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Kích thích adenylate cyclase"
+        },
+        {
+          "option": "B",
+          "text": "Ức chế bài tiết K+ở ống lượn xa"
+        },
+        {
+          "option": "C",
+          "text": "Ức chế tái hấp thu Ca2+ở ống lượn xa"
+        },
+        {
+          "option": "D",
+          "text": "Kích thích tái hấp thu phosphat ở ống lượn gần"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 141,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Hình ảnh trên minh họa các đoạn của nephron. Người có chế độ ăn nhiều kali, vị trí ống thận có nồng độ ion K+ trong dịch ống thận cao hơn so với dịch lọc cầu thận:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đoạn B"
+        },
+        {
+          "option": "B",
+          "text": "Đoạn C"
+        },
+        {
+          "option": "C",
+          "text": "Đoạn D"
+        },
+        {
+          "option": "D",
+          "text": "Đoạn E"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 142,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Hình ảnh trên minh họa các đoạn của nephron. Ở người bị mất nước, vị trí ống thận có áp suất thẩm thấu dịch ống thận/huyết tương thấp nhất:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đoạn B"
+        },
+        {
+          "option": "B",
+          "text": "Đoạn C"
+        },
+        {
+          "option": "C",
+          "text": "Đoạn D"
+        },
+        {
+          "option": "D",
+          "text": "Đoạn E"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Hình ảnh trên minh họa các đoạn của nephron. Khi sử dụng thuốc chống bài niệu, vị trí ống thận có nồng độ inulin trong dịch ống thận là cao nhất:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đoạn B"
+        },
+        {
+          "option": "B",
+          "text": "Đoạn C"
+        },
+        {
+          "option": "C",
+          "text": "Đoạn D"
+        },
+        {
+          "option": "D",
+          "text": "Đoạn E"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 144,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Hình ảnh trên minh họa các đoạn của nephron. Nồng độ inulin trong dịch ống thận thấp nhất ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đoạn A"
+        },
+        {
+          "option": "B",
+          "text": "Đoạn B"
+        },
+        {
+          "option": "C",
+          "text": "Đoạn C"
+        },
+        {
+          "option": "D",
+          "text": "Đoạn D"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 145,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Hình ảnh trên minh họa các đoạn của nephron. Nồng độ glucose trong dịch ống thận cao nhất ở:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đoạn A"
+        },
+        {
+          "option": "B",
+          "text": "Đoạn B"
+        },
+        {
+          "option": "C",
+          "text": "Đoạn C"
+        },
+        {
+          "option": "D",
+          "text": "Đoạn D"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 146,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đường cong A"
+        },
+        {
+          "option": "B",
+          "text": "Đường cong B"
+        },
+        {
+          "option": "C",
+          "text": "Đường cong C"
+        },
+        {
+          "option": "D",
+          "text": "Đường cong D"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 147,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Khối lượng 10 —> OLG: 0",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đường cong A"
+        },
+        {
+          "option": "B",
+          "text": "Đường cong B"
+        },
+        {
+          "option": "C",
+          "text": "Đường cong C"
+        },
+        {
+          "option": "D",
+          "text": "Đường cong D"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 148,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Khối lượng 12, nước tiểu cuối 1 —> Nồng độ 1200%",
+      "options": [
+        {
+          "option": "A",
+          "text": "Đường cong A"
+        },
+        {
+          "option": "B",
+          "text": "Đường cong B"
+        },
+        {
+          "option": "C",
+          "text": "Đường cong C"
+        },
+        {
+          "option": "D",
+          "text": "Đường cong D"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "chapter_id": 99,
+      "chapter": "MCQ (Multiple Choice Questions)",
+      "question": "Về bài tiết và tái hấp thu Ure:",
+      "options": [
+        {
+          "option": "A",
+          "text": "Độ thanh thải thấp hơn inulin"
+        },
+        {
+          "option": "B",
+          "text": "Không phụ thuộc vào chế độ ăn"
+        },
+        {
+          "option": "C",
+          "text": "Không phụ thuộc vào tốc độ lọc"
+        },
+        {
+          "option": "D",
+          "text": "Được tái hấp thu chủ yếu ở ống lượn gần"
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "id": 150,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông A và B đều có cân nặng 70 kg. Ông A uống 2 lít nước lọc và ông B uống 2 lít nước muối sinh lý NaCl. Khi đó ông B sẽ:",
+      "sub_questions": [
+        {
+          "sub_question": "(<2>) Chẩn đoán chính xác bệnh nhân này là",
+          "options": [
+            "A. Toan chuyển hóa",
+            "B. Kiềm chuyển hóa",
+            "C. Toan hô hấp",
+            "D. Kiềm hô hấp"
+          ]
+        },
+        {
+          "sub_question": "(<3>) Ở bệnh nhân này, tình trạng như thế nào là phù hợp:",
+          "options": [
+            "A. Giảm thông khí",
+            "B. HCO3– giảm ở động mạch là do tăng sử dụng để trung hòa sự tăng lên của H+",
+            "C. Sự giảm ion K+ máu là do sự trao đổi H+ trong tế bào với K+ ngoài tế bào",
+            "D. Sự giảm ion K+ là do tăng nồng độ aldosteron trong tuần hoàn"
+          ]
+        },
+        {
+          "sub_question": "(<1>) Áp suất keo của mao mạch cầu thận bằng bao nhiêu thì quá trình lọc sẽ dừng lại",
+          "options": [
+            "A. 57 mm Hg",
+            "B. 47 mm Hg",
+            "C. 37 mm Hg",
+            "D. 10 mm Hg"
+          ]
+        },
+        {
+          "sub_question": "(<2>) Tái hấp thu HCO3–  trong dịch lọc",
+          "options": [
+            "A. Tái hấp thu dưới 50% dịch lọc khi nồng độ huyết tương là 24 mEq/L",
+            "B. Acid hóa dịch ống thận với pH = 4.4",
+            "C. Liên kết trực tiếp tới sự bài tiết H+ và NH4+",
+            "D. Bị ức chế bởi sự giảm PCO2 động mạch"
+          ]
+        },
+        {
+          "sub_question": "(<1>) Biết rằng X là chất được lọc tự do thì ý trả lời nào dưới đây là đúng nhất:",
+          "options": [
+            "A. Sự bài tiết chất X là cố định",
+            "B. Sự tái hấp thu chất X là cố định",
+            "C. Có cả hai quá trình tái hấp thu và bài tiết chất X",
+            "D. Độ thanh thải của chất X có thể được sử dụng để đo lưu lượng lọc cầu thận (GFR)"
+          ]
+        },
+        {
+          "sub_question": "(<2>)     Để duy trì cân bằng H+ trong giới hạn bình thường, tổng số lượng ion H+ bài tiết hằng ngày phải cân bằng với:",
+          "options": [
+            "A. Sản phẩm acid cố định cộng với lượng acid do ăn uống",
+            "B. Ion HCO3– bài tiết",
+            "C. Ion HCO3– trong dịch lọc",
+            "D. Ion H+ dịch lọc"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": 151,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Chị K. được tiêm 1 gam manitol vào tĩnh mạch. Sau khi cân bằng thể tích dịch, mẫu huyết tương có nồng độ manitol là 0.08 g/L. Trong quá trình cân bằng, 20% lượng manitol được bài xuất qua nước tiểu. Khi đó:",
+      "sub_questions": [
+        {
+          "sub_question": "Chị K. được tiêm 1 gam manitol vào tĩnh mạch. Sau khi cân bằng thể tích dịch, mẫu huyết tương có nồng độ manitol là 0.08 g/L. Trong quá trình cân bằng, 20% lượng manitol được bài xuất qua nước tiểu. Khi đó:",
+          "options": [
+            "A. Thể tích dịch ngoại bào là 1 L",
+            "B. Thể tích dịch nội bào là 1 L",
+            "C. Thể tích dịch ngoại bào là 10 L",
+            "D. Thể tích dịch nội bào là 10 L"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 152,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Bà N. đang được điều trị tại khoa Hồi sức tích cực có chỉ số máu động mạch như sau:",
+      "sub_questions": [
+        {
+          "sub_question": "Bà N. đang được điều trị tại khoa Hồi sức tích cực có chỉ số máu động mạch như sau:",
+          "options": [
+            "A. Giảm thông khí",
+            "B. Giảm ion [Ca2+] trong máu",
+            "C. Thông khí mất bù hoàn toàn",
+            "D. Thận mất bù sẽ gây ra tình trạng tăng [HCO3–] trong máu động mạch"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 153,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Bà L. đang được nằm theo dõi tại phòng khám cấp cứu có áp suất thẩm thấu huyết tương là 300 mOsm/L và áp suất thẩm thấu trong nước tiểu là 1200 mOsm/L. Chẩn đoán đúng là:",
+      "sub_questions": [
+        {
+          "sub_question": "Bà L. đang được nằm theo dõi tại phòng khám cấp cứu có áp suất thẩm thấu huyết tương là 300 mOsm/L và áp suất thẩm thấu trong nước tiểu là 1200 mOsm/L. Chẩn đoán đúng là:",
+          "options": [
+            "A. Hội chứng rối loạn bài tiết hormon chống bài niệu (SIADH)",
+            "B. Mất nước",
+            "C. Đái tháo đường",
+            "D. Uống quá nhiều nước lọc"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 154,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Anh Ng. được truyền PAH để do lưu lượng máu qua thận. Lưu lượng nước tiểu của anh Ng. là 1 mL/min, [PAH] huyết tương là 1 mg/mL, [PAH] nước tiểu là 600 mg/mL và hematocrit là 45%. Lưu lượng máu qua thận của anh Ng. là:",
+      "sub_questions": [
+        {
+          "sub_question": "Anh Ng. được truyền PAH để do lưu lượng máu qua thận. Lưu lượng nước tiểu của anh Ng. là 1 mL/min, [PAH] huyết tương là 1 mg/mL, [PAH] nước tiểu là 600 mg/mL và hematocrit là 45%. Lưu lượng máu qua thận của anh Ng. là:",
+          "options": [
+            "A. 600 mL/min",
+            "B. 660 mL/min",
+            "C. 1091 mL/min",
+            "D. 1333 mL/min"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 155,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Chị Đặng Thị T. 23 tuổi, tham gia chạy marathon trong điều kiện nhiệt độ 32°C và bù lượng nước mất đi qua mồ hôi bằng uống nước tinh khiết. Sau cuộc thi marathon, chị T. sẽ:",
+      "sub_questions": [
+        {
+          "sub_question": "Chị Đặng Thị T. 23 tuổi, tham gia chạy marathon trong điều kiện nhiệt độ 32°C và bù lượng nước mất đi qua mồ hôi bằng uống nước tinh khiết. Sau cuộc thi marathon, chị T. sẽ:",
+          "options": [
+            "A. Giảm lượng nước toàn thân",
+            "B. Giảm hematocrit",
+            "C. Giảm thể tích dịch nội bào",
+            "D. Giảm áp suất thẩm thấu huyết tương"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 156,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Em Trần Thành A, 10 tuổi, bị tiêu chảy mất nước nặng vào viện trong tình trạng sốc, thận có khả năng duy trì lưu lượng máu thận và mức lọc cầu thận nhờ cơ chế tự điều hòa. Cơ chế tự điều hòa này sẽ mất tác dụng trong trường hợp nào sau đây?",
+      "sub_questions": [
+        {
+          "sub_question": "Em Trần Thành A, 10 tuổi, bị tiêu chảy mất nước nặng vào viện trong tình trạng sốc, thận có khả năng duy trì lưu lượng máu thận và mức lọc cầu thận nhờ cơ chế tự điều hòa. Cơ chế tự điều hòa này sẽ mất tác dụng trong trường hợp nào sau đây?",
+          "options": [
+            "A. Sốc giảm thể tích nặng",
+            "B. Đột quỵ não",
+            "C. Cắt tủy thượng thận",
+            "D. Sỏi tiết niệu"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 157,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông K. 50 tuổi, bị tăng huyết áp và giảm kali máu. Các chỉ số xét nghiệm máu khác có pH = 7,5; nồng độ HCO3–: 32 mEq/L. Nồng độ cortisol và vanillylmandelic acid (VMA) trong nước tiểu là bình thường, tăng trong huyết thanh, hoạt tính renin trong huyết tương tăng cao hơn bình thường. Nguyên nhân gây tăng huyết áp ở bệnh nhân này có thể là:",
+      "sub_questions": [
+        {
+          "sub_question": "Ông K. 50 tuổi, bị tăng huyết áp và giảm kali máu. Các chỉ số xét nghiệm máu khác có pH = 7,5; nồng độ HCO3–: 32 mEq/L. Nồng độ cortisol và vanillylmandelic acid (VMA) trong nước tiểu là bình thường, tăng trong huyết thanh, hoạt tính renin trong huyết tương tăng cao hơn bình thường. Nguyên nhân gây tăng huyết áp ở bệnh nhân này có thể là:",
+          "options": [
+            "A. Hội chứng Cushing",
+            "B. Hội chứng Conn",
+            "C. Hẹp động mạch thận",
+            "D. U tủy thượng thận (Pheochromocytoma)"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 158,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông S. 43 tuổi, nghiện thuốc lá nặng có tiền sử bị viêm phế quản mạn tính. Gần đây có biểu hiện mất ngủ tăng lên. Xét nghiệm máu nào dưới đây phù hợp với bệnh nhân trên",
+      "sub_questions": [
+        {
+          "sub_question": "Ông S. 43 tuổi, nghiện thuốc lá nặng có tiền sử bị viêm phế quản mạn tính. Gần đây có biểu hiện mất ngủ tăng lên. Xét nghiệm máu nào dưới đây phù hợp với bệnh nhân trên",
+          "options": [
+            "A. 7.65; pH=7.65, HCO3-=48, PCO2=45",
+            "B. 7.50; pH=7.50, HCO3-=15, PCO2=20",
+            "C. 7.40; pH=7.40, HCO3-=24, PCO2=40",
+            "D. 7.32; pH=7.32, HCO3-=30, PCO2=60"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 159,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông V. đang được điều trị tại khoa Hồi sức tích cực bị kiềm hô hấp mất bù một phần sau điều trị thông khí nhân tạo 1 tháng. Chỉ số nào trong máu động mạch phù hợp với bệnh cảnh của ông V.:",
+      "sub_questions": [
+        {
+          "sub_question": "Ông V. đang được điều trị tại khoa Hồi sức tích cực bị kiềm hô hấp mất bù một phần sau điều trị thông khí nhân tạo 1 tháng. Chỉ số nào trong máu động mạch phù hợp với bệnh cảnh của ông V.:",
+          "options": [
+            "A. 7.65; pH=7.65, HCO3-=48, PCO2=45",
+            "B. 7.50; pH=7.50, HCO3-=15, PCO2=20",
+            "C. 7.40; pH=7.40, HCO3-=24, PCO2=40",
+            "D. 7.32; pH=7.32, HCO3-=30, PCO2=60"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 160,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Bà K. đang điều trị suy thận mạn nhưng vẫn duy trì chế độ ăn đạm như người bình thường. Xét nghiệm nước tiểu thấy giảm bài xuất ion NH4+. Kết quả xết nghiêm nào dưới đây phù hợp với bệnh cảnh của bà K.:",
+      "sub_questions": [
+        {
+          "sub_question": "Bà K. đang điều trị suy thận mạn nhưng vẫn duy trì chế độ ăn đạm như người bình thường. Xét nghiệm nước tiểu thấy giảm bài xuất ion NH4+. Kết quả xết nghiêm nào dưới đây phù hợp với bệnh cảnh của bà K.:",
+          "options": [
+            "A. 7.65; pH=7.65, HCO3-=48, PCO2=45",
+            "B. 7.50; pH=7.50, HCO3-=15, PCO2=20",
+            "C. 7.40; pH=7.40, HCO3-=24, PCO2=40",
+            "D. 7.31; pH=7.31, HCO3-=16, PCO2=33"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 161,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông H. bị tiểu đường nhưng không được phát hiện và điều trị. Xét nghiệm nước tiểu thấy tăng bài xuất ion NH4+. Kết quả xét nghiệm nào dưới đây phù hợp với bệnh cảnh của ông H.:",
+      "sub_questions": [
+        {
+          "sub_question": "Ông H. bị tiểu đường nhưng không được phát hiện và điều trị. Xét nghiệm nước tiểu thấy tăng bài xuất ion NH4+. Kết quả xét nghiệm nào dưới đây phù hợp với bệnh cảnh của ông H.:",
+          "options": [
+            "A. 7.65; pH=7.65, HCO3-=48, PCO2=45",
+            "B. 7.50; pH=7.50, HCO3-=15, PCO2=20",
+            "C. 7.40; pH=7.40, HCO3-=24, PCO2=40",
+            "D. 7.31; pH=7.31, HCO3-=16, PCO2=33"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 162,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Chị T. bị nôn liên tục suốt 5 ngày nay. Kết quả xét nghiệm nào dưới đây phù hợp với bệnh cảnh của chị T.:",
+      "sub_questions": [
+        {
+          "sub_question": "Chị T. bị nôn liên tục suốt 5 ngày nay. Kết quả xét nghiệm nào dưới đây phù hợp với bệnh cảnh của chị T.:",
+          "options": [
+            "A. 7.65; pH=7.65, HCO3-=48, PCO2=45",
+            "B. 7.50; pH=7.50, HCO3-=15, PCO2=20",
+            "C. 7.40; pH=7.40, HCO3-=24, PCO2=40",
+            "D. 7.31; pH=7.31, HCO3-=16, PCO2=33"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 163,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông C có tiền sử tăng huyết áp, bệnh thận mạn giai đoạn 4. Vào viện, xét nghiệm khí máu động mạch: pH = 7.28, HCO3- = 16 mEq/L, PaCO2 = 30mmHg",
+      "sub_questions": [
+        {
+          "sub_question": "<1> Nhận định về rối loạn thăng bằng kiềm toan của bệnh nhân này là:",
+          "options": [
+            "A. Toan chuyển hóa còn bù một phần",
+            "B. Toan chuyển hóa mất bù",
+            "C. Toan chuyển hóa mạn tính",
+            "D. Toan hô hấp"
+          ]
+        },
+        {
+          "sub_question": "<2> Nguyên nhân chính gây ra tình trạng toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "A. Thận giảm khả năng thải H+ và tái hấp thu HCO3-",
+            "B. Tăng sản xuất acid lactic",
+            "C. Nhiễm toan ceton",
+            "D. Mất bicarbonat qua đường tiêu hóa"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 164,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Bà Th. đang được điều trị tại khoa Hồi sức tích cực vì sử dụng aspirin (acid salicylic) quá liều. Bà có tiền sử viêm khớp dạng thấp nhiều năm nay, mỗi khi đau bà lại uống aspirin. Nguyên tắc điều trị sẽ là làm thay đổi pH nước tiểu từ đó tăng bài xuất acid salicylic. Cơ chế thay đổi của pH làm tăng bài xuất acid salicylic ra nước tiểu là:",
+      "sub_questions": [
+        {
+          "sub_question": "Bà Th. đang được điều trị tại khoa Hồi sức tích cực vì sử dụng aspirin (acid salicylic) quá liều. Bà có tiền sử viêm khớp dạng thấp nhiều năm nay, mỗi khi đau bà lại uống aspirin. Nguyên tắc điều trị sẽ là làm thay đổi pH nước tiểu từ đó tăng bài xuất acid salicylic. Cơ chế thay đổi của pH làm tăng bài xuất acid salicylic ra nước tiểu là:",
+          "options": [
+            "A. Acid hóa, chuyển acid salicylic thành dạng HA (acid yếu)",
+            "B. Kiềm hóa, chuyển acid salicylic thành dạng A- (anion)",
+            "C. Acid hóa, chuyển acid salicylic thành dạng A–",
+            "D. Kiềm hóa, chuyển acid salicylic thành dạng HA (acid yếu)"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null
+      ]
+    },
+    {
+      "id": 165,
+      "type": "case_study",
+      "chapter_id": 98,
+      "chapter": "Case Study (Lâm sàng)",
+      "case_description": "Ông Q. vào viện vì chóng mặt. Khám thấy huyết áp 92/60 mmHg, mạch 56 lần/phút.",
+      "sub_questions": [
+        {
+          "sub_question": "<1> Trong tình trạng huyết áp thấp, chất nào sau đây có vai trò quan trọng trong việc duy trì mức lọc cầu thận bằng cách gây giãn tiểu động mạch đến?",
+          "options": [
+            "A. Prostaglandin E1 (PGE1)",
+            "B. Prostaglandin E2 (PGE2)",
+            "C. Angiotensin II",
+            "D. Thromboxan A2"
+          ]
+        },
+        {
+          "sub_question": "<2> Cơ chế tự điều hoà tại thận giúp kiểm soát tình trạng lọc thông qua",
+          "options": [
+            "A. Phân số lọc",
+            "B. Hệ số lọc",
+            "C. Lưu lượng lọc",
+            "D. Lượng nước tiểu"
+          ]
+        }
+      ],
+      "correct_answers": [
+        null,
+        null
+      ]
+    }
+  ]
+}

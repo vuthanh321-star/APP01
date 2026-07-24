@@ -1,0 +1,4903 @@
+{
+  "metadata": {
+    "subject": "Thần kinh tự chủ",
+    "version": "1.0",
+    "created_date": "2025-07-19",
+    "total_questions": 255,
+    "language": "vi",
+    "chapters": {
+      "Receptor của phản xạ tuỷ": 1,
+      "Cấu trúc của tủy sống": 2,
+      "Nơron vận động ở tuỷ sống": 3,
+      "Đơn vị vận động": 4,
+      "Phản xạ sau đây là phản xạ tuỷ": 5,
+      "Phản xạ tuỷ": 6,
+      "Phản xạ duỗi": 8,
+      "Phản xạ rút lui": 9,
+      "Đặc điểm phản xạ tuỷ": 10,
+      "Phản xạ tuỷ và chức năng vận động": 11,
+      "Bản đồ hình chiếu các phần cơ thể": 12,
+      "Bó tháp": 13,
+      "Chức năng vận động của thân não": 14,
+      "Phản xạ da": 15,
+      "Co cơ và suốt cơ": 16,
+      "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi": 17,
+      "Vùng vỏ não vận động sơ cấp": 18,
+      "Tổn thương tiểu não có thể gây": 19,
+      "Vùng tiền vận động": 20,
+      "Hoạt động của nơron": 21,
+      "Chức năng của nơron": 22,
+      "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ": 23,
+      "Đặc điểm dẫn truyền xung động thần kinh trên sợi trục": 24,
+      "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap": 25,
+      "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron": 26,
+      "Chênh lệch nồng độ ion Na+ qua màng nơron": 27,
+      "Gây tê tại chỗ, cảm giác mất trước vận động là do": 28,
+      "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm": 29,
+      "Dẫn truyền điện thế hoạt động trên sợi thần kinh": 30,
+      "Điện thế ức chế sau synap xuất hiện khi": 31,
+      "Phản xạ tuỷ (Phần 2)": 7,
+      "Phần MCQ": 32,
+      "Phần case lâm sàng": 33
+    },
+    "question_types": {
+      "true_false": 124,
+      "multiple_choice": 115,
+      "case_study": 16
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Căng cơ: Thể Golgi.",
+      "type": "true_false",
+      "chapter": "Receptor của phản xạ tuỷ",
+      "chapter_id": 1,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor của phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Chuột rút: Suốt cơ.",
+      "type": "true_false",
+      "chapter": "Receptor của phản xạ tuỷ",
+      "chapter_id": 1,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor của phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Rút lui: Sợi cảm giác đau.",
+      "type": "true_false",
+      "chapter": "Receptor của phản xạ tuỷ",
+      "chapter_id": 1,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor của phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Gân: Tiểu thể Pacini",
+      "type": "true_false",
+      "chapter": "Receptor của phản xạ tuỷ",
+      "chapter_id": 1,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor của phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Mỗi khoanh tuỷ gồm 1-2 triệu nơron.",
+      "type": "true_false",
+      "chapter": "Cấu trúc của tủy sống",
+      "chapter_id": 2,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Cấu trúc của tủy sống"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Mỗi khoanh tuỷ gồm 2-3 triệu nơron.",
+      "type": "true_false",
+      "chapter": "Cấu trúc của tủy sống",
+      "chapter_id": 2,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Cấu trúc của tủy sống"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Nơron vận động nằm ở sừng trước chất xám tuỷ, nơron cảm giác nằm ở sừng bên chất xám tuỷ.",
+      "type": "true_false",
+      "chapter": "Cấu trúc của tủy sống",
+      "chapter_id": 2,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Cấu trúc của tủy sống"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Nơron vận động nằm sừng trước chất xám tuỷ,nơron cảm giác nằm ở sừng sau chất xám tuỷ .",
+      "type": "true_false",
+      "chapter": "Cấu trúc của tủy sống",
+      "chapter_id": 2,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Cấu trúc của tủy sống"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Nơron gama có kích thước lớn nhất trong số các nơron ở tuỷ.",
+      "type": "true_false",
+      "chapter": "Nơron vận động ở tuỷ sống",
+      "chapter_id": 3,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nơron vận động ở tuỷ sống"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Nơron trung gian (interneuron) có số lượng lớn nhất so với các nơron ở tuỷ.",
+      "type": "true_false",
+      "chapter": "Nơron vận động ở tuỷ sống",
+      "chapter_id": 3,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nơron vận động ở tuỷ sống"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Tế bào Renshaw nằm ở sừng sau tủy sống.",
+      "type": "true_false",
+      "chapter": "Nơron vận động ở tuỷ sống",
+      "chapter_id": 3,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nơron vận động ở tuỷ sống"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Nơron vận động alpha nằm ở sừng trước tuỷ sống.",
+      "type": "true_false",
+      "chapter": "Nơron vận động ở tuỷ sống",
+      "chapter_id": 3,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nơron vận động ở tuỷ sống"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Đơn vị vận động gồm 2 nơron.",
+      "type": "true_false",
+      "chapter": "Đơn vị vận động",
+      "chapter_id": 4,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đơn vị vận động"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Đơn vị vận động gồm nơron vận động và nhóm sợi cơ mà nó chi phối.",
+      "type": "true_false",
+      "chapter": "Đơn vị vận động",
+      "chapter_id": 4,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đơn vị vận động"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Các sợi cơ của 1 đơn vị vận động phân bố tập trung ở một cơ.",
+      "type": "true_false",
+      "chapter": "Đơn vị vận động",
+      "chapter_id": 4,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đơn vị vận động"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Nơron vận động alpha chi phối trực tiếp sợi ngoại suốt.",
+      "type": "true_false",
+      "chapter": "Đơn vị vận động",
+      "chapter_id": 4,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đơn vị vận động"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Phản xạ đá tai.",
+      "type": "true_false",
+      "chapter": "Phản xạ sau đây là phản xạ tuỷ",
+      "chapter_id": 5,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ sau đây là phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Phản xạ Babinski.",
+      "type": "true_false",
+      "chapter": "Phản xạ sau đây là phản xạ tuỷ",
+      "chapter_id": 5,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ sau đây là phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Phản xạ rút lui.",
+      "type": "true_false",
+      "chapter": "Phản xạ sau đây là phản xạ tuỷ",
+      "chapter_id": 5,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ sau đây là phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Phản xạ duỗi.",
+      "type": "true_false",
+      "chapter": "Phản xạ sau đây là phản xạ tuỷ",
+      "chapter_id": 5,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ sau đây là phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Phản xạ tuỷ có thể dùng để đánh giá tổn thương thần kinh ở cao hơn.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ",
+      "chapter_id": 6,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Hiện tượng chuột rút là phản xạ tuỷ.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ",
+      "chapter_id": 6,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Trung tâm nằm ở thân não.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ",
+      "chapter_id": 6,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Không chịu sự chi phối của trung tâm ở cao hơn.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ",
+      "chapter_id": 6,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Phản xạ gân giúp phân bố đồng đều lực co giữa các nhóm sợi cơ.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ (Phần 2)",
+      "chapter_id": 7,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Phản xạ căng cơ động giúp cơ co lâu mà không bị mỏi.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ (Phần 2)",
+      "chapter_id": 7,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Sợi Ia dẫn truyền tín hiệu từ sợi cơ có túi nhân.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ (Phần 2)",
+      "chapter_id": 7,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Sợi II dẫn truyền tín hiệu từ sợi cơ có chuỗi nhân.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ (Phần 2)",
+      "chapter_id": 7,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "là phản xạ đơn synap.",
+      "type": "true_false",
+      "chapter": "Phản xạ duỗi",
+      "chapter_id": 8,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ duỗi"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "có receptor là suốt cơ.",
+      "type": "true_false",
+      "chapter": "Phản xạ duỗi",
+      "chapter_id": 8,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ duỗi"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "là đáp ứng giãn cơ khi có kích thích kéo dài cơ.",
+      "type": "true_false",
+      "chapter": "Phản xạ duỗi",
+      "chapter_id": 8,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ duỗi"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "có sự tham gia của nơron tiết acetylcholin của hệ thần kinh trung ương.",
+      "type": "true_false",
+      "chapter": "Phản xạ duỗi",
+      "chapter_id": 8,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ duỗi"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "được tạo ra bởi kích thích đau.",
+      "type": "true_false",
+      "chapter": "Phản xạ rút lui",
+      "chapter_id": 9,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ rút lui"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "là phản xạ đa synap.",
+      "type": "true_false",
+      "chapter": "Phản xạ rút lui",
+      "chapter_id": 9,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ rút lui"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "sẽ kéo dài khi cường độ kích thích mạnh.",
+      "type": "true_false",
+      "chapter": "Phản xạ rút lui",
+      "chapter_id": 9,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ rút lui"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "gây ra đáp ứng tương tự ở cả 2 bên cơ thể.",
+      "type": "true_false",
+      "chapter": "Phản xạ rút lui",
+      "chapter_id": 9,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ rút lui"
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Mất không hồi phục sau khi tuỷ sống bị cắt ngang.",
+      "type": "true_false",
+      "chapter": "Đặc điểm phản xạ tuỷ",
+      "chapter_id": 10,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Cung phản xạ có ít nhất 1 synap.",
+      "type": "true_false",
+      "chapter": "Đặc điểm phản xạ tuỷ",
+      "chapter_id": 10,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Được điều chỉnh bởi các vùng khác của hệ thần kinh trung ương.",
+      "type": "true_false",
+      "chapter": "Đặc điểm phản xạ tuỷ",
+      "chapter_id": 10,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Được thực hiện một cách vô thức.",
+      "type": "true_false",
+      "chapter": "Đặc điểm phản xạ tuỷ",
+      "chapter_id": 10,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm phản xạ tuỷ"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Động tác quay người và đứng thẳng khi đi bộ là sự phối hợp của nhóm cơ duỗi và gấp ở chân.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ và chức năng vận động",
+      "chapter_id": 11,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ và chức năng vận động"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Khi sợi ngoại suốt co, suốt cơ tăng tính nhạy cảm vì nơron vận động gamma làm ngắn sợi nội suốt.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ và chức năng vận động",
+      "chapter_id": 11,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ và chức năng vận động"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Hiệu quả của phản xạ duỗi (ví dụ: phản xạ gân xương bánh chè) tăng lên do vai trò phối hợp có trình tự nhóm cơ co và duỗi của tiểu não.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ và chức năng vận động",
+      "chapter_id": 11,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ và chức năng vận động"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Tổn thương nơron vận động trên cao gây liệt nửa người đối bên với bên tổn thương do con đường dẫn truyền tín hiệu vận động (bó vỏ tuỷ) bắt chéo sang đối bên ở thân não.",
+      "type": "true_false",
+      "chapter": "Phản xạ tuỷ và chức năng vận động",
+      "chapter_id": 11,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ tuỷ và chức năng vận động"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Bản đồ hình chiếu các phần cơ thể ở vùng vỏ não vận động (vùng 4) bố trí theo chiều trên- dưới: chân, tay, mặt.",
+      "type": "true_false",
+      "chapter": "Bản đồ hình chiếu các phần cơ thể",
+      "chapter_id": 12,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bản đồ hình chiếu các phần cơ thể"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Thuỳ nhộng của tiểu não có bản đồ hình chiếu các phần cơ thể.",
+      "type": "true_false",
+      "chapter": "Bản đồ hình chiếu các phần cơ thể",
+      "chapter_id": 12,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bản đồ hình chiếu các phần cơ thể"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Nhân đỏ và nhân tiền đình có bản đồ hình chiếu các phần cơ thể.",
+      "type": "true_false",
+      "chapter": "Bản đồ hình chiếu các phần cơ thể",
+      "chapter_id": 12,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bản đồ hình chiếu các phần cơ thể"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Vùng vỏ não vận động bổ sung có bản đồ hình chiếu các phần cơ thể.",
+      "type": "true_false",
+      "chapter": "Bản đồ hình chiếu các phần cơ thể",
+      "chapter_id": 12,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bản đồ hình chiếu các phần cơ thể"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Xuất phát của bó tháp là từ các tế bào hình tháp ở vùng vỏ não vận động.",
+      "type": "true_false",
+      "chapter": "Bó tháp",
+      "chapter_id": 13,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bó tháp"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Xuất phát của bó tháp: 30% từ vùng vỏ não vận động sơ cấp (vùng 4); 30% từ vùng cảm giác thân thể sơ cấp; 30% từ vùng vỏ não tiền vận động(vùng 6) và vùng vận động bổ sung (vùng 8).",
+      "type": "true_false",
+      "chapter": "Bó tháp",
+      "chapter_id": 13,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bó tháp"
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Xuất phát của bó tháp: 50% từ vùng vỏ não vận động, 50% vùng vỏ não cảm giác.",
+      "type": "true_false",
+      "chapter": "Bó tháp",
+      "chapter_id": 13,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bó tháp"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Bó tháp chi phối nửa người cùng bên do bắt chéo 2 lần.",
+      "type": "true_false",
+      "chapter": "Bó tháp",
+      "chapter_id": 13,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Bó tháp"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Nhân đỏ nằm ở hành não có tác dụng làm giảm trương lực cơ.",
+      "type": "true_false",
+      "chapter": "Chức năng vận động của thân não",
+      "chapter_id": 14,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng vận động của thân não"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Nhân tiền đình có tác dụng làm tăng trương lực cơ kháng trọng lực.",
+      "type": "true_false",
+      "chapter": "Chức năng vận động của thân não",
+      "chapter_id": 14,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng vận động của thân não"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Nhân tiền đình có các sợi trục thần kinh đi đến tiểu não.",
+      "type": "true_false",
+      "chapter": "Chức năng vận động của thân não",
+      "chapter_id": 14,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng vận động của thân não"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Cùng với hệ thống nhân lưới, nhân tiền đình và nhân đỏ có vai trò điều hoà trương lực cơ.",
+      "type": "true_false",
+      "chapter": "Chức năng vận động của thân não",
+      "chapter_id": 14,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng vận động của thân não"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Kích thích lên da làm cơ phía dưới vùng da đó co lại.",
+      "type": "true_false",
+      "chapter": "Phản xạ da",
+      "chapter_id": 15,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ da"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Trung tâm phản xạ da bụng nằm ở chất xám tuỷlưng 11-12.",
+      "type": "true_false",
+      "chapter": "Phản xạ da",
+      "chapter_id": 15,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ da"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Trung tâm phản xạ da bìu nằm ở chất xám tuỷthắt lưng 4-5.",
+      "type": "true_false",
+      "chapter": "Phản xạ da",
+      "chapter_id": 15,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ da"
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Phản xạ da lòng bàn chân dùng để thăm dò chức năng bó tháp.",
+      "type": "true_false",
+      "chapter": "Phản xạ da",
+      "chapter_id": 15,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Phản xạ da"
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Khi nơron alpha bị kích thích làm co cơ.",
+      "type": "true_false",
+      "chapter": "Co cơ và suốt cơ",
+      "chapter_id": 16,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Co cơ và suốt cơ"
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Ở trạng thái nghỉ sợi nội suốt không co.",
+      "type": "true_false",
+      "chapter": "Co cơ và suốt cơ",
+      "chapter_id": 16,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Co cơ và suốt cơ"
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Khi sợi ngoại suốt bị kéo căng sẽ làm cho sợi nội suốt bị kích thích.",
+      "type": "true_false",
+      "chapter": "Co cơ và suốt cơ",
+      "chapter_id": 16,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Co cơ và suốt cơ"
+      ]
+    },
+    {
+      "id": 64,
+      "question": "Khi sợi nội suốt co ngắn lại sợi ngoại suốt sẽ giãn ra.",
+      "type": "true_false",
+      "chapter": "Co cơ và suốt cơ",
+      "chapter_id": 16,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Co cơ và suốt cơ"
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Cả khối cơ bị kéo giãn ra.",
+      "type": "true_false",
+      "chapter": "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi",
+      "chapter_id": 17,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi"
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Sợi ngoại suốt co.",
+      "type": "true_false",
+      "chapter": "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi",
+      "chapter_id": 17,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi"
+      ]
+    },
+    {
+      "id": 67,
+      "question": "Sợi nội suốt co.",
+      "type": "true_false",
+      "chapter": "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi",
+      "chapter_id": 17,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi"
+      ]
+    },
+    {
+      "id": 68,
+      "question": "Cả sợi nội suốt và ngoại suốt cùng co.",
+      "type": "true_false",
+      "chapter": "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi",
+      "chapter_id": 17,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Receptor cảm giác của suốt thần kinh cơ bị kích thích khi"
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Tổn thương gây liệt nửa người đối bên.",
+      "type": "true_false",
+      "chapter": "Vùng vỏ não vận động sơ cấp",
+      "chapter_id": 18,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng vỏ não vận động sơ cấp"
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Bản đồ chi phối vận động cơ thể lộn ngược.",
+      "type": "true_false",
+      "chapter": "Vùng vỏ não vận động sơ cấp",
+      "chapter_id": 18,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng vỏ não vận động sơ cấp"
+      ]
+    },
+    {
+      "id": 71,
+      "question": "Kiểm soát vận động tự động.",
+      "type": "true_false",
+      "chapter": "Vùng vỏ não vận động sơ cấp",
+      "chapter_id": 18,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng vỏ não vận động sơ cấp"
+      ]
+    },
+    {
+      "id": 72,
+      "question": "Nằm ở thuỳ chẩm.",
+      "type": "true_false",
+      "chapter": "Vùng vỏ não vận động sơ cấp",
+      "chapter_id": 18,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng vỏ não vận động sơ cấp"
+      ]
+    },
+    {
+      "id": 73,
+      "question": "giảm trương lực cơ cùng bên tổn thương.",
+      "type": "true_false",
+      "chapter": "Tổn thương tiểu não có thể gây",
+      "chapter_id": 19,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Tổn thương tiểu não có thể gây"
+      ]
+    },
+    {
+      "id": 74,
+      "question": "run, cử động sai tầm, sai hướng",
+      "type": "true_false",
+      "chapter": "Tổn thương tiểu não có thể gây",
+      "chapter_id": 19,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Tổn thương tiểu não có thể gây"
+      ]
+    },
+    {
+      "id": 75,
+      "question": "nói nhanh, viết nhanh.",
+      "type": "true_false",
+      "chapter": "Tổn thương tiểu não có thể gây",
+      "chapter_id": 19,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Tổn thương tiểu não có thể gây"
+      ]
+    },
+    {
+      "id": 76,
+      "question": "mất thăng bằng, đi đứng lảo đảo.",
+      "type": "true_false",
+      "chapter": "Tổn thương tiểu não có thể gây",
+      "chapter_id": 19,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Tổn thương tiểu não có thể gây"
+      ]
+    },
+    {
+      "id": 77,
+      "question": "cùng với vùng vận động sơ cấp chi phối cử động của nhiều nhóm cơ.",
+      "type": "true_false",
+      "chapter": "Vùng tiền vận động",
+      "chapter_id": 20,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng tiền vận động"
+      ]
+    },
+    {
+      "id": 78,
+      "question": "giúp thực hiện các động tác mang tính tiềm thức.",
+      "type": "true_false",
+      "chapter": "Vùng tiền vận động",
+      "chapter_id": 20,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng tiền vận động"
+      ]
+    },
+    {
+      "id": 79,
+      "question": "phối hợp với các nhân nền não, đồi thị, vỏ não vận động sơ cấp lập kế hoạch thực hiện các cử động phức tạp của cơ thể.",
+      "type": "true_false",
+      "chapter": "Vùng tiền vận động",
+      "chapter_id": 20,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng tiền vận động"
+      ]
+    },
+    {
+      "id": 80,
+      "question": "chi phối vận động cùng bên.",
+      "type": "true_false",
+      "chapter": "Vùng tiền vận động",
+      "chapter_id": 20,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Vùng tiền vận động"
+      ]
+    },
+    {
+      "id": 81,
+      "question": "Xung thần kinh chính là điện thế hoạt động lan truyền theo sợi trục.",
+      "type": "true_false",
+      "chapter": "Hoạt động của nơron",
+      "chapter_id": 21,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Hoạt động của nơron"
+      ]
+    },
+    {
+      "id": 82,
+      "question": "Các xung thần kinh có thể có biên độ khác nhau khi kích thích với cường độ khác nhau.",
+      "type": "true_false",
+      "chapter": "Hoạt động của nơron",
+      "chapter_id": 21,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Hoạt động của nơron"
+      ]
+    },
+    {
+      "id": 83,
+      "question": "Các chất truyền đạt thần kinh phân tử nhỏ có tác dụng mạnh và kéo dài.",
+      "type": "true_false",
+      "chapter": "Hoạt động của nơron",
+      "chapter_id": 21,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Hoạt động của nơron"
+      ]
+    },
+    {
+      "id": 84,
+      "question": "Trong giai đoạn ưu phân cực, phải có kích thích mạnh hơn bình thường mới gây hưng phấn nơron.",
+      "type": "true_false",
+      "chapter": "Hoạt động của nơron",
+      "chapter_id": 21,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Hoạt động của nơron"
+      ]
+    },
+    {
+      "id": 85,
+      "question": "Dẫn truyền xung động trên sợi trục không có myelin được thực hiện sang các điểm kế cận điểm hưng phấn và cứ thế lan đi.",
+      "type": "true_false",
+      "chapter": "Chức năng của nơron",
+      "chapter_id": 22,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng của nơron"
+      ]
+    },
+    {
+      "id": 86,
+      "question": "Mỗi nơron có thể sản xuất nhiều chất dẫn truyền thần kinh.",
+      "type": "true_false",
+      "chapter": "Chức năng của nơron",
+      "chapter_id": 22,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng của nơron"
+      ]
+    },
+    {
+      "id": 87,
+      "question": "Dẫn truyền xung động trên sợi không có myelin được thực hiện bằng cách nhảy qua các eo Ranvier.",
+      "type": "true_false",
+      "chapter": "Chức năng của nơron",
+      "chapter_id": 22,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng của nơron"
+      ]
+    },
+    {
+      "id": 88,
+      "question": "Ion Ca++ làm các túi synap nhỏ dễ vỡ nên làm tăng dẫn truyền qua synap. Ion Mg++ có tác dụng ngược lại.",
+      "type": "true_false",
+      "chapter": "Chức năng của nơron",
+      "chapter_id": 22,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Chức năng của nơron"
+      ]
+    },
+    {
+      "id": 89,
+      "question": "Được tổng hợp ở thân nơron.",
+      "type": "true_false",
+      "chapter": "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ",
+      "chapter_id": 23,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ"
+      ]
+    },
+    {
+      "id": 90,
+      "question": "Mỗi nơron chỉ tổng hợp và giải phóng một chất.",
+      "type": "true_false",
+      "chapter": "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ",
+      "chapter_id": 23,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ"
+      ]
+    },
+    {
+      "id": 91,
+      "question": "Tác dụng chủ yếu thông qua kênh ion.",
+      "type": "true_false",
+      "chapter": "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ",
+      "chapter_id": 23,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ"
+      ]
+    },
+    {
+      "id": 92,
+      "question": "Thời gian tác dụng kéo dài.",
+      "type": "true_false",
+      "chapter": "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ",
+      "chapter_id": 23,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử nhỏ"
+      ]
+    },
+    {
+      "id": 93,
+      "question": "Dẫn truyền theo một chiều.",
+      "type": "true_false",
+      "chapter": "Đặc điểm dẫn truyền xung động thần kinh trên sợi trục",
+      "chapter_id": 24,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử lớn: [<g>]\n\nĐược tổng hợp ở thân nơron.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nMỗi nơron chỉ tổng hợp và giải phóng một chất.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nTác dụng chủ yếu qua kênh ion.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nThời gian tác dụng kéo dài.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<g>] Đặc điểm dẫn truyền xung động thần kinh trên sợi trục"
+      ]
+    },
+    {
+      "id": 94,
+      "question": "Cường độ kích thích càng lớn thì biên độ càng lớn.",
+      "type": "true_false",
+      "chapter": "Đặc điểm dẫn truyền xung động thần kinh trên sợi trục",
+      "chapter_id": 24,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử lớn: [<g>]\n\nĐược tổng hợp ở thân nơron.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nMỗi nơron chỉ tổng hợp và giải phóng một chất.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nTác dụng chủ yếu qua kênh ion.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nThời gian tác dụng kéo dài.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<g>] Đặc điểm dẫn truyền xung động thần kinh trên sợi trục"
+      ]
+    },
+    {
+      "id": 95,
+      "question": "Điện thế hoạt động trên sợi có myelin được dẫn truyền nhảy cóc.",
+      "type": "true_false",
+      "chapter": "Đặc điểm dẫn truyền xung động thần kinh trên sợi trục",
+      "chapter_id": 24,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử lớn: [<g>]\n\nĐược tổng hợp ở thân nơron.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nMỗi nơron chỉ tổng hợp và giải phóng một chất.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nTác dụng chủ yếu qua kênh ion.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nThời gian tác dụng kéo dài.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<g>] Đặc điểm dẫn truyền xung động thần kinh trên sợi trục"
+      ]
+    },
+    {
+      "id": 96,
+      "question": "Trong một bó sợi trục xung động chỉ được dẫn truyền theo chiều dọc, không lan sang sợi lân cận.",
+      "type": "true_false",
+      "chapter": "Đặc điểm dẫn truyền xung động thần kinh trên sợi trục",
+      "chapter_id": 24,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Đặc điểm của chất truyền đạt thần kinh có trọng lượng phân tử lớn: [<g>]\n\nĐược tổng hợp ở thân nơron.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nMỗi nơron chỉ tổng hợp và giải phóng một chất.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nTác dụng chủ yếu qua kênh ion.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<br>]\n\nThời gian tác dụng kéo dài.\n\nA. Đúng\t\t\t\tB. Sai\n\n[<g>] Đặc điểm dẫn truyền xung động thần kinh trên sợi trục"
+      ]
+    },
+    {
+      "id": 97,
+      "question": "Ion Ca++ làm tăng dẫn truyền.",
+      "type": "true_false",
+      "chapter": "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap",
+      "chapter_id": 25,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap"
+      ]
+    },
+    {
+      "id": 98,
+      "question": "Ion Mg++ làm tăng dẫn truyền.",
+      "type": "true_false",
+      "chapter": "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap",
+      "chapter_id": 25,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap"
+      ]
+    },
+    {
+      "id": 99,
+      "question": "Nhiễm toan làm tăng dẫn truyền.",
+      "type": "true_false",
+      "chapter": "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap",
+      "chapter_id": 25,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap"
+      ]
+    },
+    {
+      "id": 100,
+      "question": "Cafein làm tăng tính hưng phấn do làm giảm ngưỡng kích thích.",
+      "type": "true_false",
+      "chapter": "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap",
+      "chapter_id": 25,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Các yếu tố ảnh hưởng đễn dẫn truyền ở synap"
+      ]
+    },
+    {
+      "id": 101,
+      "question": "Giảm hoạt động của bơm Na+–K+.",
+      "type": "true_false",
+      "chapter": "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron",
+      "chapter_id": 26,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron"
+      ]
+    },
+    {
+      "id": 102,
+      "question": "Điện thế màng bớt âm hơn.",
+      "type": "true_false",
+      "chapter": "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron",
+      "chapter_id": 26,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron"
+      ]
+    },
+    {
+      "id": 103,
+      "question": "Màng tế bào dễ bị kích thích hơn.",
+      "type": "true_false",
+      "chapter": "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron",
+      "chapter_id": 26,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron"
+      ]
+    },
+    {
+      "id": 104,
+      "question": "Tăng tính thấm của màng với ion K+.",
+      "type": "true_false",
+      "chapter": "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron",
+      "chapter_id": 26,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Nồng độ ion K+ dịch ngoại bào tăng ảnh hưởng đến nơron"
+      ]
+    },
+    {
+      "id": 105,
+      "question": "Là kết quả của cân bằng Donnan.",
+      "type": "true_false",
+      "chapter": "Chênh lệch nồng độ ion Na+ qua màng nơron",
+      "chapter_id": 27,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "**C**hênh lệch nồng độ ion Na+ qua màng nơron"
+      ]
+    },
+    {
+      "id": 106,
+      "question": "Được duy trì bởi bơm trao đổi Na+/Ca2+.",
+      "type": "true_false",
+      "chapter": "Chênh lệch nồng độ ion Na+ qua màng nơron",
+      "chapter_id": 27,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "**C**hênh lệch nồng độ ion Na+ qua màng nơron"
+      ]
+    },
+    {
+      "id": 107,
+      "question": "Yếu tố tiên quyết cho điện thế nghỉ của màng.",
+      "type": "true_false",
+      "chapter": "Chênh lệch nồng độ ion Na+ qua màng nơron",
+      "chapter_id": 27,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "**C**hênh lệch nồng độ ion Na+ qua màng nơron"
+      ]
+    },
+    {
+      "id": 108,
+      "question": "Là nguồn cung cấp năng ượng để vận chuyển các ion khác.",
+      "type": "true_false",
+      "chapter": "Chênh lệch nồng độ ion Na+ qua màng nơron",
+      "chapter_id": 27,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "**C**hênh lệch nồng độ ion Na+ qua màng nơron"
+      ]
+    },
+    {
+      "id": 109,
+      "question": "Sợi C dẫn truyền nhanh hơn sợi A.",
+      "type": "true_false",
+      "chapter": "Gây tê tại chỗ, cảm giác mất trước vận động là do",
+      "chapter_id": 28,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Gây tê tại chỗ, cảm giác mất trước vận động là do"
+      ]
+    },
+    {
+      "id": 110,
+      "question": "Sợi Aα có kích thước nhỏ hơn sợi C.",
+      "type": "true_false",
+      "chapter": "Gây tê tại chỗ, cảm giác mất trước vận động là do",
+      "chapter_id": 28,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Gây tê tại chỗ, cảm giác mất trước vận động là do"
+      ]
+    },
+    {
+      "id": 111,
+      "question": "Sợi C có kích thước lớn hơn sợi Aγ.",
+      "type": "true_false",
+      "chapter": "Gây tê tại chỗ, cảm giác mất trước vận động là do",
+      "chapter_id": 28,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Gây tê tại chỗ, cảm giác mất trước vận động là do"
+      ]
+    },
+    {
+      "id": 112,
+      "question": "Sợi C kích thước nhỏ và không có vỏ myelin.",
+      "type": "true_false",
+      "chapter": "Gây tê tại chỗ, cảm giác mất trước vận động là do",
+      "chapter_id": 28,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Gây tê tại chỗ, cảm giác mất trước vận động là do"
+      ]
+    },
+    {
+      "id": 113,
+      "question": "tăng lượng acetylcholin được giải phóng từ tận cùng thần kinh vận động.",
+      "type": "true_false",
+      "chapter": "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm",
+      "chapter_id": 29,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm"
+      ]
+    },
+    {
+      "id": 114,
+      "question": "tăng lượng acetylcholin ở tấm vận động thần kinh – cơ.",
+      "type": "true_false",
+      "chapter": "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm",
+      "chapter_id": 29,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm"
+      ]
+    },
+    {
+      "id": 115,
+      "question": "tăngtổng hợp noradrenalin ở nơron vận động.",
+      "type": "true_false",
+      "chapter": "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm",
+      "chapter_id": 29,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm"
+      ]
+    },
+    {
+      "id": 116,
+      "question": "tăng giải phóng noradrenalin từ các tận cùng thần kinh vận động.",
+      "type": "true_false",
+      "chapter": "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm",
+      "chapter_id": 29,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Sử dụng thuốc ức chế acetyl-cholinesterase trong điều trị nhược cơ làm"
+      ]
+    },
+    {
+      "id": 117,
+      "question": "tăng lên khi kích thích bơm Na+-K+-ATPase.",
+      "type": "true_false",
+      "chapter": "Dẫn truyền điện thế hoạt động trên sợi thần kinh",
+      "chapter_id": 30,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Dẫn truyền điện thế hoạt động trên sợi thần kinh"
+      ]
+    },
+    {
+      "id": 118,
+      "question": "tăng lên khi đường kính sợi thần kinh tăng.",
+      "type": "true_false",
+      "chapter": "Dẫn truyền điện thế hoạt động trên sợi thần kinh",
+      "chapter_id": 30,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Dẫn truyền điện thế hoạt động trên sợi thần kinh"
+      ]
+    },
+    {
+      "id": 119,
+      "question": "tăng lên khi sợi thần kinh được myelin hóa.",
+      "type": "true_false",
+      "chapter": "Dẫn truyền điện thế hoạt động trên sợi thần kinh",
+      "chapter_id": 30,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Dẫn truyền điện thế hoạt động trên sợi thần kinh"
+      ]
+    },
+    {
+      "id": 120,
+      "question": "tăng lên khi sợi thần kinh được kéo thẳng.",
+      "type": "true_false",
+      "chapter": "Dẫn truyền điện thế hoạt động trên sợi thần kinh",
+      "chapter_id": 30,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Dẫn truyền điện thế hoạt động trên sợi thần kinh"
+      ]
+    },
+    {
+      "id": 121,
+      "question": "màng sau synap bị khử cực do mở kênh Na+.",
+      "type": "true_false",
+      "chapter": "Điện thế ức chế sau synap xuất hiện khi",
+      "chapter_id": 31,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Điện thế ức chế sau synap xuất hiện khi"
+      ]
+    },
+    {
+      "id": 122,
+      "question": "màng sau synap bị ưu phân cực do mở kênh K+.",
+      "type": "true_false",
+      "chapter": "Điện thế ức chế sau synap xuất hiện khi",
+      "chapter_id": 31,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Điện thế ức chế sau synap xuất hiện khi"
+      ]
+    },
+    {
+      "id": 123,
+      "question": "màng sau synap bị ưu phân cực do mở kênh Ca2+.",
+      "type": "true_false",
+      "chapter": "Điện thế ức chế sau synap xuất hiện khi",
+      "chapter_id": 31,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Điện thế ức chế sau synap xuất hiện khi"
+      ]
+    },
+    {
+      "id": 124,
+      "question": "màng sau synap bị ưu phân cực do mở kênh Cl-.",
+      "type": "true_false",
+      "chapter": "Điện thế ức chế sau synap xuất hiện khi",
+      "chapter_id": 31,
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Điện thế ức chế sau synap xuất hiện khi"
+      ]
+    },
+    {
+      "id": 125,
+      "question": "Hệ thần kinh của người:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Hoàn thiện từ lúc mới sinh ra",
+        "B": "Hoàn thiện sau 3 tuổi đời",
+        "C": "Hoàn thiện dần theo kinh nghiệm cuộc sống",
+        "D": "Hoàn thiện vào tháng thứ 7 trong phát triển bào thai"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 126,
+      "question": "[<br>]\n\nNơron có các thành phần:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Thân, sợi trục, đuôi gai",
+        "B": "Thân, sợi trục, đuôi gai, synap",
+        "C": "Thân, sợi trục, cúc tận cùng, đuôi gai",
+        "D": "Thân, sợi trục, cúc tận cùng, đuôi gai, synap."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 127,
+      "question": "[<br>]\n\nSợi trục có các thành phần sau, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Xơ thần kinh",
+        "B": "**Ribosom",
+        "C": "Lưới nội bào trơn",
+        "D": "Ty thể"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 128,
+      "question": "[<br>]\n\nNgười ta phân loại các sợi thần kinh theo",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tốc độ dẫn truyền",
+        "B": "Chiều dài của sợi",
+        "C": "Hướng đi của sợi",
+        "D": "Số lượng các synap ở chuỗi sợi trục của bó"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 129,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh được tổng hợp ở:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Thân nơron và cúc tận cùng",
+        "B": "Thân nơron và sợi trục",
+        "C": "Sợi trục và cúc tận cùng",
+        "D": "Cúc tận cùng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 130,
+      "question": "[<br>]\n\nThành phần chính có trong cúc tận cùng:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Các bọc nhỏ chứa enzym và ty thể sản xuất ATP",
+        "B": "Các bọc nhỏ chứa enzym, chất truyền đạt thần kinh và ty thể",
+        "C": "**Các bọc nhỏ chứa chất truyền đạt thần kinh",
+        "D": "Các bọc nhỏ chứa chất truyền đạt thần kinh và ty thể"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 131,
+      "question": "[<br>]\n\nSynap là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Một đơn vị giải phẫu - chỗ tiếp nối giữa tận cùng sợi trục của một nơron với một tế bào khác",
+        "B": "Một đơn vị giải phẫu - chỗ tiếp nối giữa tận cùng sợi trục của một nơron với một tế bào thần kinh khác",
+        "C": "Một đơn vị chức năng - chỗ tiếp nối giữa tận cùng sợi trục của một nơron với một nơron khác hoặc một tế bào đáp ứng",
+        "D": "**Một đơn vị giải phẫu - chức năng - chỗ tiếp nối giữa tận cùng sợi trục của một nơron với một nơron khác hoặc một tế bào đáp ứng"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 132,
+      "question": "[<br>]\n\nCơ chế gây co cơ",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tăng Ca nội bào",
+        "B": "Giảm Ca nội bào",
+        "C": "Tăng ATP",
+        "D": "Giảm ATP"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 133,
+      "question": "[<br>]\t\n\nNơron có những đặc điểm hưng phấn sau đây, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nơron có tính hưng phấn cao, thể hiện ở ngưỡng kích thích cao",
+        "B": "Thời gian trơ của nơron ngắn, thể hiện hoạt tính chức năng cao",
+        "C": "Nhu cầu năng lượng của nơron cao khi hưng phấn",
+        "D": "Nhu cầu tiêu thụ oxy khi hưng phấn của nơron cao"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 134,
+      "question": "[<br>]\n\nChênh lệch nồng độ các ion ở trong và ngoài màng nơron:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Ion Na+ ở bên ngoài thấp hơn bên trong",
+        "B": "Protein tích điện (-) ở bên trong cao hơn bên ngoài",
+        "C": "Ion K+ ở bên ngoài cao hơn bên trong",
+        "D": "Nồng độ ion Cl- ở bên trong cao hơn bên ngoài"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 135,
+      "question": "[<br>]\n\nNguyên nhân chủ yếu tạo ra điện thế nghỉ là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Chênh lệch nồng độ các ion trong và ngoài màng",
+        "B": "Protein mang điện  tích âm ở trong màng",
+        "C": "Tính thấm lúc nghỉ của ion K+ và Na+ khác nhau",
+        "D": "Bơm Na+- K+- ATPase"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 136,
+      "question": "[<br>]\n\nMỗi nơron có thể tiếp nhận rất nhiều kích thích từ các nơron trước nó. Các kích thích này từ các nơron trước gây ra các tác dụng sau , **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cộng kích thích trong không gian",
+        "B": "Cộng kích thích theo thời gian",
+        "C": "Chỉ gây hưng phấn ở màng sau synap",
+        "D": "Cộng đại số các điện thế gây hưng phấn và ức  chế"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 137,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh có phân tử lớn là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Dopamin",
+        "B": "Glycin",
+        "C": "Neurotensin",
+        "D": "GABA"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 138,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh có phân tử nhỏ là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Bombesin",
+        "B": "Endorphin",
+        "C": "Chất P",
+        "D": "Serotonin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 139,
+      "question": "[<br>]\n\nGiai đoạn khử cực của điện thế hoạt động có các đặc điểm sau, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Ion Na+ ồ ạt vào trong màng",
+        "B": "Kênh kali chưa kịp mở",
+        "C": "Bên trong màng trở thành (+) so với mặt ngoài",
+        "D": "Mở kênh canxi loại L"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 140,
+      "question": "[<br>]\n\nTác dụng của chất truyền đạt thần kinh ức chế lên màng sau synap là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Làm mở các kênh natri",
+        "B": "Làm mở các kênh kali và tăng vận chuyển Cl- vào trong",
+        "C": "Hạn chế các kênh kali và kênh clo",
+        "D": "Làm đóng các kênh canxi"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 141,
+      "question": "[<br>]\n\nCác thành phần của một synap gồm có:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cúc tận cùng, khe synap, màng sau synap",
+        "B": "Các bọc nhỏ chứa chất dẫn truyền thần kinh, khe synap, màng sau synap",
+        "C": "Cúc tận cùng, khe synap, các phần tử cảm thb",
+        "D": "Màng trước synap (màng của cúc tận cùng), khe synap, màng sau synap"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 142,
+      "question": "[<br>]\n\nĐiện thế hoạt động sẽ xuất hiện ở nơron sau synap khi:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Chất dẫn truyền thần kinh kết hợp với phần tử cảm thụ ức chế ở     \n\nmàng sau synap, dẫn đến hiện tượng ưu phân cực màng",
+        "B": "**Chất dẫn truyền thần kinh gắn với phần tử cảm thụ kích thích ở màng sau synap dẫn đến khử cực màng sau synap",
+        "C": "Khi có hiện tượng ưu phân cực của màng sau synap",
+        "D": "Chất dẫn truyền thần kinh kết hợp với phần tử cảm thụ kích thích ở màng trước synap dẫn đến khử cực màng"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 143,
+      "question": "[<br>]\n\nTrong hệ thần kinh, xung động được dẫn truyền:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Một chiều trên sợi trục, hai chiều ở synap",
+        "B": "Hai chiều trên sợi trục, hai chiều ở synap",
+        "C": "Một chiều trên sợi trục, một chiều ở synap",
+        "D": "Hai chiều trên sợi trục, một chiều ở synap"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 144,
+      "question": "[<br>]\n\nNhững chất truyền đạt thần kinh chính của hệ thần kinh là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Acetylcholin, adrenalin, serotonin, GABA",
+        "B": "Acetylcholin, noradrenalin, serotonin, histamin",
+        "C": "Acetylcholin, noradrenalin, dopamin, glycin, GABA, glutamat",
+        "D": "Acetylcholin, noradrenalin, serotonin, GABA, histamin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 145,
+      "question": "[<br>]\n\nĐiện thế tổng là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tổng các điện thế kích thích và ức chế lên nơron trong một thời điểm",
+        "B": "Tổng các điện thế kích thích và ức chế lên nơron trong nhiều thời điểm liên tiếp",
+        "C": "Tổng các điện thế kích thích lên nơron trong một thời điểm",
+        "D": "Tổng các điện thế kích thích lên nơron trong nhiều thời điểm liên tiếp"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 146,
+      "question": "[<br>]\n\nỨc chế trước synap là do:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tăng mở kênh kali ở màng cúc tận cùng trước synap",
+        "B": "Tăng mở kênh clo ở màng cúc tận cùng trước synap",
+        "C": "Tăng mở kênh kali và kênh clo ở màng cúc tận cùng trước synap",
+        "D": "Giảm mở kênh canxi ở màng cúc tận cùng trước synap"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 147,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh gây kích thích ở màng sau synap là chất:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh kali hoặc/và kênh natri",
+        "B": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh natri hoặc/và kênh canxi",
+        "C": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh  kali hoặc/và kênh clo",
+        "D": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh kali hoặc/và kênh canxi"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 148,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh gây ức chế màng sau synap là chất:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh kali hoặc/và kênh natri",
+        "B": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh kali, hoặc/và đóng kênh natri",
+        "C": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh kali hoặc/và mở kênh clo, hoặc / và đóng kênh natri",
+        "D": "Khi gắn vào receptor đặc hiệu ở màng sau synap sẽ làm mở kênh kali hoặc/và mở kênh clo"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 149,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh phân tử nhỏ có các đặc điểm sau, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Được tổng hợp tại cúc tận cùng",
+        "B": "Thời gian tác dụng kéo dài",
+        "C": "Mỗi loại nơron chỉ giải phóng một chất truyền đạt",
+        "D": "Có thể được tái nhập và tái sử dụng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 150,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh phân tử lớn có các đặc điểm sau đây, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "**Được tổng hợp tại cúc tận cùng của nơron",
+        "B": "Thời gian tác dụng kéo dài",
+        "C": "Tác dụng lên cả kênh ion và enzym",
+        "D": "Một nơron có thể giải phóng một hoặc nhiều chất"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 151,
+      "question": "[<br>]\n\nCác yếu tố sau đây ảnh hưởng đến dẫn truyền xung động ở synap,**TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Ion Ca2+ làm các bọc dễ hoà màng với màng của cúc tận cùng",
+        "B": "pH kiềm của dịch kẽ làm tăng tính hưng phấn của nơron",
+        "C": "Thiếu oxy làm tăng tính hưng phấn của nơron",
+        "D": "Thuốc làm tăng ngưỡng kích thích của nơron"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 152,
+      "question": "[<br>]\n\nDẫn truyền điện thế hoạt động trên sợi trục có các đặc điểm sau, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Dẫn truyền theo hai hướng và chỉ dẫn truyền trên sợi còn nguyên vẹn",
+        "B": "Dẫn truyền theo chiều dọc của sợi không lan toả sang sợi bên cạnh trong một bó sợi trục",
+        "C": "Cường độ kích thích càng lớn thì tần số xung càng cao",
+        "D": "**Cường độ kích thích càng lớn thì biên độ xung càng cao"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 153,
+      "question": "[<br>]\n\nChất truyền đạt thần kinh gắn với receptor là enzym ở màng sau synap sẽ gây ra các tác dụng sau, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Hoạt hoá các phản ứng hoá học trong nơron",
+        "B": "Hoạt hoá hệ gen làm tăng tổng hợp receptor",
+        "C": "**Hoạt hoá trực tiếp các kênh làm kênh mở",
+        "D": "Hoạt hoá các protein kinase trong tế bào làm giảm tổng hợp receptor"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 154,
+      "question": "[<br>]\n\nDẫn truyền xung động qua synap theo một chiều vì:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Chất truyền đạt thần kinh phải được giải phóng vào khe synap, khuếch tán qua khe synap, gắn vào receptor ở màng sau synap để gây tác dụng kích thích hoặc ức chế ở màng sau synap",
+        "B": "Chất truyền đạt thần kinh phải được giải phóng vào khe synap và gắn với receptor đặc hiệu ở màng sau synap để gây tác dụng kích thích hoặc ức chế màng sau synap",
+        "C": "Chất truyền đạt thần kinh phải được giải phóng vào khe synap và gắn với receptor là protein kênh ở màng sau synap để gây tác dụng kích thích hoặc ức chế màng sau synap",
+        "D": "Chất truyền đạt thần kinh phải được giải phóng vào khe synap và gắn với receptor là protein enzym ở màng sau synap để gây tác dụng kích thích hoặc ức chế màng sau synap"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 155,
+      "question": "receptor:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Acetylcholin",
+        "B": "Gamma-aminobutyric acid (GABA)",
+        "C": "Glutamat",
+        "D": "Glycin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 156,
+      "question": "[<br>]\n\nCác cấu trúc giải phẫu dưới đây tham gia trực tiếp vào phản xạ duỗi, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Suốt cơ",
+        "B": "Nơron alpha",
+        "C": "Nơron liên hợp",
+        "D": "Nơron gamma"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 157,
+      "question": "[<br>]\n\nTác động dưới đây trực tiếp gây co ngắn cơ:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Hoạt hoá của sợi thần kinh cảm giác",
+        "B": "Hoạt hoá của nơron vận động alpha",
+        "C": "Hoạt hoá của nơron gamma",
+        "D": "Kéo dài sợi nội suốt"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 158,
+      "question": "[<br>]\n\nCon đường chung cuối cùng dẫn truyền tín hiệu điều khiển hệ thần kinh vận động nằm ở:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nhân nền tiểu não",
+        "B": "Vỏ não vận động sơ cấp",
+        "C": "Nền não",
+        "D": "Sừng trước tuỷ sống"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 159,
+      "question": "[<br>]\n\nCác cấu trúc dưới đây thuộc nhóm nhân nền não, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nhân đậu",
+        "B": "Chất đen (substantia nigra)",
+        "C": "Nhân đuôi",
+        "D": "Nhân bèo (globus pallidus)"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 160,
+      "question": "[<br>]\n\nCấu trúc giải phẫu giải phóng dopamin tại các receptor với nơron ở nhân đậu:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Đồi thị",
+        "B": "Nhân đuôi",
+        "C": "Chất đen",
+        "D": "Nhân bèo"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 161,
+      "question": "[<br>]\n\nPhản xạ duỗi chéo:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cung phản xạ gồm hai nơron",
+        "B": "Diễn ra sau khi bị kích thích đau 2-3 phút",
+        "C": "Kích thích hai nhóm cơ duỗi ở hai bên cơ thể",
+        "D": "Kích thích hai nhóm cơ đối lập ở hai bên cơ thể"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 162,
+      "question": "[<br>]\n\nPhản xạ tuỷ:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Phản xạ gân có receptor là suốt cơ",
+        "B": "Phản xạ căng cơ tĩnh được dẫn truyền bằng sợi Ia",
+        "C": "Phản xạ căng cơ động được dẫn truyền bằng sợi Ib",
+        "D": "Choáng tuỷ là do mất đột ngột tín hiệu thần kinh từ trung tâm ở cao hơn đến tuỷ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 163,
+      "question": "[<br>]\n\nPhản xạ đơn synap làm hưng phấn chính nhóm cơ bị kích thích là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Phản xạ căng cơ",
+        "B": "Phản xạ gân",
+        "C": "Phản xạ rút lui",
+        "D": "Phản xạ duỗi chéo"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 164,
+      "question": "Hệ thống kiểm soát vận động có vai trò là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Hệ thống điều khiển",
+        "B": "Phân biệt tín hiệu",
+        "C": "Cơ quan nhận biết",
+        "D": "Cơ quan đáp ứng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 165,
+      "question": "[<br>]\n\nCác yếu tố dưới đây đều trực tiếp tham gia vào phản xạ duỗi, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Suốt cơ",
+        "B": "Nơron vận động alpha",
+        "C": "Nơron vận động gamma",
+        "D": "Thần kinh cảm giác"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 166,
+      "question": "[<br>]\n\nĐặc tính sau đây của thể Golgi không phải của suốt cơ:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tín hiệu cảm giác được truyền theo sợi Ia",
+        "B": "Receptor là sợi chuỗi nhân và sợi túi nhân",
+        "C": "Điện thế hoạt động xuất hiện khi cơ bị kéo dài ra",
+        "D": "Điện thế hoạt động xuất hiện khi sợi ngoại suốt co"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 167,
+      "question": "[<br>]\n\nNguyên nhân được cho là gây ra các triệu chứng của bệnh Parkinson:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Mất receptor GABA ở vùng vỏ não thái dương",
+        "B": "Tổn thương nhóm nơron vùng dưới đồi do tổn thương mạch máu",
+        "C": "Thoái hoá nơron tiết dopamin ở vùng chất đen (substantia nigra)",
+        "D": "Yếu tố miễn dịch kháng receptor củaacetylcholin ở khớp thần kinh cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 168,
+      "question": "[<br>]\n\nCác đáp ứng dưới đây đều thuộc phản xạ rút lui, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Co cơ gấp cùng bên",
+        "B": "Ức chế cơ gấp cùng bên",
+        "C": "Co cơ duỗi cùng bên",
+        "D": "Ức chế cơ gấp đối bên"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 169,
+      "question": "[<br>]\n\nVùng tiểu não có vai trò duy trì thăng bằng và tư thế:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Thuỳ nhộng",
+        "B": "Thuỳ nhung",
+        "C": "Vùng bên thuỳ sau",
+        "D": "Vùng giữa thuỳ trước"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 170,
+      "question": "[<br>]\n\nGiảm phản xạ cùng bên, liệt vận động một số nhóm cơ và giảm trương lực cơ là những biểu hiện tổn thương của:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tiểu não",
+        "B": "Nhân nền não",
+        "C": "Nhóm nơron vận động phần thấp (nơron vận động ở tủy sống và nhân dây thần kinh sọ)",
+        "D": "Nhóm nơron vận động trên cao (vùng vỏ não vận động và thân não)"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 171,
+      "question": "[<br>]\n\nLiệt nửa người đối bên, teo cơ, tăng trương lực cơ, tăng phản xạ gân xương, phản xạ Babinski (+) là những biểu hiện tổn thương của:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nhóm nơron vận động trên cao (vỏ não vận động và thân não)",
+        "B": "Nhân vận động ở thân não",
+        "C": "Nhóm nơron vận động vùng thấp (nơron vận động sừng trước tủy sống và nhân dây thần kinh sọ)",
+        "D": "Tiểu não"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 172,
+      "question": "[<br>]\n\nNhóm nơron có vai trò quan trọng tạo động tác đi bộ nằm ở:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nhân đậu",
+        "B": "Tiểu não",
+        "C": "Vỏ não vận động",
+        "D": "Tuỷ sống"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 173,
+      "question": "[<br>]\n\nVai trò của bó tháp:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Con đường dẫn truyền tín hiệu cảm giác và vận động",
+        "B": "Con đường dẫn truyền tín hiệu vận động tùy ý",
+        "C": "Kiểm soát vận động và cảm giác nửa người đối bên",
+        "D": "Tham gia điều hoà trương lực cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 174,
+      "question": "[<br>]\n\nChức năng vận động của nhóm nhân nền não là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tích hợp tín hiệu cảm giác",
+        "B": "Hình thành trí nhớ ngắn hạn",
+        "C": "Lập kế hoạch giúp thực hiện các vận động tùy ý",
+        "D": "Kiểm soát bài tiết hormon"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 175,
+      "question": "[<br>]\n\nTrước khi thực hiện động tác vận động khéo léo, hoạt tính nơron tăng lên ở vùng:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nơron vận động tuỷ sống",
+        "B": "Vỏ não vận động trước rãnh trung tâm",
+        "C": "Vỏ não liên hợp",
+        "D": "Tiểu não"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 176,
+      "question": "[<br>]\n\nỞ thân não có:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Trung tâm hô hấp, tim mạch và điều hoà trương lực cơ",
+        "B": "Trung tâm hô hấp, tim mạch và thần kinh giao cảm",
+        "C": "Trung tâm thần kinh giao cảm và phó giao cảm",
+        "D": "Trung tâm hô hấp, tim mạch và thần kinh phó giao cảm"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 177,
+      "question": "[<br>]\n\nChức năng của mạch nơron ở nhân đậu:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Thực hiện động tác khéo léo như ném bóng vào rổ, dùng kéo",
+        "B": "Hình thành cảm xúc",
+        "C": "Hình thành trí nhớ ngắn hạn",
+        "D": "Kiểm soát bài tiết hormon"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 178,
+      "question": "[<br>]\n\nTăng trương lực cơ trong duỗi cứng mất não có thể giảm nếu:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Kích thích nhóm sợi Ia",
+        "B": "Cắt đứt rễ sau dây thần kinh sống",
+        "C": "Kích thích noron vận động alpha",
+        "D": "Kích thích nơron vận động gamma"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 179,
+      "question": "[<br>]\n\nPhần cơ thể có diện tích xuất chiếu lớn nhất ở vùng vỏ não vận động sơ cấp (vùng 4 theo Brodman)",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Vai",
+        "B": "Ngón tay",
+        "C": "Đầu gối",
+        "D": "Khuỷu tay"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 180,
+      "question": "[<br>]\n\nMất khả năng thực hiện động liên vận nhanh là do tổn thương:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Vùng tiền vận động",
+        "B": "Vùng vận động",
+        "C": "Tiểu não",
+        "D": "Hành não"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 181,
+      "question": "[<br>]\n\nCắt ngang tuỷ sống ở đoạn đốt tủy ngực 1 (T1) gây ra biểu hiện:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Mất tạm thời phản xạ duỗi phía dưới tổn thương",
+        "B": "Mất vĩnh viễn kiểm soát vận động tùy ý phía dưới vùng tổn thương",
+        "C": "Mất tạm thời cảm giác bên dưới vùng tổn thương",
+        "D": "Mất vĩnh viễn cảm giác phần cơ thể phía trên tổn thương"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 182,
+      "question": "[<br>]\n\nCấu trúc thần kinh có chức năng điều phối tốc độ, khoảng cách, lực và hướng di chuyển khi thực hiện động tác là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Vỏ não vận động sơ cấp",
+        "B": "Vùng tiền vận động và vận động bổ sung",
+        "C": "Nhóm nhân nền não",
+        "D": "Tiểu não"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 183,
+      "question": "[<br>]\n\nPhản xạ đa synap và gây hưng phấn cơ duỗi đối bên là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Phản xạ duỗi",
+        "B": "Phản xạ gân",
+        "C": "Phản xạ rút lui",
+        "D": "Phản xạ đầu gối"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 184,
+      "question": "[<br>]\n\nSợi túi nhân có đặc điểm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Là một dạng của sợi ngoại suốt",
+        "B": "Nhận biết sự thay đổi động (đột ngột) chiều dài cơ",
+        "C": "Truyền tín hiệu về tuỷ theo sợi Ib",
+        "D": "Hoạt hoá bởi nơron vận động alpha"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 185,
+      "question": "[<br>]\n\nCăng cơ sẽ trực tiếp làm tăng tần số xung động thần kinh của:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Nơron vận động alpha",
+        "B": "Nơron vận động gamma",
+        "C": "Sợi nhóm Ia",
+        "D": "Sợi nhóm Ib"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 186,
+      "question": "[<br>]\n\nCác đặc điểm sau đây không đúng đối với phản xạ đầu gối, **TRỪ:**",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Kích thích sợi Ib ở suốt cơ",
+        "B": "Ức chế sợi Ia ở suốt cơ",
+        "C": "Duỗi cơ tứ đầu đùi",
+        "D": "Co cơ tứ đầu đùi"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 187,
+      "question": "[<br>]\n\nTuỷ sống có chức năng:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Dẫn truyền cảm giác, vận động và là trung tâm của mọi phản xạ",
+        "B": "Dẫn truyền cảm giác, vận động và là trung tâm của phản xạ trương lực cơ, phản xạ gân, phản xạ da, phản xạ thực vật",
+        "C": "Dẫn truyền cảm giác và là trung tâm dưới vỏ của cảm giác đau",
+        "D": "Dẫn truyền cảm giác, vận động và là trung tâm của nhiều phản xạ có tính sinh mạng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 188,
+      "question": "[<br>]\n\nTình trạng duỗi cứng mất não sẽ xảy ra nếu:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cắt ngang não của một con vật ở phía trên nhân đỏ, dưới nhân tiền đình",
+        "B": "Cắt ngang não của một con vật ở phía dưới nhân đỏ, dưới nhân tiền đình",
+        "C": "Cắt ngang não của một con vật ở phía dưới nhân tiền đình, trên nhân đỏ",
+        "D": "Cắt ngang não của một con vật ở phía dưới nhân đỏ, trên nhân tiền đình"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 189,
+      "question": "[<br>]\n\nTác dụng ức chế truyền xuống, tăng cường truyền xuống, tăng cường truyền lên và tham \n\ngia vào sự hình thành hành vi, thái độ xử trí trên con vật là những chức năng của:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tuỷ sống và vỏ não",
+        "B": "Vùng dưới đồi và vỏ não",
+        "C": "Não giữa và vỏ não",
+        "D": "Cấu tạo lưới thuộc hành cầu não trước, hành cầu não giữa và thân não"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 190,
+      "question": "[<br>]\n\nHành não có vai trò sinh mệnh là do có:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Chức năng dẫn truyền vận động và cảm giác",
+        "B": "Trung tâm điều hoà hô hấp và tim mạch",
+        "C": "Nhiều nhân của các dây thần kinh sọ và cấu tạo lưới",
+        "D": "Nhân nước bọt, nhân tiền đình và bắt chéo của bó tháp"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 191,
+      "question": "[<br>]\n\nChức năng của tiểu não gồm",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Giữ thăng bằng, trung tâm vận động và điều hoà trương lực cơ",
+        "B": "Giữ thăng bằng, điều hoà trương lực cơ, phối hợp động tác tuỳ ý",
+        "C": "Giữ thăng bằng, điều hoà phối hợp động tác tuỳ ý và không tuỳ ý, điều hoà trương lực cơ",
+        "D": "Giữ thăng bằng, điều hoà phối hợp động tác tuỳ ý và không tuỳ ý"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 192,
+      "question": "[<br>]\n\nCo cơ xương có đặc điểm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Giải phóng acetylcholin ở synap thần kinh cơ và tạo ra điện thế hoạt động ở tấm vận động",
+        "B": "Acetylcholin được giải phóng vào khe sy náp thần kinh cơ và gắn với receptor nitotinic ở màng sau synap",
+        "C": "Cơ xương khử cực là do dòng ion Ca2+ đi vào qua kênh canxi đóng mở theo điện thế",
+        "D": "Sự khử cực của sợi cơ không cần thiết cho việc co cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 193,
+      "question": "[<br>]\n\nCo cơ xương:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tất cả các tế bào cơ vân đều có khả năng điều hoà sự co cơ",
+        "B": "Lực co cơ liên quan với mức độ phosphoryl hoá của sợi myosin",
+        "C": "Lực co cơ tăng do huy động nhiều đơn vị vận động tham gia",
+        "D": "Các tế bào cơ có khả năng oxy hoá cao do có nhiều ty thể và myoglobin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 194,
+      "question": "[<br>]\n\nĐiện thế hoạt động của cơ xương",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Giai đoạn khử cực kéo dài",
+        "B": "Lan truyền đến tất cả các phần của cơ qua hệ thống ống T",
+        "C": "Khử cực kéo dài hơn so với cơ tim",
+        "D": "Lan truyền đến các phần của cơ thông qua synap điện"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 195,
+      "question": "Co cơ tim",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Acetylcholin được giải phóng ở synap thần kinh cơ tạo ra điện thế hoạt động ở màng sau synap",
+        "B": "Acetylcholin được giải phóng ở synap thần kinh cơ làm mở kênh canxi đưa ion Ca2+ từ ngoài vào trong tế bào gây co cơ tim",
+        "C": "Norepinephrin hoạt hoá receptor adrenergic làm tăng lực co cơ",
+        "D": "Acetylcholin được giải phóng ở synap thần kinh cơ và gắn với receptor nicotinic ở màng sau synap"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 196,
+      "question": "[<br>]\n\nCo cơ tim có đặc điểm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Các tế bào cơ tim có khả năng co theo nhịp riêng",
+        "B": "Lực co phụ thuộc vào quá trình phosphoryl hoá của các protein trong tế bào",
+        "C": "Lực co tăng lên do huy động nhiều đơn vị vận động",
+        "D": "Tất cả các tế bào có khả năng oxy hoá cao do có nhiều ty thể và myoglobin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 197,
+      "question": "[<br>]\n\nCo cơ tim:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Hiện tượng co cứng cơ xảy ra do các tế bào cơ không đáp ứng với kích thích trong khoảng thời gian gần 1 giây.",
+        "B": "Lực co thay đổi khi tần số hưng phấn của sợi thần kinh vận động thay đổi",
+        "C": "Hiện tượng co cơ chỉ xảy ra khi lực co cơ tăng lên",
+        "D": "Hiện tượng co cứng không xảy ra do sợi cơ không đáp ứng với kích thích khi cơ đang co"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 198,
+      "question": "[<br>]\n\nCo cơ trơn có đặc điểm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Acetylcholin được giải phóng vào khe synap thần kinh cơ",
+        "B": "Acetylcholin được giải phóng gắn với receptor nicotinic ở màng sau synap",
+        "C": "Sự khử cực của sợi cơ không cần thiết cho quá trình co cơ",
+        "D": "Noradrenalin hoạt hoá receptor adrenergic và làm tăng lực co của cơ trơn"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 199,
+      "question": "[<br>]\n\n Co cơ trơn:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tất cả các tế bào cơ trơn đều có khả năng điều hoà sự co cơ",
+        "B": "Lực co cơ liên quan với mức độ phosphoryl hoá của sợi myosin",
+        "C": "Lực co cơ tăng lên khi tăng huy động số lượng đơn vị co cơ",
+        "D": "Khả năng phân giải ATP của sợi myosin của tế bào cơ cao cho nên cơ có khả năng co nhanh"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 200,
+      "question": "[<br>]\n\nTơ cơ trượt lên nhau khi co cơ do:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Các tơ cơ bị ngắn lại",
+        "B": "Hoạt động theo chu kỳ của cầu nối giữa sợi myosin và actin làm ngắn sợi cơ",
+        "C": "Ion Ca2+ gắn với phân tử myosin",
+        "D": "Ion Ca2+ gắn vào phân tử actin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 201,
+      "question": "[<br>]\n\nĐặc tính vận động quan trọng nhất của một đơn vị co cơ chức năng (sarcomere) ở cơ vân:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Chiều dài của tất cả các sợi myosin tương đương nhau",
+        "B": "Chiều dài của tất cả các sợi actin tương đương nhau",
+        "C": "Chồng lên nhau của 2 sợi actin và myosin",
+        "D": "Sự xuất hiện của vạch M"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 202,
+      "question": "[<br>]\n\nVận tốc co cơ",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cơ trơn co nhanh hơn cơ tim nhưng chậm hơn cơ vân",
+        "B": "Cơ tim co nhanh nhất trong 3 loại cơ",
+        "C": "Cơ vân co nhanh hơn cơ tim, cơ tim co nhanh hơn cơ trơn",
+        "D": "Cơ tim và cơ trơn co với tốc độ tương đương nhau, cơ vân có tốc độ co nhanh nhất"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 203,
+      "question": "[<br>]\n\nKích thích cơ xương liên tục có thể gây co cứng cơ (tetani) do ứ đọng trong dịch nội bào:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Ion Na+",
+        "B": "Ion Ca2+",
+        "C": "ATP",
+        "D": "Calmodulin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 204,
+      "question": "[<br>]\n\nCo cơ đẳng trương (isotonic) có đặc điểm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Không có hiện tượng trượt của tơ cơ",
+        "B": "Lực co không thay đổi khi chiều dài cơ ngắn lại",
+        "C": "Lực co tăng lên khi chiều dài cơ ngắn lại",
+        "D": "Sợi cơ càng ngắn lực co càng mạnh"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 205,
+      "question": "[<br>]\n\nKhi nâng tạ, hoạt động đòn bẩy của xương cánh tay làm cơ co nhằm mục đích:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tạo ra một lực lớn hơn sức nặng của vật",
+        "B": "Để di chuyển vật mặc dù chỉ tạo ra được lực nhỏ hơn so với sức nặng của vật",
+        "C": "Tạo ra một lực tương đương với sức nặng của vật",
+        "D": "Làm ngắn cơ với tốc độ nhanh hơn so với tốc độ di chuyển của vật nặng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 206,
+      "question": "[<br>]\n\nVai trò của hệ thống ống T trong việc làm hưng phấn gây co cơ vân là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Đường dẫn truyền điện thế hoạt động vào sợi cơ",
+        "B": "Nơi dự trữ ion Ca2+",
+        "C": "Kết nối 2 sarcomere liền kề",
+        "D": "Con đường để oxy khuếch tán vào vùng bên trong sợi cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 207,
+      "question": "[<br>]\n\nVai trò của ion Ca2+ đối với hiện tượng hoạt hóa ở cơ xương và cơ tim là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Làm khử cực màng tế bào sợi cơ",
+        "B": "Loại bỏ ức chế phản ứng gắn phân tử myosin với actin",
+        "C": "Hoạt hoá phân tử myosin để tương tác với tơ actin",
+        "D": "Cung cấp năng lượng cho quá trình co cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 208,
+      "question": "[<br>]\n\nVai trò của ion Ca2+ đối với hiện tượng hoạt hóa ở sợi cơ trơn là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khử cực màng tế bào",
+        "B": "Loại bỏ ức chế của phản ứng giữa phân tử actin với myosin",
+        "C": "Hoạt hoá phân tử myosin để tương tác với tơ actin",
+        "D": "Cung cấp năng lượng cho quá trình co cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 209,
+      "question": "[<br>]\n\nHiện tượng quan trọng nhất trong tế bào cả 3 loại cơ trong pha giãn là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tiêu thụ hết năng lượng có trong cơ",
+        "B": "Tín hiệu thần kinh khởi động quá trình giãn",
+        "C": "Làm giảm lượng ion Ca2+ ở nội bào",
+        "D": "Đưa ion Na+ vào trong sợi cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 210,
+      "question": "[<br>]\n\nNăng lượng tạo ra khi cơ co đẳng trương phụ thuộc vào:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Lực co cơ",
+        "B": "Tốc độ co ngắn của sợi cơ",
+        "C": "Sự phối hợp giữa lực co và tốc độ co",
+        "D": "Chỉ phụ thuộc lực co khi tốc độ co bằng không"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 211,
+      "question": "[<br>]\n\nVai trò của acetylcholin trong quá trình dẫn truyền ở synap thần kinh cơ:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khử cực màng tế bào thần kinh trước synap",
+        "B": "Ngăn sự khử cực của màng tế bào cơ",
+        "C": "Khử cực màng sau synap của tế bào cơ (tấm vận động)",
+        "D": "Ức chế enzym acetylcholinesterase"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 212,
+      "question": "[<br>]\n\nThuốc curare phong bế dẫn truyền qua synap thần kinh cơ do:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Bất hoạt enzym hoạt hoá acetylcholin",
+        "B": "Ức chế giải phóng acetylcholin từ màng trước synap",
+        "C": "Kéo dài thời gian mở kênh ở màng sau synap gây hiện tượng khử cực kéo dài",
+        "D": "Cạnh tranh với acetylcholin để gắn với receptor của acetylcholin ở màng sau synap"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 213,
+      "question": "[<br>]\n\nChất hoá học cung cấp năng lượng trực tiếp cho quá trình co cơ là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Glycogen",
+        "B": "Glucose",
+        "C": "Oxygen",
+        "D": "Adenosin triphosphat"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 214,
+      "question": "[<br>]\n\nHiện tượng nợ oxy khi vận động (cơ xương):",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tạo ra nhiều acid lactic do chuyển hoá yếm khí",
+        "B": "Được bù lại bằng chuyển hoá yếm khí",
+        "C": "Xuất hiện khi cơ nghỉ ngơi",
+        "D": "Sẽ làm ngừng co cơ nếu máu không cung cấp đủ chất dinh dưỡng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 215,
+      "question": "[<br>]\n\nCơ xương khi được cung cấp đủ oxy:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Chủ yếu lấy năng lượng từ glucose, giảm tổng hợp ATP",
+        "B": "Quá trình tổng hợp ATP liên quan với sự tiêu thụ oxy",
+        "C": "Tạo ra lượng lớn acid lactic",
+        "D": "Ty thể không tham gia vào quá trình chuyển hoá"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 216,
+      "question": "[<br>]\n\nRun cơ sinh nhiệt cho cơ thể bằng cách:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Làm co mạch máu",
+        "B": "Làm co cơ không tạo ra động tác vận động và tiêu tốn năng lượng",
+        "C": "Làm kéo căng bề mặt cơ thể và giảm mất nhiệt",
+        "D": "Giúp cơ thể không có cảm giác lạnh"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 217,
+      "question": "[<br>]\n\nCơ xương, cơ trơn và cơ tim có đặc điểm chung sau đây:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cấu trúc tế bào là các sarcomere liên tiếp",
+        "B": "Tế bào cơ có kích thước trong tương quan kích thước với cơ quan được cấu thành",
+        "C": "Co cơ do tơ actin và myosin trượt lên nhau",
+        "D": "Ion Ca2+ gắn vào sợi actin khởi động quá trình co cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 218,
+      "question": "[<br>]\n\nKhi cơ co ngắn lại:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khoảng cách giữa hai vạch Z vẫn giữ nguyên",
+        "B": "Chiều rộng của dải I thay đổi",
+        "C": "Chiều rộng của dải A thay đổi",
+        "D": "Tất cả các khoảng cách bên trong giữa 2 cấu trúc liền kề nhau thay đổi theo tỷ lệ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 219,
+      "question": "[<br>]",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "TP có vai trò cung cấp năng lượng để gập cầu nối của phân tử myosin và cung cấp năng lượng để:\n\nA. Giãn cơ",
+        "B": "Tách cầu nối giữa sợi myosin và actin trong giai đoạn co cơ",
+        "C": "Tách tơ actin ra khỏi tơ myosin khi cơ ở trạng thái nghỉ",
+        "D": "Gắn ion Ca2+ vào các protein điều chỉnh"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 220,
+      "question": "[<br>]\n\nIon Ca2+ có vai trò trong kiểm soát co cơ xương bởi vì:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Ion Ca2+ gắn vào protein điều chỉnh ở sợi actin loại bỏ tác nhân ức chế sự trượt lên nhau của sợi actin và myosin",
+        "B": "Ion Ca2+ gắn vào protein điều chỉnh ở sợi myosin làm hoạt hoá hoạt tính enzym của phân tử myosin",
+        "C": "Ion Ca2+ có vai trò như là chất ức chế sự tương tác giữa sợi actin và myosin",
+        "D": "Nồng độ ion Ca2+ cao trên bề mặt tơ cơ có vai trò làm giãn cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 221,
+      "question": "[<br>]\n\nCơ xương giãn là do:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Giảm đột ngột lượng ATP cung cấp cho cầu nối",
+        "B": "Ion Ca2+ được bơm ra ngoài tế bào khi màng tế bào ở giai đoạn tái cực",
+        "C": "Tái hấp thu nhanh ion Ca2+ vào lưới nội cơ tương",
+        "D": "Lực bên ngoài tách rời sợi mosin ra khỏi sợi actin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 222,
+      "question": "[<br>]\n\nKhi sợi cơ xương bị kéo dài ra quá mức (chưa đến mức tổn thương), lực co giảm là do:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Các cầu nối tách xa nhau vì thế tơ cơ khó trượt lên nhau",
+        "B": "Giảm vùng khớp lên nhau giữa sợi myosin và actin vì thế làm giảm số lượng các cầu nối",
+        "C": "Cơ bị mỏng lại, thiết diện mặt cắt ngang của cơ giảm vì thế lực co cơ giảm",
+        "D": "Giảm lượng ion Ca2+ được giải phóng từ lưới nội cơ tương"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 223,
+      "question": "[<br>]\n\nIon Ca2+ khởi động quá trình co cơ xương chủ yếu là:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Ion Ca2+ đi từ bên ngoài vào qua màng sợi cơ khi điện thế hoạt động xuất hiện trên màng",
+        "B": "Ion Ca2+  được giải phóng nhanh từ các túi dự trữ nội bào vào hệ thống ống T",
+        "C": "Ion Ca2+  được giải phóng nhanh từ bể chứa mạng lưới nội cơ tương",
+        "D": "Ion Ca2+ được giải phóng gắn với protein trong tế bào sợi cơ"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 224,
+      "question": "[<br>]\n\nNồng độ ion Ca2+ tự do trong tế bào giảm ở giai đoạn cơ xương giãn có tác dụng:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khôi phục lại tình trạng ức chế hoạt động giữa hai sợi tơ cơ",
+        "B": "Bất hoạt hoạt tính enzym của phân tử actin",
+        "C": "Thay đổi cấu trúc hoá học làm giảm hoạt tính enzym của phân tử myosin",
+        "D": "Giảm co cơ bằng việc gắn ion Ca2+ vào vị trí hoạt hoá của phân tử myosin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 225,
+      "question": "[<br>]\n\nCo cơ lấy năng lượng trực tiếp từ:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Creatine phosphat",
+        "B": "Glucose",
+        "C": "ATP",
+        "D": "Acid béo tự do"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 226,
+      "question": "TP thì:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tơ cơ không thể trượt lên nhau và cơ giãn ra",
+        "B": "Sợi actin và myosin không thể tách rời nhau và cơ co cứng",
+        "C": "Lượng nhỏ creatin phosphat được huy động để cung cấp năng lượng cho co cơ",
+        "D": "Huy động ADP cung cấp năng lượng và co cơ ở mức độ thấp"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 227,
+      "question": "[<br>]\n\nCo cơ xương trong điều kiện thiếu oxy thì:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khả năng co mất nhanh cho đến khi oxy được cung cấp đủ trở lại",
+        "B": "Co bình thường do sử dụng các nguồn năng lượng từ chuyển hoá yếm khí",
+        "C": "Co bình thường bằng nguồn năng lượng từ ATP dự trữ",
+        "D": "Co chậm, lực co không thay đổi nhằm tiết kiệm năng lượng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 228,
+      "question": "[<br>]\n\nKhi hoạt động bơm ion Ca2+ ở mạng lưới nội cơ tương giảm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Cơ giãn ra rất nhanh vì thiếu ion Ca2+",
+        "B": "Cơ co chậm nhưng vẫn giãn bình thường",
+        "C": "Cơ tăng lực co nhưng giãn ra chậm",
+        "D": "Cơ không hoạt động"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 229,
+      "question": "[<br>]\n\nTrình tự thời gian chính xác cho các hiện tượng xảy ra tại các khớp nối thần kinh- cơ là ?",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Điện thế hoạt động trong sợi thần kinh vận động, sự khử cực của màng sau synap, hấp thu Ca2+ vào các cúc tận cùng thần kinh trước synap.",
+        "B": "Hấp thụ Ca2+ vào cúc tận cùng thần kinh trước synap, giải phóng Acetyl Cholin, sự khử cực của màng sau synap.",
+        "C": "Giải phóng Acetyl Cholin, điện thế hoạt động trong các thần kinh vận động, điện thế hoạt động trong các sợi cơ.",
+        "D": "Hấp thụ Ca2+ vào màng sau của synap, điện thế hoạt động xuất hiện ở màng sau synap, điện thế hoạt động trong các sợi cơ."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 230,
+      "question": "[<br>]\n\nNhững đặc điểm hoặc thành phần được tạo ra bởi cơ xương và cơ trơn ?\n\n- Các xơ dày và xơ mỏng được sắp xếp thành các sarcomeres.\n\n- Troponin.\n\n- Sự tăng cao nồng độ [Ca2+] nội bào dẫn đến cặp kích thích – co cơ .\n\n- Sự khử cực tự phát của điện thế màng.\n\n[<br>]\n\nCơ chế đòn bẩy trong động tác cơ nhị đầu cánh tay nhằm:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Giúp di chuyển được vật với lực nhỏ hơn trọng lượng của vật",
+        "B": "Giúp di chuyển được vật với lực lớn hơn trọng lượng của vật",
+        "C": "Giúp di chuyển vật với tốc độ nhanh hơn",
+        "D": "Giúp di chuyển vật dễ dàng"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 231,
+      "question": "[<br>]\n\nNhón chân là cơ chế đòn bẩy loại mấy",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "Không phải hiện tượng đòn bẩy"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 232,
+      "question": "[<br>]\t\n\nKhi căng cơ, thầnh phần nào bị kích thích nhiều nhất:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Gamma.",
+        "B": "Alpha.",
+        "C": "Sợi Ia.",
+        "D": "Sợi II."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 233,
+      "question": "[<br>]\t\n\nTriệu chứng của duỗi cứng mất não:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Giảm trương lực cơ liên tục.",
+        "B": "Duỗi cứng chi dưới, duỗi sấp chi trên.",
+        "C": "Duỗi chi dưới, co cứng chi trên.",
+        "D": "Tăng trương lực cơ cách quãng."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 234,
+      "question": "[<br>]\t\n\nĐiều nào gây nên sự cứng cơ tử thi (rigor) ở cơ vân?",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Không có điện thế hoạt động trên nơ ron vận động.",
+        "B": "Sự tăng nồng độ Ca2+ nội bào.",
+        "C": "Sự giảm giảm nồng độ Ca2+ nội bào.",
+        "D": "Sự giảm cung cấp ATP."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 235,
+      "question": "[<br>]\t\n\nTrong cơ xương, sự kiện nào được diễn ra trước khi sự khử cực ống T trong cơ chế của sự kích thích- co cơ?",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Sự khử cực của màng tb cơ.",
+        "B": "Sự mở của kênh giải phóng Ca2+ ở lưới nội cơ tương. (SR).",
+        "C": "Sự hấp thu Ca2+ vào trong SR bằng Ca2+ ATPase.",
+        "D": "Sự gắn Ca2+ vào troponin C."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 236,
+      "question": ".\n\nd. Seretonin.\n\n[<br>]\n\nSự thoái hóa của tế bào thần kinh dopaminergic liên quan trong?\n\na. Tâm thần phân liệt\n\nb. Bệnh Parkinson\n\nc.  Nhược cơ (myasthenia gravis)\n\nd.  Ngộ độc curare\n\n[<br>]\n\nTrình tự thời gian nào đúng trong cặp kích thích- co cơ ở cơ vân :",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Tăng [Ca2+] nội bào, điện thế hoạt động ở màng cơ, hình thành cầu nối chéo.",
+        "B": "Điện thế hoạt động ở màng cơ, khử cực của ống T, giải phóng Ca2+ từ lưới nội cơ tương (SR).",
+        "C": "Điện thế hoạt động ở màng cơ, sự phân giải adenosine triphosphate ( ATP), sự gắn Ca2+ vào troponin C.",
+        "D": "Giải phóng Ca2+ từ lưới nội cơ tương (SR), khử cực của ống T, sự gắn Ca2+ vào troponin C."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 237,
+      "question": "cetyl Cholin  tạo nên sự mở của:",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Kênh Na+ và khử cực hướng tới điện thế khuếch tán của Na+.",
+        "B": "Kênh K+ và khử cực hướng tới điện thế khuếch tán của K+.",
+        "C": "Kênh Ca2+ và khử cực hướng tới điện thế khuếch tán của Ca2+.",
+        "D": "Kênh Na+ và K+ và khử cực hướng tới mức trung bình cân bằng điện thế Na+ và K+."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 238,
+      "question": "[<br>]\n\nMột điện thế ức chế của màng sau synap",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Khử cực ở màng sau synap bằng việc mở kênh Na+.",
+        "B": "Khử cực ở màng sau synap bằng việc mở kênh K+.",
+        "C": "Ưu phân cực ở màng sau synap bằng việc mở kênh Ca2+.",
+        "D": "Ưu phân cực ở màng sau synap bằng việc mở kênh Cl-."
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 239,
+      "question": "[<br>]\n\nTốc độ dẫn truyền xung động của một dây thần kinh sẽ tăng lên bởi?",
+      "type": "multiple_choice",
+      "chapter": "Phần MCQ",
+      "chapter_id": 32,
+      "options": {
+        "A": "Sự kích thích bơm Na+ - K+.",
+        "B": "Sự ức chế bơm Na+ - K+.",
+        "C": "Sự giảm đường kính của dây thần kinh.",
+        "D": "Sự myelin hóa của dây thần kinh"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "MCQ"
+      ]
+    },
+    {
+      "id": 240,
+      "question": "Biểu hiện chậm chạp ở bệnh nhân Parkinson liên quan đến chất truyền đạt thần kinh:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Acetylcholin",
+        "B": "**Dopamin",
+        "C": "Glutamate",
+        "D": "opamin"
+      },
+      "correct_answer": "A",
+      "explanation": "Ông nông dân Nguyễn Văn B, 80 tuổi có biểu hiện yếu, mệt, tụt huyết áp tư thế, táo bón và rối loạn giấc ngủ được bác sỹ gia đình giải thích là do tuổi già và nên làm quen với nó. Càng ngày ông B. càng chậm chạp, ông không thể nhấc được bàn chân khi đi lại. Vợ ông đã gọi người con rể là bác sỹ thần kinh đến khám cho ông và chẩn đoán ông bị Parkinson. Biểu hiện chậm chạp ở bệnh nhân Parkinson liên quan đến chất truyền đạt thần kinh:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 241,
+      "question": "Chất nào sau đây có tác dụng điều trị chậm nhịp tim mà không ảnh hưởng đến tác dụng giãn cơ:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Acetylcholin",
+        "B": "Atropin",
+        "C": "Cura",
+        "D": "Epinephrin"
+      },
+      "correct_answer": "A",
+      "explanation": "Ông Nguyễn Văn C, 62 tuổi bị COPD được đưa đến phòng cấp cứu với biểu hiện suy hô hấp. Bác sỹ trực đã chỉ định dùng succinylcholin làm giãn cơ trước khi đặt nội khí quản. Ngay sau khi sử dụng succinylcholin, bệnh nhân có biểu hiện chậm nhịp tim. Chất nào sau đây có tác dụng điều trị chậm nhịp tim mà không ảnh hưởng đến tác dụng giãn cơ:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 242,
+      "question": "Rối loạn điện giải nào sau đây làm giảm biên độ điện thế hoạt động của tế bào thần kinh?.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Tăng nồng độ ion K+ máu",
+        "B": "Tăng nồng độ ion Na+ máu",
+        "C": "Hạ nồng độ ion K+ máu",
+        "D": "Hạ nồng độ ion Na+ máu"
+      },
+      "correct_answer": "A",
+      "explanation": "Anh Nguyễn Văn D., nhân viên cứu hỏa, bị bỏng rất nặng, có biểu hiện rối loạn nước và điện giải. Rối loạn điện giải nào sau đây làm giảm biên độ điện thế hoạt động của tế bào thần kinh?",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 243,
+      "question": "Thời gian điện thế hoạt động được kéo dài là do:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Lượng ion Na+ đi vào trong tế bào thần kinh tăng lên với mỗi điện thế hoạt động",
+        "B": "Thời gian giai đoạn trơ tăng",
+        "C": "Tăng tính thấm của màng với ion K+",
+        "D": "Điện thế màng dương hơn"
+      },
+      "correct_answer": "A",
+      "explanation": "Chị Lê Thị E., 19 tuổi có biểu hiện song thị, rối loạn cảm giác kiểu bỏng rát và đã được chẩn đoán là xơ cứng rải rác. Nhúng tay hoặc chân rối loạn cảm giác vào nước lạnh có thể hồi phục tốc độ dẫn truyền ở nhiều bệnh nhân xơ cứng rải rác do nhiệt độ lạnh làm kéo dài thời gian điện thế hoạt động. Thời gian điện thế hoạt động được kéo dài là do:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 244,
+      "question": "Điện thế nghỉ màng nơron sẽ thay đổi nhiều nhất nếu tính thấm của màng tăng với loại ion nào sau đây?.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Ion Cl-",
+        "B": "Ion K+",
+        "C": "l-",
+        "D": "Ion Cl- và ion K+"
+      },
+      "correct_answer": "A",
+      "explanation": "Chị Lê Thị R., 37 tuổi có biểu hiện đau đầu kiểu migrain kèm theo liệt nửa người. Kết quả xét nghiệm có thể kết luận nguyên nhân gây bệnh là do bất thường protein kênh ion, có tính di truyền. Điện thế nghỉ màng nơron sẽ thay đổi nhiều nhất nếu tính thấm của màng tăng với loại ion nào sau đây?",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 245,
+      "question": "Biểu hiện rối loạn thần kinh do thiếu vitamin B12 dẫn đến:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Giảm nồng độ acid folic",
+        "B": "**Giảm tổng hợp myelin",
+        "C": "Giảm hoạt động bơm Na+–K+",
+        "D": "Sản sinh kháng thể kháng thần kinh (ANA)"
+      },
+      "correct_answer": "B",
+      "explanation": "Ông Nguyễn Văn N, 65 tuổi đã được mổ cắt đoạn dạ dày đi khám chuyên khoa tiêu hóa vì gần đây thấy mệt mỏi, yếu chi dưới, hay ngã. Khám lâm sàng thấy tăng phản xạ gân, giảm cảm giác rung ở đầu các ngón chân. Kết quả xét nghiệm cho biết ông N. bị thiếu máu hồng cầu khổng lồ do thiếu vitamin B12. Biểu hiện rối loạn thần kinh do thiếu vitamin B12 dẫn đến:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 246,
+      "question": "Tác dụng của thuốc gây tê tại chỗ ngăn bất hoạt kênh Na+ sẽ làm giảm:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Tốc độ đi xuống trong pha tái cực điện thế hoạt động của nơron",
+        "B": "Thời gian điện thế hoạt động",
+        "C": "Thời gian trơ tương đối",
+        "D": "Tốc độ đi lên trong pha khử cực"
+      },
+      "correct_answer": "A",
+      "explanation": "Ông Lê Văn T, 52 tuổi đến phòng khám răng hàm mặt do xuất hiện ổ áp xe chân răng. Trước khi rạch ổ áp xe, bệnh nhân được trích procain. Tác dụng của thuốc gây tê tại chỗ ngăn bất hoạt kênh Na+ sẽ làm giảm:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 247,
+      "question": "Đặc điểm nào dưới đây của sợi trục phụ thuộc vào đường kính sợi trục?.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Biên độ của điện thế nghỉ",
+        "B": "iên độ của điện thế nghỉ",
+        "C": "Tốc độ dẫn truyền điện thế hoạt động",
+        "D": "Hiện tượng nẩy quá đà của điện thế hoạt động"
+      },
+      "correct_answer": "A",
+      "explanation": "Chị Đoàn Thị H,** **26 tuổi có biểu hiện yếu cơ một bên mặt. Chị cho biết mỗi khi cố gắng nhắm mắt thì mi trên của mắt bên mặt bị yếu cơ thường cuộn lên trên. Kết quả ghi điện cơ cho thấy tổn thương thoái hóa sợi trục. Đặc điểm nào dưới đây của sợi trục phụ thuộc vào đường kính sợi trục?",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 248,
+      "question": "Hoạt hóa receptor nào sau đây được cho là làm giảm lo lắng:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "GABAA",
+        "B": "AA",
+        "C": "Histamin",
+        "D": "Neurokinin 1 (NK-1, substance P)"
+      },
+      "correct_answer": "A",
+      "explanation": "Anh Nguyễn Văn A, 24 tuổi vừa tốt nghiệp trường Y có** **cảm giác lo lắng, bồn chồn, nhịp tim nhanh, thở nhanh khi lần đầu tiên bước vào phòng thi kiểm tra cấp phép hành nghề. Hoạt hóa receptor nào sau đây được cho là làm giảm lo lắng:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 249,
+      "question": "Ức chế trước synap ở hệ thần kinh trung ương ảnh hưởng đến tần số phát xung của nơron vận động α theo cơ chế nào dưới đây?.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Giảm tính thấm của màng nơron vận động α với ion K+",
+        "B": "Ưu phân cực màng nơron vận động α",
+        "C": "Tăng giải phóng chất truyền đạt thần kinh từ tận cùng sợi trục trước synap",
+        "D": "Tăng tính thấm của màng tận cùng sợi trục trước synap với ion Cl-"
+      },
+      "correct_answer": "A",
+      "explanation": "Cô Nh. 48 tuổi, được chẩn đoán mắc bệnh xơ cứng rải rác và tăng co cứng được điều trị bằng cách tiêm baclofen (chất đồng vận với GABAB) vào khoang dưới nhện để gây tác dụng ức chế trước synap. Ức chế trước synap ở hệ thần kinh trung ương ảnh hưởng đến tần số phát xung của nơron vận động α theo cơ chế nào dưới đây?",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 250,
+      "question": "Biểu hiện trên có thể do tổn thương ở vùng nào của hệ thần kinh:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Thuỳ trán",
+        "B": "Thuỳ thái dương",
+        "C": "Rễ thần kinh và sợi thần kinh ngoại biên",
+        "D": "Tuỷ sống"
+      },
+      "correct_answer": "A",
+      "explanation": "Cô B. 45 tuổi, 2 ngày trước đây xuất hiện yếu và tê ở tay và chân. Lúc đầu cô thấy đau nhói ở ngón chân kéo dài không khỏi. Sau đó thấy tê các ngón ở cả hai bàn chân lan lên bắp chân và đầu gối. Sau 2 ngày bệnh nhân thấy tê ở ngón tay, khó nhấc được chân lên, không leo được cầu thang vì chân yếu, tay không vịn được, đồng thời cảm giác khó thở. Khám thấy bệnh nhân khó thở cả khi ngồi, VC (dung tích sống) giảm, tay và chân cử động yếu, không nhấc được vật nặng, chân và cẳng tay không có cảm giác k",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 251,
+      "question": "Biểu hiện này có thể tổn thương ở vùng nào sau đây:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Vỏ não vận động sơ cấp",
+        "B": "Dây thần kinh quay",
+        "C": "Nhóm nhân lưới hành não",
+        "D": "ây thần kinh quay"
+      },
+      "correct_answer": "A",
+      "explanation": "Bà K. 47 tuổi đi khám bệnh vì gần đây thấy cổ tay yếu. Khám thấy cổ tay và các cơ duỗi cánh tay yếu, các cơ khác bình thường. Biểu hiện này có thể tổn thương ở vùng nào sau đây:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 252,
+      "question": "Có thể nghĩ đến tổn thương ở:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Sừng trước tuỷ sống",
+        "B": "Vỏ não",
+        "C": "Rễ sau",
+        "D": "Dây thần kinh trụ và giữa"
+      },
+      "correct_answer": "A",
+      "explanation": "Ông K. có biểu hiện liệt cứng phần cẳng tay và cánh tay. Có thể nghĩ đến tổn thương ở:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 253,
+      "question": "Hình ảnh MRI có thể bộc lộ tổn thương ở:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Tiểu não",
+        "B": "Bao trong",
+        "C": "Vỏ não vùng trán",
+        "D": "Vùng tiền vận động"
+      },
+      "correct_answer": "A",
+      "explanation": "Anh N. không thể thực hiện được các hành động đơn giản bao gồm một chuỗi các động tác tuần tự như buộc dây giày, mở ổ khoá cửa hoặc mở bì thư. Bệnh nhân hầu như không có các biểu hiện như chậm vận động, tăng hoặc giảm trương lực cơ, rối loạn vận động. Hình ảnh MRI có thể bộc lộ tổn thương ở:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 254,
+      "question": "Biểu hiện và triệu chứng trên có thể do tai biến ở:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Động mạch não trước",
+        "B": "Động mạch não giữa",
+        "C": "Động mạch não sau",
+        "D": "Động mạch thân nền"
+      },
+      "correct_answer": "A",
+      "explanation": "Ông Kh. bị tai biến với các biểu hiện và triệu chứng: liệt chân, tay và phần thấp của mặt cùng bên, rối loạn cảm giác và nói lẫn lộn, lời nói khó hiểu. Biểu hiện và triệu chứng trên có thể do tai biến ở:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    },
+    {
+      "id": 255,
+      "question": "Ông T có thể bị tổn thương ở:.",
+      "type": "case_study",
+      "chapter": "Phần case lâm sàng",
+      "chapter_id": 33,
+      "options": {
+        "A": "Vỏ não vận động sơ cấp và vùng trán",
+        "B": "Vỏ não vận động và cảm giác sơ cấp",
+        "C": "Vỏ não vùng đỉnh và tiền vận động",
+        "D": "Vùng bao trong"
+      },
+      "correct_answer": "A",
+      "explanation": "Ông T. bị đột quỵ, khám thấy liệt tay và chân trái, không nhận biết được kích thích rung và kích thích bằng kim trên chân và tay trái. Các chức năng cảm giác và vận động khác của mặt bình thường. Ông T có thể bị tổn thương ở:",
+      "images": [],
+      "formulas": [],
+      "tags": [
+        "Case Study"
+      ]
+    }
+  ]
+}

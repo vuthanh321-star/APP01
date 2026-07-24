@@ -1,0 +1,1301 @@
+{
+  "metadata": {
+    "document_id": "ho_hap",
+    "document_name": "Hô hấp (Respiratory Physiology)",
+    "document_type": "true_false",
+    "language": "vi",
+    "charset": "utf-8",
+    "total_chapters": 22,
+    "total_questions": 96,
+    "answer_distribution": {
+      "true_count": 50,
+      "false_count": 46
+    }
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_name": "Màng hô hấp",
+      "questions": [
+        {
+          "question_id": 1,
+          "chapter_id": 1,
+          "question_stem": "Thành của phế nang và thành mao mạch quanh phế nang tạo ra màng hô hấp.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 2,
+          "chapter_id": 1,
+          "question_stem": "Diện tích màng hô hấp trung bình khoảng 70m2.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 3,
+          "chapter_id": 1,
+          "question_stem": "Chất surfactant có tác dụng giữ cho phế nang không bị xẹp lại.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 4,
+          "chapter_id": 1,
+          "question_stem": "Bề dày trung bình khoảng 10mm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_name": "Trao đổi khí ở màng hô hấp",
+      "questions": [
+        {
+          "question_id": 5,
+          "chapter_id": 2,
+          "question_stem": "Điều kiện cho khí trao đổi liên tục qua màng hô hấp là không khí phế nang phải thường xuyên đổi mới.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 6,
+          "chapter_id": 2,
+          "question_stem": "Khi lao động sự khuếch tán khí qua màng hô hấp tăng thêm là do mở thêm số mao mạch phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 7,
+          "chapter_id": 2,
+          "question_stem": "Hệ số khuếch tán của O2 lớn hơn CO2.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 8,
+          "chapter_id": 2,
+          "question_stem": "Các khí qua màng hô hấp bằng cơ chế khuếch tán thuận hoá.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_name": "Áp suất âm khoang màng phổi",
+      "questions": [
+        {
+          "question_id": 9,
+          "chapter_id": 3,
+          "question_stem": "Làm cho máu lên phổi dễ dàng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 10,
+          "chapter_id": 3,
+          "question_stem": "Làm cho máu khó về tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 11,
+          "chapter_id": 3,
+          "question_stem": "Làm cho đường dẫn khí nhỏ luôn mở.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 12,
+          "chapter_id": 3,
+          "question_stem": "Làm cho phổi khó xẹp lại lúc thở ra.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_name": "Áp suất khoang màng phổi",
+      "questions": [
+        {
+          "question_id": 13,
+          "chapter_id": 4,
+          "question_stem": "Dịch màng phổi được bơm vào mạch bạch huyết không phải nguyên nhân tạo ra áp suất khoang màng phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 14,
+          "chapter_id": 4,
+          "question_stem": "Lồng ngực không tham gia tạo áp suất khoang màng phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 15,
+          "chapter_id": 4,
+          "question_stem": "Trong hô hấp bình thường có áp suất nhỏ hơn áp suất khí quyển.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 16,
+          "chapter_id": 4,
+          "question_stem": "Cuối thì thở ra tối đa có giá trị -1 đến 0 mmHg.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_name": "Các yếu tố ảnh hưởng đến sự phân ly HbO2",
+      "questions": [
+        {
+          "question_id": 17,
+          "chapter_id": 5,
+          "question_stem": "Phân áp CO2 cao làm tăng phân ly.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 18,
+          "chapter_id": 5,
+          "question_stem": "Nhiệt độ máu tăng làm giảm phân ly.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 19,
+          "chapter_id": 5,
+          "question_stem": "pH máu giảm làm tăng phân ly.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 20,
+          "chapter_id": 5,
+          "question_stem": "Nồng độ 2-3 DPG không ảnh hưởng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_name": "Hoạt động của trung tâm hô hấp",
+      "questions": [
+        {
+          "question_id": 21,
+          "chapter_id": 6,
+          "question_stem": "Trung tâm hít vào tự phát xung động đều đặn, nhịp nhàng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 22,
+          "chapter_id": 6,
+          "question_stem": "Xung động gây động tác hít vào tăng dần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 23,
+          "chapter_id": 6,
+          "question_stem": "Trung tâm điều chỉnh luôn kích thích trung tâm hít vào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 24,
+          "chapter_id": 6,
+          "question_stem": "Vùng nhận cảm hoá học luôn ức chế trung tâm hít vào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_name": "Các dạng vận chuyển của O2 và CO2",
+      "questions": [
+        {
+          "question_id": 25,
+          "chapter_id": 7,
+          "question_stem": "Dạng vận chuyển chính của O2 là dạng hoà tan.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 26,
+          "chapter_id": 7,
+          "question_stem": "HbO2 là dạng vận chuyển chủ yếu của oxy.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 27,
+          "chapter_id": 7,
+          "question_stem": "Muối kiềm là dạng vận chuyển chủ yếu của CO2.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 28,
+          "chapter_id": 7,
+          "question_stem": "HbCO2 là dạng vận chuyển chủ yếu của CO2.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "chapter_name": "Sự khuếch tán của O2 và CO2  qua màng hô hấp có đặc điểm",
+      "questions": [
+        {
+          "question_id": 29,
+          "chapter_id": 8,
+          "question_stem": "Tốc độ khuếch tán của CO2 lớn hơn của O2 khoảng 20 lần.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 30,
+          "chapter_id": 8,
+          "question_stem": "Khả năng khuếch tán của O2 trong phế nang phụ thuộc vào phân áp CO2 trong máu mao mạch phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 31,
+          "chapter_id": 8,
+          "question_stem": "Sự chênh lệch phân áp khí giữa hai bên của màng hô hấp là yếu tố quyết định cho sự khuếch tán của các chất khí.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 32,
+          "chapter_id": 8,
+          "question_stem": "Phân áp O2 ở phế nang là 100 mmHg còn ở mao động mạch phổi là 60 mmHg.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "chapter_name": "Sự trao đổi O2ở phổi và mô",
+      "questions": [
+        {
+          "question_id": 33,
+          "chapter_id": 9,
+          "question_stem": "Chênh lệch phân áp oxy giữa phế nang và máu, giữa máu và mô là yếu tố quyết định cho sự trao đổi khí.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 34,
+          "chapter_id": 9,
+          "question_stem": "Hàm lượng muối kiềm trong máu có tác dụng làm tăng  phân ly HbO2 (oxyhemoglobin) cung cấp oxy cho mô.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 35,
+          "chapter_id": 9,
+          "question_stem": "Lao động nặng sản sinh nhiều CO2 làm cho PaCO2 (phân áp CO2 trong máu động mạch) tăng dẫn đến tăng phân ly HbO2 để cung cấp nhiều O2 cho mô.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 36,
+          "chapter_id": 9,
+          "question_stem": "Diện tích phế nang tăng và lưu lượng máu lên phổi tăng dẫn đến tăng trao đổi O2 giữa khí phế nang và máu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "chapter_name": "Các yếu tố tham gia điều hòa hô hấp",
+      "questions": [
+        {
+          "question_id": 37,
+          "chapter_id": 10,
+          "question_stem": "Phân áp CO2 máu tăng sẽ tác động lên trung tâm hô hấp mạnh hơn so với giảm phân áp O2.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 38,
+          "chapter_id": 10,
+          "question_stem": "CO2  điều hoà hô hấp thông qua nồng độ ion H+ tác động lên trung tâm hô hấp .",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 39,
+          "chapter_id": 10,
+          "question_stem": "Dây thần kinh X đóng vai trò chủ yếu trong điều hoà hoạt động hô hấp.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 40,
+          "chapter_id": 10,
+          "question_stem": "Trung tâm hô hấp không bị ảnh hưởng bởi những kích thích từ vùng dưới đồi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "chapter_name": "Ở trẻ mới sinh khi có nhịp thở đầu tiên",
+      "questions": [
+        {
+          "question_id": 41,
+          "chapter_id": 11,
+          "question_stem": "Phân áp O2 trong máu động mạch (PaO2) tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 42,
+          "chapter_id": 11,
+          "question_stem": "Sức cản mạch phổi giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 43,
+          "chapter_id": 11,
+          "question_stem": "Tất cả các ống thông động mạch được đóng lại.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 44,
+          "chapter_id": 11,
+          "question_stem": "Sức cản tuần hoàn hệ thống giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 45,
+          "chapter_id": 11,
+          "question_stem": "Trung tâm điều chỉnh thở ở cầu não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 46,
+          "chapter_id": 11,
+          "question_stem": "Các nơron hít vào thuộc nhóm nhân lưng hành não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 47,
+          "chapter_id": 11,
+          "question_stem": "Nhóm nơron của trung tâm hô hấp ở cầu não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 48,
+          "chapter_id": 11,
+          "question_stem": "Nhóm nơron của trung tâm hô hấp ở vùng bụng hành não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 49,
+          "chapter_id": 11,
+          "question_stem": "Kích thích trực tiếp receptor nhận cảm áp lực ở xoang cảnh và quai động mạch chủ.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 50,
+          "chapter_id": 11,
+          "question_stem": "Kích thích các receptor nhận cảm sự căng giãn ở phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 51,
+          "chapter_id": 11,
+          "question_stem": "Kích thích receptor nhận cảm hóa học ở quai động mạch chủ và xoang cảnh.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 52,
+          "chapter_id": 11,
+          "question_stem": "Kích thích receptor nhận cảm hóa học ở hành não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "chapter_name": "Về thông khí, tưới máu giữa đỉnh phổi và đáy phổi",
+      "questions": [
+        {
+          "question_id": 53,
+          "chapter_id": 12,
+          "question_stem": "Phân áp oxy (PO2)trong máu mao mạch ở đáy phổi cao hơn ở đỉnh phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 54,
+          "chapter_id": 12,
+          "question_stem": "Phân áp CO2 (PCO2) trong máu mao mạch đáy phổi thấp hơn ở đỉnh phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 55,
+          "chapter_id": 12,
+          "question_stem": "Tỷ lệ thông khí/tưới máu ở đỉnh phổi cao hơn đáy phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 56,
+          "chapter_id": 12,
+          "question_stem": "Tỷ lệ thông khí/tưới máu ở đỉnh phổi giống ở đáy phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 13,
+      "chapter_name": "Khi tắc nghẽn một phế quản thùy thì tại vùng này phân áp oxy (PO2) trong máu mao mạch phổi sẽ",
+      "questions": [
+        {
+          "question_id": 57,
+          "chapter_id": 13,
+          "question_stem": "bằng PO2 khí quyển.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 58,
+          "chapter_id": 13,
+          "question_stem": "bằng PO2 trong máu động mạch phổi đi đến vùng tắc nghẽn",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 59,
+          "chapter_id": 13,
+          "question_stem": "thấp hơn PO2 trong khí phế nang.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 60,
+          "chapter_id": 13,
+          "question_stem": "bằng PO2 trong máu tĩnh mạch phổi đi ra khỏi vùng tắc nghẽn",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 14,
+      "chapter_name": "Khi tăng thông khí sẽ dẫn đến",
+      "questions": [
+        {
+          "question_id": 61,
+          "chapter_id": 14,
+          "question_stem": "pH máu tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 62,
+          "chapter_id": 14,
+          "question_stem": "phân áp O2 trong máu động mạch (PaO2) giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 63,
+          "chapter_id": 14,
+          "question_stem": "phân áp CO2trong máu động mạch (PaCO2) giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 64,
+          "chapter_id": 14,
+          "question_stem": "chênh lệch phân áp O2 giữa khí phế nang và máu động mạch giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 15,
+      "chapter_name": "Sức cản đường thở",
+      "questions": [
+        {
+          "question_id": 65,
+          "chapter_id": 15,
+          "question_stem": "có giá trị cao nhất ở phế quản có kích thước trung bình.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 66,
+          "chapter_id": 15,
+          "question_stem": "có giá trị không đáng kể ở phế nang.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 67,
+          "chapter_id": 15,
+          "question_stem": "ở phế quản nhỏ cao hơn so với phế quản có kích thước trung bình.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 68,
+          "chapter_id": 15,
+          "question_stem": "không liên quan với tuổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 16,
+      "chapter_name": "Ở tư thế đứng, lưu lượng máu",
+      "questions": [
+        {
+          "question_id": 69,
+          "chapter_id": 16,
+          "question_stem": "đến đỉnh phổi bằng đến đáy phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 70,
+          "chapter_id": 16,
+          "question_stem": "thấp nhất ở đỉnh phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 71,
+          "chapter_id": 16,
+          "question_stem": "cao nhất ở đáy phổi do chênh lệch huyết áp giữa động mạch và tĩnh mạch ở đây là lớn nhất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 72,
+          "chapter_id": 16,
+          "question_stem": "thấp nhất ở đáy phổi do áp suất phế nang ở đây cao hơn áp suất máu trong mạch phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 17,
+      "chapter_name": "Ở thì hít vào",
+      "questions": [
+        {
+          "question_id": 73,
+          "chapter_id": 17,
+          "question_stem": "áp suất phế nang bằng áp suất đường dẫn khí.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 74,
+          "chapter_id": 17,
+          "question_stem": "thể tích khí trong phổi lớn hơn dung tích cặn chức năng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 75,
+          "chapter_id": 17,
+          "question_stem": "áp suất khoang màng phổi dương hơn so với thì thở ra.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 76,
+          "chapter_id": 17,
+          "question_stem": "áp suất phế nang bằng áp suất khí quyển.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 18,
+      "chapter_name": "Phương pháp phế lưu đo được",
+      "questions": [
+        {
+          "question_id": 77,
+          "chapter_id": 18,
+          "question_stem": "thể tích khí dự trữ thở ra.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 78,
+          "chapter_id": 18,
+          "question_stem": "thẻ tích khí dự trữ hít vào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 79,
+          "chapter_id": 18,
+          "question_stem": "thể tích khí cặn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 80,
+          "chapter_id": 18,
+          "question_stem": "dung tích toàn phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 19,
+      "chapter_name": "Khi tắc hoàn toàn động mạch phổi trái",
+      "questions": [
+        {
+          "question_id": 81,
+          "chapter_id": 19,
+          "question_stem": "Tỷ lệ thông khí/tưới máu ở phổi trái sẽ bằng không.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 82,
+          "chapter_id": 19,
+          "question_stem": "Phân áp O2 trong máu động mạch phổi trái tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 83,
+          "chapter_id": 19,
+          "question_stem": "Phân áp O2 khí phế nang phổi trái bằng PO2 khí hít vào phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 84,
+          "chapter_id": 19,
+          "question_stem": "PO2trong máu tuần hoàn hệ thống tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 20,
+      "chapter_name": "Thở ra gắng sức",
+      "questions": [
+        {
+          "question_id": 85,
+          "chapter_id": 20,
+          "question_stem": "Thể tích khí còn lại trong phổi chính là thể tích khí lưu thông.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 86,
+          "chapter_id": 20,
+          "question_stem": "là động tác thụ động.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 87,
+          "chapter_id": 20,
+          "question_stem": "Thể tích khí còn lại trong phổi là dung tích cặn chức năng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 88,
+          "chapter_id": 20,
+          "question_stem": "Thể tích khí còn lại trong phổi là thể tích khí cặn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 21,
+      "chapter_name": "Vận chuyển CO2 từ mô về phổi",
+      "questions": [
+        {
+          "question_id": 89,
+          "chapter_id": 21,
+          "question_stem": "Phần lớn dưới dạng HCO3-",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 90,
+          "chapter_id": 21,
+          "question_stem": "Khi đến phổi HCO3- đi từ huyết tương vào hồng cầu trao đổi với Cl-",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 91,
+          "chapter_id": 21,
+          "question_stem": "HCO3- gắn với Hb (hemoglobin).",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 92,
+          "chapter_id": 21,
+          "question_stem": "Ion H+ được sinh ra trong hồng cầu sẽ gắn với HbO2 (oxyhemoglobin).",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 22,
+      "chapter_name": "Ở bệnh nhân hen phế quản",
+      "questions": [
+        {
+          "question_id": 93,
+          "chapter_id": 22,
+          "question_stem": "FEV1/FVC giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 94,
+          "chapter_id": 22,
+          "question_stem": "Cường độ khuếch tán (DL) tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 95,
+          "chapter_id": 22,
+          "question_stem": "Thể tích khí cặn tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 96,
+          "chapter_id": 22,
+          "question_stem": "Khả năng giãn nở (compliance) của phổi tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

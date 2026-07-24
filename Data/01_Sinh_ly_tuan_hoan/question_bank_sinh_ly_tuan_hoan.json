@@ -1,0 +1,2231 @@
+{
+  "metadata": {
+    "document_id": "sinh_ly_tuan_hoan",
+    "document_name": "Sinh lý tuần hoàn (Cardiovascular Physiology)",
+    "document_type": "true_false",
+    "language": "vi",
+    "charset": "utf-8",
+    "total_chapters": 41,
+    "total_questions": 164,
+    "answer_distribution": {
+      "true_count": 80,
+      "false_count": 84
+    }
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_name": "Về cơ chế điều hoà hoạt động tim",
+      "questions": [
+        {
+          "question_id": 1,
+          "chapter_id": 1,
+          "question_stem": "Trong điều kiện bình thường tim thường xuyên chịu tác dụng trương lực của hệ phó giao cảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 2,
+          "chapter_id": 1,
+          "question_stem": "Phản xạ tim- tim có tác dụng ngăn sự ứ máu trong tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 3,
+          "chapter_id": 1,
+          "question_stem": "Nhiệt độ của máu tăng làm tăng lực co của cơ tim và nhịp tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 4,
+          "chapter_id": 1,
+          "question_stem": "Phản xạ mắt- tim làm tim đập chậm lại là thông qua dây X.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_name": "Về ảnh hưởng của dây thần kinh tự chủ lên tim",
+      "questions": [
+        {
+          "question_id": 5,
+          "chapter_id": 2,
+          "question_stem": "Kích thích sợi dây X đến tim làm giảm tần số phát nhịp của các tế bào phát nhịp nằm xen trong cơ tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 6,
+          "chapter_id": 2,
+          "question_stem": "Hệ giao cảm hưng phấn làm tăng tần số phát nhịp của các tế bào phát nhịp nằm xen trong cơ tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 7,
+          "chapter_id": 2,
+          "question_stem": "Hệ giao cảm làm tăng tính dẫn truyền của cơ tim còn hệ phó giao cảm có tác dụng ngược lại.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 8,
+          "chapter_id": 2,
+          "question_stem": "Hệ phó giao cảm làm tăng tính hưng phấn của cơ tim còn hệ giao cảm có tác dụng ngược lại.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_name": "Về các phản xạ điều hoà tim",
+      "questions": [
+        {
+          "question_id": 9,
+          "chapter_id": 3,
+          "question_stem": "Phản xạ giảm áp do tăng áp suất trong xoang động mạch cảnh là thông qua dây X.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 10,
+          "chapter_id": 3,
+          "question_stem": "Phản xạ tim - tim làm giảm nhịp tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 11,
+          "chapter_id": 3,
+          "question_stem": "Phản xạ tăng nhịp tim do tăng nồng độ ion H+ trong máu đi qua quai động mạch chủ là thông qua dây X.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 12,
+          "chapter_id": 3,
+          "question_stem": "Khi co kéo mạnh vào các tạng sâu trong ổ bụng có thể làm tăng nhịp tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_name": "Về chu kỳ tim ở người bình thường",
+      "questions": [
+        {
+          "question_id": 13,
+          "chapter_id": 4,
+          "question_stem": "Tâm nhĩ co 0,2 giây sau đó giãn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 14,
+          "chapter_id": 4,
+          "question_stem": "Trong thời kỳ tống máu cơ tâm thất co đẳng trường.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 15,
+          "chapter_id": 4,
+          "question_stem": "Trong thời kỳ tăng áp của tâm thất thu van nhĩ thất đóng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 16,
+          "chapter_id": 4,
+          "question_stem": "Trong thời kỳ tâm trương toàn bộ van nhĩ thất mở",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_name": "Tiếng tim",
+      "questions": [
+        {
+          "question_id": 17,
+          "chapter_id": 5,
+          "question_stem": "Tiếng tim thứ nhất nghe trầm, ngắn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 18,
+          "chapter_id": 5,
+          "question_stem": "Tiếng tim thứ nhất do đóng van nhĩ - thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 19,
+          "chapter_id": 5,
+          "question_stem": "Tiếng tim thứ hai do đóng các van tổ chim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 20,
+          "chapter_id": 5,
+          "question_stem": "Tiếng tim thứ hai mở đầu giai đoạn tâm trương toàn bộ",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_name": "Các chất điều hoà vận mạch",
+      "questions": [
+        {
+          "question_id": 21,
+          "chapter_id": 6,
+          "question_stem": "Adrenalin làm co mạch dưới da, giãn mạch vành, mạch não và mạch ở cơ vân.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 22,
+          "chapter_id": 6,
+          "question_stem": "Noradrenalin chỉ có tác dụng làm co các động mạch lớn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 23,
+          "chapter_id": 6,
+          "question_stem": "Bradykinin trong máu có tác dụng trực tiếp gây giãn mạch và tăng tính thấm mao mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 24,
+          "chapter_id": 6,
+          "question_stem": "Vasopressin làm tăng huyết áp chỉ do làm co mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_name": "Angiotensin II có tác dụng",
+      "questions": [
+        {
+          "question_id": 25,
+          "chapter_id": 7,
+          "question_stem": "Kích thích ống thận tăng tái hấp thu Ca++.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 26,
+          "chapter_id": 7,
+          "question_stem": "Kích thích tận cùng thần kinh giao cảm tăng tiết adrenalin.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 27,
+          "chapter_id": 7,
+          "question_stem": "Giảm tái nhập noradrenalin trở lại cúc tận cùng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 28,
+          "chapter_id": 7,
+          "question_stem": "Tăng nhạy cảm của các mạch máu với noradrenalin .",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "chapter_name": "Về huyết áp động mạch",
+      "questions": [
+        {
+          "question_id": 29,
+          "chapter_id": 8,
+          "question_stem": "Huyết áp động mạch tỷ lệ thuận với sức cản của mạch và lưu lượng tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 30,
+          "chapter_id": 8,
+          "question_stem": "Huyết áp động mạch tỷ lệ thuận với lưu lượng tim và đường kính động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 31,
+          "chapter_id": 8,
+          "question_stem": "Huyết áp động mạch tỷ lệ nghịch với luỹ thừa 4 của bán kính động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 32,
+          "chapter_id": 8,
+          "question_stem": "Các yếu tố làm thay đổi hoạt động tim thì làm thay đổi huyết áp động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "chapter_name": "Huyết áp động mạch",
+      "questions": [
+        {
+          "question_id": 33,
+          "chapter_id": 9,
+          "question_stem": "Tỷ lệ thuận với lưu lượng tim và bán kính mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 34,
+          "chapter_id": 9,
+          "question_stem": "Tỷ lệ thuận với sức cản của mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 35,
+          "chapter_id": 9,
+          "question_stem": "Tỷ lệ nghịch với độ quánh của máu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 36,
+          "chapter_id": 9,
+          "question_stem": "Tỷ lệ thuận với thể tích máu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "chapter_name": "Về tuần hoàn trong mạch máu",
+      "questions": [
+        {
+          "question_id": 37,
+          "chapter_id": 10,
+          "question_stem": "Trong một hệ mao mạch, các mao mạch thay nhau lần lượt đóng mở.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 38,
+          "chapter_id": 10,
+          "question_stem": "Tuần hoàn mao mạch phụ thuộc chủ yếu vào các yếu tố toàn thân.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 39,
+          "chapter_id": 10,
+          "question_stem": "Phần lớn máu tĩnh mạch về tim được là nhờ trọng lực.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 40,
+          "chapter_id": 10,
+          "question_stem": "Hệ thống tĩnh mạch có khả năng chứa toàn bộ khối lượng máu của cơ thể.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "chapter_name": "Đặc điểm của tĩnh mạch",
+      "questions": [
+        {
+          "question_id": 41,
+          "chapter_id": 11,
+          "question_stem": "Có tổng thiết diện lớn hơn hệ thống động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 42,
+          "chapter_id": 11,
+          "question_stem": "Có tính đàn hồi tốt hơn động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 43,
+          "chapter_id": 11,
+          "question_stem": "Có khả năng chứa toàn bộ lượng máu của cơ thể",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 44,
+          "chapter_id": 11,
+          "question_stem": "Có các xoang tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "chapter_name": "Trong thời kỳ tăng áp",
+      "questions": [
+        {
+          "question_id": 45,
+          "chapter_id": 12,
+          "question_stem": "Sợi cơ tâm thất co ngắn lại.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 46,
+          "chapter_id": 12,
+          "question_stem": "Van nhĩ thất đóng lại.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 47,
+          "chapter_id": 12,
+          "question_stem": "Van tổ chim đóng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 48,
+          "chapter_id": 12,
+          "question_stem": "Máu phun vào động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 13,
+      "chapter_name": "Tiếng tim thứ nhất",
+      "questions": [
+        {
+          "question_id": 49,
+          "chapter_id": 13,
+          "question_stem": "Kết thúc thời kỳ tâm nhĩ co.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 50,
+          "chapter_id": 13,
+          "question_stem": "Mở đầu thời kỳ tâm thất co.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 51,
+          "chapter_id": 13,
+          "question_stem": "Do đóng van nhĩ thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 52,
+          "chapter_id": 13,
+          "question_stem": "Mở đầu thời kỳ tâm thất trương.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 14,
+      "chapter_name": "Tính hưng phấn của cơ tim",
+      "questions": [
+        {
+          "question_id": 53,
+          "chapter_id": 14,
+          "question_stem": "Cơ tim co càng mạnh khi cường độ kích thích càng cao.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 54,
+          "chapter_id": 14,
+          "question_stem": "Cơ tim không bị co cứng khi kích thích liên tục.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 55,
+          "chapter_id": 14,
+          "question_stem": "Cơ tim đáp ứng khi kích thích vào lúc cơ đang giãn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 56,
+          "chapter_id": 14,
+          "question_stem": "Cơ tim đáp ứng khi kích thích vào lúc cơ đang co.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 15,
+      "chapter_name": "Khoảng PQ trong điện tâm đồ",
+      "questions": [
+        {
+          "question_id": 57,
+          "chapter_id": 15,
+          "question_stem": "dài khoảng 0,15 giây.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 58,
+          "chapter_id": 15,
+          "question_stem": "là thời gian khử cực tâm thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 59,
+          "chapter_id": 15,
+          "question_stem": "là thời gian tái cực tâm thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 60,
+          "chapter_id": 15,
+          "question_stem": "là thời gian khử cực tâm nhĩ và dẫn truyền xung động qua nút nhĩ thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 16,
+      "chapter_name": "Về đầy thất",
+      "questions": [
+        {
+          "question_id": 61,
+          "chapter_id": 16,
+          "question_stem": "Không phụ thuộc hoàn toàn vào nhĩ thu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 62,
+          "chapter_id": 16,
+          "question_stem": "Bị giảm nếu van động mạch bị hẹp.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 63,
+          "chapter_id": 16,
+          "question_stem": "Bị giảm nếu van nhĩ thất bị hẹp.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 64,
+          "chapter_id": 16,
+          "question_stem": "Không phụ thuộc vào thời gian tâm trương.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 17,
+      "chapter_name": "Thể tích tâm thu",
+      "questions": [
+        {
+          "question_id": 65,
+          "chapter_id": 17,
+          "question_stem": "có giá trị khoảng 60 - 70 ml.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 66,
+          "chapter_id": 17,
+          "question_stem": "có giá trị khoảng 120 - 140 ml.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 67,
+          "chapter_id": 17,
+          "question_stem": "là thể tích máu do một tâm thất bơm vào động mạch trong một lần co bóp.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 68,
+          "chapter_id": 17,
+          "question_stem": "là thể tích máu do hai tâm thất bơm vào động mạch trong một lần co bóp.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 18,
+      "chapter_name": "Chu chuyển tim sinh lý và chu chuyển tim lâm sàng",
+      "questions": [
+        {
+          "question_id": 69,
+          "chapter_id": 18,
+          "question_stem": "Chu chuyển tim sinh lý ngắn hơn chu chuyển tim lâm sàng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 70,
+          "chapter_id": 18,
+          "question_stem": "Chu chuyển tim lâm sàng dài hơn chu chuyển tim sinh lý.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 71,
+          "chapter_id": 18,
+          "question_stem": "Chu chuyển tim sinh lý không tính đến nhĩ thu còn chu chuyển tim lâm sàng có tính đến.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 72,
+          "chapter_id": 18,
+          "question_stem": "Chu chuyển tim lâm sàng chỉ tính đến hoạt động của tâm thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 19,
+      "chapter_name": "Thành tâm thất phải mỏng hơn tâm thất trái vì",
+      "questions": [
+        {
+          "question_id": 73,
+          "chapter_id": 19,
+          "question_stem": "Tâm thất phải chứa nhiều máu hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 74,
+          "chapter_id": 19,
+          "question_stem": "Thể tích tâm thu của tâm thất phải nhỏ hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 75,
+          "chapter_id": 19,
+          "question_stem": "Tâm thất phải tống máu với một áp lực thấp hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 76,
+          "chapter_id": 19,
+          "question_stem": "Tâm thất phải tống máu với một tốc độ thấp hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 20,
+      "chapter_name": "Tâm thất trái có thành dày hơn tâm thất phải vì",
+      "questions": [
+        {
+          "question_id": 77,
+          "chapter_id": 20,
+          "question_stem": "Nó tống máu với thể tích tâm thu nhỏ hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 78,
+          "chapter_id": 20,
+          "question_stem": "Nó phải tống máu qua một lỗ hẹp là van tổ chim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 79,
+          "chapter_id": 20,
+          "question_stem": "Nó phải tống máu với một áp suất cao hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 80,
+          "chapter_id": 20,
+          "question_stem": "Nó phải tống máu với tốc độ cao hơn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 21,
+      "chapter_name": "Ở người bình thường, giai đoạn tâm thất thu",
+      "questions": [
+        {
+          "question_id": 81,
+          "chapter_id": 21,
+          "question_stem": "là giai đoạn dài nhất trong các giai đoạn của chu chuyển tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 82,
+          "chapter_id": 21,
+          "question_stem": "kết thúc khi van nhĩ thất đóng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 83,
+          "chapter_id": 21,
+          "question_stem": "là giai đoạn máu được tống vào động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 84,
+          "chapter_id": 21,
+          "question_stem": "kéo dài 0,3 giây.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 22,
+      "chapter_name": "Tần số tim tăng khi",
+      "questions": [
+        {
+          "question_id": 85,
+          "chapter_id": 22,
+          "question_stem": "áp suất máu trong quai động mạch chủ tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 86,
+          "chapter_id": 22,
+          "question_stem": "áp suất máu trong xoang động mạch cảnh tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 87,
+          "chapter_id": 22,
+          "question_stem": "lượng máu về tâm nhĩ phải tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 88,
+          "chapter_id": 22,
+          "question_stem": "phân áp CO2 trong máu động mạch tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 23,
+      "chapter_name": "Tính trơ có chu kỳ",
+      "questions": [
+        {
+          "question_id": 89,
+          "chapter_id": 23,
+          "question_stem": "giúp cơ tim không bị co cứng khi bị kích thích liên tục.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 90,
+          "chapter_id": 23,
+          "question_stem": "là tính không đáp ứng với kích thích của cơ tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 91,
+          "chapter_id": 23,
+          "question_stem": "là tính không đáp ứng với kích thích có chu kỳ của cơ tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 92,
+          "chapter_id": 23,
+          "question_stem": "là tính không đáp ứng của cơ tim với chu kỳ.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 24,
+      "chapter_name": "Cơ tim hoạt động theo quy luật \"tất hoặc không\" vì",
+      "questions": [
+        {
+          "question_id": 93,
+          "chapter_id": 24,
+          "question_stem": "Cơ tim có đặc tính trơ có chu kỳ.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 94,
+          "chapter_id": 24,
+          "question_stem": "Cơ tim có đặc tính nhịp điệu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 95,
+          "chapter_id": 24,
+          "question_stem": "Cơ tim có cầu dẫn truyền hưng phấn và hoạt động như một hợp bào.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 96,
+          "chapter_id": 24,
+          "question_stem": "Cơ tim gồm hai hợp bào nhĩ và thất.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 25,
+      "chapter_name": "Các chất sau đây gây giãn mạch",
+      "questions": [
+        {
+          "question_id": 97,
+          "chapter_id": 25,
+          "question_stem": "Nồng độ ion Mg++ trong máu tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 98,
+          "chapter_id": 25,
+          "question_stem": "Histamin.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 99,
+          "chapter_id": 25,
+          "question_stem": "Vasopressin.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 100,
+          "chapter_id": 25,
+          "question_stem": "Angiotensin II.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 26,
+      "chapter_name": "Những thay đổi sau đây làm tăng huyết áp",
+      "questions": [
+        {
+          "question_id": 101,
+          "chapter_id": 26,
+          "question_stem": "Nồng độ O2 trong máu động mạch giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 102,
+          "chapter_id": 26,
+          "question_stem": "Nồng độ CO2 trong máu động mạch giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 103,
+          "chapter_id": 26,
+          "question_stem": "pH máu giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 104,
+          "chapter_id": 26,
+          "question_stem": "Nồng độ CO2 trong máu động mạch tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 27,
+      "chapter_name": "Khi trương lực mạch máu bình thường, lực co cơ tim giảm làm cho",
+      "questions": [
+        {
+          "question_id": 105,
+          "chapter_id": 27,
+          "question_stem": "huyết áp hiệu số tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 106,
+          "chapter_id": 27,
+          "question_stem": "huyết áp tối thiểu giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 107,
+          "chapter_id": 27,
+          "question_stem": "huyết áp trung bình giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 108,
+          "chapter_id": 27,
+          "question_stem": "huyết áp tối đa giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 28,
+      "chapter_name": "Huyết áp tăng sẽ kích thích bộ phận nhận cảm áp lực gây ra",
+      "questions": [
+        {
+          "question_id": 109,
+          "chapter_id": 28,
+          "question_stem": "tăng lực co cơ tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 110,
+          "chapter_id": 28,
+          "question_stem": "tăng nhịp tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 111,
+          "chapter_id": 28,
+          "question_stem": "kích thích thần kinh phó giao cảm chi phối tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 112,
+          "chapter_id": 28,
+          "question_stem": "giảm huyết áp ngoại vi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 29,
+      "chapter_name": "Cơ chế điều hoà làm giảm huyết áp động mạch xảy ra khi",
+      "questions": [
+        {
+          "question_id": 113,
+          "chapter_id": 29,
+          "question_stem": "áp suất máu ở quai động mạch chủ và xoang động mạch tăng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 114,
+          "chapter_id": 29,
+          "question_stem": "áp suất máu ở xoang động mạch cảnh giảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 115,
+          "chapter_id": 29,
+          "question_stem": "tăng sức cản của hệ tuần hoàn.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 116,
+          "chapter_id": 29,
+          "question_stem": "nhịp tim chậm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 30,
+      "chapter_name": "Huyết áp động mạch tăng trong",
+      "questions": [
+        {
+          "question_id": 117,
+          "chapter_id": 30,
+          "question_stem": "suy dinh dưỡng protein năng lượng.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 118,
+          "chapter_id": 30,
+          "question_stem": "xơ vữa động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 119,
+          "chapter_id": 30,
+          "question_stem": "ỉa chảy mất nước.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 120,
+          "chapter_id": 30,
+          "question_stem": "hẹp động mạch thận.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 31,
+      "chapter_name": "Nguyên nhân chính của tuần hoàn tĩnh mạch nửa trên của cơ thể là",
+      "questions": [
+        {
+          "question_id": 121,
+          "chapter_id": 31,
+          "question_stem": "Trọng lực.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 122,
+          "chapter_id": 31,
+          "question_stem": "Sức bơm của tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 123,
+          "chapter_id": 31,
+          "question_stem": "Sức hút của tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 124,
+          "chapter_id": 31,
+          "question_stem": "Hệ thống van trong tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 32,
+      "chapter_name": "Nguyên nhân chính của tuần hoàn tĩnh mạch phía dưới của cơ thể là",
+      "questions": [
+        {
+          "question_id": 125,
+          "chapter_id": 32,
+          "question_stem": "Trọng lực.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 126,
+          "chapter_id": 32,
+          "question_stem": "Sức bơm của tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 127,
+          "chapter_id": 32,
+          "question_stem": "Sức hút của tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 128,
+          "chapter_id": 32,
+          "question_stem": "Hệ thống van trong tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 33,
+      "chapter_name": "Áp suất thuỷ tĩnh của huyết tương",
+      "questions": [
+        {
+          "question_id": 129,
+          "chapter_id": 33,
+          "question_stem": "giảm dần từ đầu tiểu động mạch sang đầu tiểu tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 130,
+          "chapter_id": 33,
+          "question_stem": "tăng dần từ đầu tiểu động mạch sang đầu tiểu tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 131,
+          "chapter_id": 33,
+          "question_stem": "giảm dần từ đầu tiểu động mạch nhưng rồi tăng dần lên ở đầu tiểu tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 132,
+          "chapter_id": 33,
+          "question_stem": "có giá trị là 30 mmHg ở tận cùng tiểu động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 34,
+      "chapter_name": "Dịch từ lòng mao mạch di chuyển ra khoảng kẽ tăng lên khi",
+      "questions": [
+        {
+          "question_id": 133,
+          "chapter_id": 34,
+          "question_stem": "giảm huyết áp động mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 134,
+          "chapter_id": 34,
+          "question_stem": "giảm áp suất keo huyết tương.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 135,
+          "chapter_id": 34,
+          "question_stem": "tăng áp suất thuỷ tĩnh ở tĩnh mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 136,
+          "chapter_id": 34,
+          "question_stem": "tăng áp suất thuỷ tĩnh ở khoảng kẽ.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 35,
+      "chapter_name": "Lưu lượng mạch vành tăng lên khi",
+      "questions": [
+        {
+          "question_id": 137,
+          "chapter_id": 35,
+          "question_stem": "kích thích thần kinh giao cảm đến tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 138,
+          "chapter_id": 35,
+          "question_stem": "kích thích thần kinh phó giao cảm đến tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 139,
+          "chapter_id": 35,
+          "question_stem": "giảm nồng độ oxy trong máu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 140,
+          "chapter_id": 35,
+          "question_stem": "giảm hoạt động tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 36,
+      "chapter_name": "Lưu lượng máu não tăng lên khi",
+      "questions": [
+        {
+          "question_id": 141,
+          "chapter_id": 36,
+          "question_stem": "tăng hoạt động tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 142,
+          "chapter_id": 36,
+          "question_stem": "tăng nồng độ CO2 trong máu não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 143,
+          "chapter_id": 36,
+          "question_stem": "tăng nồng độ O2 trong máu não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 144,
+          "chapter_id": 36,
+          "question_stem": "giảm pH trong máu não.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 37,
+      "chapter_name": "Lưu lượng máu qua phổi tăng lên khi",
+      "questions": [
+        {
+          "question_id": 145,
+          "chapter_id": 37,
+          "question_stem": "Tăng phân áp oxy trong phế nang.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 146,
+          "chapter_id": 37,
+          "question_stem": "Giảm phân áp oxy trong máu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 147,
+          "chapter_id": 37,
+          "question_stem": "Tăng pH máu.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 148,
+          "chapter_id": 37,
+          "question_stem": "Tăng hoạt tính thần kinh phó giao cảm.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 38,
+      "chapter_name": "Tiểu động mạch giãn ra khi",
+      "questions": [
+        {
+          "question_id": 149,
+          "chapter_id": 38,
+          "question_stem": "giảm phân áp O2.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 150,
+          "chapter_id": 38,
+          "question_stem": "tăng bradykinin.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 151,
+          "chapter_id": 38,
+          "question_stem": "tăng nồng độ ion Ca++.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 152,
+          "chapter_id": 38,
+          "question_stem": "giảm nồng độ ion K+.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 39,
+      "chapter_name": "Kích thích hệ thần kinh giao cảm làm tăng huyết áp do",
+      "questions": [
+        {
+          "question_id": 153,
+          "chapter_id": 39,
+          "question_stem": "co các động mạch nhỏ dẫn đến làm tăng sức cản.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 154,
+          "chapter_id": 39,
+          "question_stem": "co các tiểu động mạch dẫn đến làm tăng sức cản.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 155,
+          "chapter_id": 39,
+          "question_stem": "co cơ thắt tiểu động mạch đến cầu thận",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 156,
+          "chapter_id": 39,
+          "question_stem": "co các tĩnh mạch lớn làm tăng lượng máu về tim.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 40,
+      "chapter_name": "Angiotensin II được tạo ra khi",
+      "questions": [
+        {
+          "question_id": 157,
+          "chapter_id": 40,
+          "question_stem": "men chuyển ở phổi tham gia xúc tác phản ứng",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 158,
+          "chapter_id": 40,
+          "question_stem": "Máu qua mao mạch thận.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 159,
+          "chapter_id": 40,
+          "question_stem": "máu qua mao mạch phổi.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 160,
+          "chapter_id": 40,
+          "question_stem": "máu qua mao mạch gan.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "chapter_id": 41,
+      "chapter_name": "Phản xạ điều hoà huyết áp xảy ra khi",
+      "questions": [
+        {
+          "question_id": 161,
+          "chapter_id": 41,
+          "question_stem": "huyết áp tăng tác động vào receptor áp suất ở quai động mạch chủ, xoang động mạch cảnh.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 162,
+          "chapter_id": 41,
+          "question_stem": "tăng cung cấp máu cho trung tâm vận mạch.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        },
+        {
+          "question_id": 163,
+          "chapter_id": 41,
+          "question_stem": "pH máu giảm kích thích receptor nhận cảm hóa học ở quai động mạch chủ và xoang động mạch cảnh.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "A",
+          "explanation": null
+        },
+        {
+          "question_id": 164,
+          "chapter_id": 41,
+          "question_stem": "CO2↓, O2↑ kích thích receptor nhận cảm hoá học ở quai động mạch chủ và xoang động mạch cảnh.",
+          "question_type": "true_false",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "correct_answer": "B",
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}
