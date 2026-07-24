@@ -1,5 +1,7 @@
 export async function loadQuestionBank(folder: string, file: string) {
-  const response = await fetch(`/data/${folder}/${file}`);
+  const response = await fetch(
+    `${import.meta.env.BASE_URL}data/${folder}/${file}`
+  );
 
   if (!response.ok) {
     throw new Error(`Không đọc được ${folder}/${file}`);
@@ -77,10 +79,7 @@ export async function loadQuestionBank(folder: string, file: string) {
     const map = new Map<string, number>();
 
     data.questions.forEach((q: any) => {
-      const name =
-        q.chapter ??
-        q.section ??
-        "Chưa phân chương";
+      const name = q.chapter ?? q.section ?? "Chưa phân chương";
 
       if (!map.has(name)) {
         map.set(name, map.size + 1);
