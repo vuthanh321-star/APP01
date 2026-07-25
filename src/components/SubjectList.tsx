@@ -3,6 +3,8 @@ import { SUBJECTS } from '../data/subjects';
 import { loadQuestionBank } from '../services/dataService';
 import './SubjectList.css';
 
+type Subject = typeof SUBJECTS[number];
+
 interface SubjectData {
   id: string;
   name: string;
@@ -11,7 +13,11 @@ interface SubjectData {
   error: boolean;
 }
 
-export const SubjectList: React.FC = () => {
+interface SubjectListProps {
+  onSelectSubject: (subject: Subject) => void;
+}
+
+export const SubjectList: React.FC<SubjectListProps> = ({ onSelectSubject }) => {
   const [subjects, setSubjects] = useState<SubjectData[]>([]);
   const [selectedId, setSelectedId] = useState<string>('01');
   const [isLoading, setIsLoading] = useState(true);
@@ -76,6 +82,11 @@ export const SubjectList: React.FC = () => {
   // Handle subject selection
   const handleSelectSubject = (subject: SubjectData) => {
     setSelectedId(subject.id);
+
+    const fullSubject = SUBJECTS.find(s => s.id === subject.id);
+    if (fullSubject) {
+      onSelectSubject(fullSubject);
+    }
   };
 
   return (
