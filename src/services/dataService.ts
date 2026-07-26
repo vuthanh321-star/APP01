@@ -1,3 +1,5 @@
+import { groupQuestionsByName } from './chapterGrouping';
+
 export async function loadQuestionBank(folder: string, file: string) {
   const response = await fetch(
     `${import.meta.env.BASE_URL}data/${folder}/${file}`
@@ -74,17 +76,11 @@ export async function loadQuestionBank(folder: string, file: string) {
   // ==========================================
   // FORMAT 4
   // questions only
+  // Grouping algorithm shared with quizService.ts via chapterGrouping.ts
+  // so this logic exists in exactly one place.
   // ==========================================
   if (Array.isArray(data.questions)) {
-    const map = new Map<string, number>();
-
-    data.questions.forEach((q: any) => {
-      const name = q.chapter ?? q.section ?? "Chưa phân chương";
-
-      if (!map.has(name)) {
-        map.set(name, map.size + 1);
-      }
-    });
+    const groups = groupQuestionsByName(data.questions);
 
     return {
       metadata: {
@@ -92,8 +88,8 @@ export async function loadQuestionBank(folder: string, file: string) {
           data.metadata?.total_questions ??
           data.questions.length,
       },
-      chapters: Array.from(map.entries()).map(([name, id]) => ({
-        chapter_id: id,
+      chapters: Array.from(groups.entries()).map(([name, group]) => ({
+        chapter_id: group.chapterId,
         chapter_name: name,
       })),
     };

@@ -5,7 +5,7 @@ import './ChapterList.css';
 
 type Subject = typeof SUBJECTS[number];
 
-interface ChapterData {
+export interface ChapterData {
   chapter_id: number | string;
   chapter_name: string;
 }
@@ -13,9 +13,10 @@ interface ChapterData {
 interface ChapterListProps {
   subject: Subject;
   onBack: () => void;
+  onSelectChapter: (chapter: ChapterData) => void;
 }
 
-export const ChapterList: React.FC<ChapterListProps> = ({ subject, onBack }) => {
+export const ChapterList: React.FC<ChapterListProps> = ({ subject, onBack, onSelectChapter }) => {
   const [chapters, setChapters] = useState<ChapterData[]>([]);
   const [selectedChapterId, setSelectedChapterId] = useState<string | number | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -52,6 +53,7 @@ export const ChapterList: React.FC<ChapterListProps> = ({ subject, onBack }) => 
 
   const handleSelectChapter = (chapter: ChapterData) => {
     setSelectedChapterId(chapter.chapter_id);
+    onSelectChapter(chapter);
   };
 
   return (
